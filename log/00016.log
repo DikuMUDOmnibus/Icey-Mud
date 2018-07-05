@@ -1,0 +1,1641 @@
+Mon Jul  5 00:55:58 1999 :: spell_mana_transfer: not touched
+Mon Jul  5 00:55:58 1999 :: spell_plant_form: not touched
+Mon Jul  5 00:56:03 1999 :: fix_exits: 4121:0 -> 41212:2 -> 41213.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 120013:0 -> 120006:2 -> 120014.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 40202:3 -> 40206:1 -> 40207.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 40202:5 -> 40200:4 -> 40201.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 40203:4 -> 40205:5 -> 40204.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 40205:1 -> 40203:3 -> 40208.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 40206:4 -> 40202:5 -> 40200.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 297:3 -> 206:1 -> 205.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33131:5 -> 3054:4 -> 1215.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33176:0 -> 33176:2 -> 33178.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 9735:2 -> 9736:0 -> 17271.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33302:1 -> 33304:3 -> 33306.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33303:1 -> 33304:3 -> 33306.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33306:0 -> 33304:2 -> 33305.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33306:3 -> 33304:1 -> 33305.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33307:1 -> 33305:3 -> 33304.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33307:2 -> 33305:0 -> 33304.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33307:3 -> 33304:1 -> 33305.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33309:0 -> 33304:2 -> 33305.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33309:1 -> 33306:3 -> 33304.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 33309:2 -> 33305:0 -> 33304.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 4716:2 -> 4708:0 -> 4717.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27346:0 -> 27346:2 -> 27345.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27347:3 -> 27346:1 -> 27349.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27349:0 -> 27349:2 -> 27348.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27352:0 -> 27352:2 -> 27351.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27352:3 -> 27569:1 -> 27551.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27355:2 -> 27391:0 -> 27356.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 13020:1 -> 13025:3 -> 13019.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27363:0 -> 27537:2 -> 27557.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27363:3 -> 27572:1 -> 27571.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27365:0 -> 27536:2 -> 27566.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27365:2 -> 27533:0 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27366:2 -> 27533:0 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27366:3 -> 27557:1 -> 27557.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27367:0 -> 27555:2 -> 27552.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27367:1 -> 27536:3 -> 27535.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27368:0 -> 27560:2 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27368:2 -> 27533:0 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27369:0 -> 27537:2 -> 27557.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27369:3 -> 27557:1 -> 27557.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27370:1 -> 27533:3 -> 27536.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27370:2 -> 27536:0 -> 27544.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27371:0 -> 27557:2 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27371:2 -> 27535:0 -> 27540.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27372:2 -> 27534:0 -> 27542.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27372:3 -> 27474:1 -> 27534.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27373:1 -> 27557:3 -> 27533.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27376:2 -> 27474:0 -> 27474.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 13053:2 -> 13052:0 -> 13052.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27391:1 -> 27391:3 -> 27453.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27391:2 -> 27391:0 -> 27356.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27398:2 -> 27398:0 -> 27405.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27412:0 -> 27412:2 -> 27409.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27413:0 -> 27413:2 -> 27408.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27419:3 -> 27419:1 -> 27425.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27420:1 -> 27425:3 -> 27419.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27420:3 -> 27420:1 -> 27425.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27421:0 -> 27421:2 -> 27420.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27421:1 -> 27425:3 -> 27419.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27421:3 -> 27421:1 -> 27425.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27432:3 -> 27432:1 -> 27431.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27433:3 -> 27433:1 -> 27435.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27434:0 -> 27434:2 -> 27433.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27434:3 -> 27434:1 -> 27436.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27435:1 -> 27430:3 -> 27431.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27436:0 -> 27436:2 -> 27435.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27436:1 -> 27430:3 -> 27431.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27437:3 -> 27437:1 -> 27442.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27438:3 -> 27438:1 -> 27441.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27439:0 -> 27439:2 -> 27438.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27439:3 -> 27439:1 -> 27440.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27440:0 -> 27440:2 -> 27441.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27444:1 -> 27447:3 -> 27443.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27445:0 -> 27445:2 -> 27444.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27445:1 -> 27447:3 -> 27443.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27446:0 -> 27439:2 -> 27438.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27447:0 -> 27439:2 -> 27438.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27448:2 -> 27448:0 -> 27397.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27448:3 -> 27448:1 -> 27449.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27449:2 -> 27449:0 -> 27396.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27455:1 -> 27455:3 -> 27456.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27455:2 -> 27455:0 -> 27453.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27456:2 -> 27456:0 -> 27452.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27457:2 -> 27457:0 -> 27451.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27458:2 -> 27458:0 -> 27450.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27458:3 -> 27458:1 -> 27457.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27464:1 -> 27464:3 -> 27510.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27466:3 -> 27466:1 -> 27465.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27470:0 -> 27470:2 -> 27469.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27471:0 -> 27471:2 -> 27472.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27473:0 -> 27473:2 -> 27511.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27474:0 -> 27474:2 -> 27556.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27474:3 -> 27547:1 -> 27547.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27475:1 -> 27474:3 -> 27547.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 12124:1 -> 12154:3 -> 12154.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 12125:1 -> 12153:3 -> 12153.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 12126:3 -> 12152:1 -> 12152.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27487:2 -> 27496:0 -> 27495.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 12127:3 -> 12151:1 -> 12151.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27491:2 -> 27496:0 -> 27495.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27491:3 -> 27496:1 -> 27487.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27496:2 -> 27496:0 -> 27495.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27497:3 -> 27497:1 -> 27496.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27499:3 -> 27499:1 -> 27494.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27500:3 -> 27500:1 -> 27493.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27501:0 -> 27501:2 -> 27510.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27502:3 -> 27502:1 -> 27498.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27503:3 -> 27503:1 -> 27506.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27504:0 -> 27504:2 -> 27503.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27504:3 -> 27504:1 -> 27505.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27505:0 -> 27505:2 -> 27506.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27507:0 -> 27507:2 -> 27464.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27507:1 -> 27507:3 -> 27501.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27511:3 -> 27504:1 -> 27505.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27518:2 -> 27391:0 -> 27356.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27533:0 -> 27561:2 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27533:2 -> 27533:0 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27534:0 -> 27542:2 -> 27539.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27535:0 -> 27540:2 -> 27565.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27535:2 -> 27533:0 -> 27561.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27536:0 -> 27544:2 -> 27544.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27536:2 -> 27566:0 -> 27566.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27537:0 -> 27549:2 -> 27565.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27537:2 -> 27557:0 -> 27557.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27537:3 -> 27572:1 -> 27571.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27538:1 -> 27543:3 -> 27542.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27538:2 -> 27534:0 -> 27542.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27540:2 -> 27565:0 -> 27474.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27540:3 -> 27559:1 -> 27536.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27541:0 -> 27550:2 -> 27571.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27541:3 -> 27536:1 -> 27533.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27542:0 -> 27542:2 -> 27539.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27543:0 -> 27533:2 -> 27533.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27543:1 -> 27546:3 -> 27554.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27544:2 -> 27544:0 -> 27543.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27545:2 -> 27547:0 -> 27542.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27546:1 -> 27572:3 -> 27573.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27546:3 -> 27554:1 -> 27554.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 47002:5 -> 1220:4 -> 1221.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27547:0 -> 27542:2 -> 27539.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27547:1 -> 27547:3 -> 27548.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27548:2 -> 27543:0 -> 27533.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27549:0 -> 27552:2 -> 27552.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27549:2 -> 27565:0 -> 27474.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27550:2 -> 27571:0 -> 27568.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27550:3 -> 27543:1 -> 27546.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27551:0 -> 27545:2 -> 27547.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27551:3 -> 27558:1 -> 27569.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27552:0 -> 27543:2 -> 27544.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27552:2 -> 27552:0 -> 27543.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27553:1 -> 27562:3 -> 27546.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27554:0 -> 27557:2 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27554:1 -> 27554:3 -> 27555.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27555:2 -> 27552:0 -> 27543.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27556:2 -> 27551:0 -> 27545.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27556:3 -> 27564:1 -> 27563.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27557:0 -> 27557:2 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27557:1 -> 27557:3 -> 27533.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27558:1 -> 27569:3 -> 27568.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27558:3 -> 27565:1 -> 27539.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27559:1 -> 27536:3 -> 27535.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27559:3 -> 27564:1 -> 27563.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27560:1 -> 27540:3 -> 27559.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27560:3 -> 27560:1 -> 27540.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27561:1 -> 27551:3 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27561:2 -> 27561:0 -> 27560.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27562:2 -> 27570:0 -> 27569.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27562:3 -> 27546:1 -> 27572.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27564:1 -> 27563:3 -> 27563.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27564:3 -> 27539:1 -> 27544.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27565:0 -> 27474:2 -> 27556.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27565:1 -> 27539:3 -> 27540.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27566:0 -> 27566:2 -> 27567.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27566:3 -> 27554:1 -> 27554.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27567:1 -> 27564:3 -> 27539.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27567:3 -> 27553:1 -> 27562.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27569:0 -> 27569:2 -> 27570.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27569:1 -> 27551:3 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27570:1 -> 27352:3 -> 27569.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27570:2 -> 27363:0 -> 27537.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27571:2 -> 27556:0 -> 27474.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50100:0 -> 50100:2 -> 50101.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50100:3 -> 50100:1 -> 50005.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27572:0 -> 27557:2 -> 27558.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27572:2 -> 27368:0 -> 27560.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50101:2 -> 50101:0 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50101:3 -> 50100:1 -> 50005.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27573:0 -> 27544:2 -> 27544.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27573:2 -> 27369:0 -> 27537.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27573:3 -> 27546:1 -> 27572.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50102:0 -> 50103:2 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50102:1 -> 50101:3 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50102:2 -> 50102:0 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27574:1 -> 27448:3 -> 27448.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27574:2 -> 27574:0 -> 27399.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 27574:3 -> 27458:1 -> 27457.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50103:0 -> 50102:2 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50103:1 -> 50102:3 -> 50101.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50103:2 -> 50103:0 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50103:3 -> 50104:1 -> 50104.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50104:0 -> 50104:2 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50104:1 -> 50104:3 -> 50105.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50104:2 -> 50103:0 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50104:3 -> 50105:1 -> 50106.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50105:0 -> 50104:2 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50105:2 -> 50100:0 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50105:3 -> 50104:1 -> 50104.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50106:0 -> 50107:2 -> 50101.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50106:1 -> 50101:3 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50106:2 -> 50106:0 -> 50107.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50107:0 -> 50105:2 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50107:1 -> 50103:3 -> 50104.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50107:2 -> 50101:0 -> 50100.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50107:3 -> 50108:1 -> 50105.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50108:0 -> 50106:2 -> 50106.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50108:1 -> 50105:3 -> 50104.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50108:2 -> 50109:0 -> 50107.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50108:3 -> 50104:1 -> 50104.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50109:0 -> 50107:2 -> 50101.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50109:1 -> 50110:3 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50109:2 -> 50107:0 -> 50105.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50109:3 -> 50103:1 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50110:0 -> 50111:2 -> 50108.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50110:1 -> 50107:3 -> 50108.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50110:2 -> 50102:0 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50110:3 -> 50112:1 -> 50111.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50111:0 -> 50103:2 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50111:1 -> 50109:3 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50111:2 -> 50108:0 -> 50106.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50112:0 -> 50104:2 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50112:2 -> 50113:0 -> 50106.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50112:3 -> 50111:1 -> 50109.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50113:0 -> 50106:2 -> 50106.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50113:1 -> 50114:3 -> 50114.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50113:2 -> 50103:0 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50113:3 -> 50110:1 -> 50107.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50114:0 -> 50115:2 -> 50111.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50114:1 -> 50113:3 -> 50110.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50114:2 -> 50109:0 -> 50107.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50114:3 -> 50114:1 -> 50113.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50115:0 -> 50108:2 -> 50109.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50115:1 -> 50111:3 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50115:2 -> 50111:0 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50115:3 -> 50116:1 -> 50109.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50116:0 -> 50110:2 -> 50102.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50116:1 -> 50109:3 -> 50103.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50116:2 -> 50117:0 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50116:3 -> 50115:1 -> 50111.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50117:0 -> 50112:2 -> 50113.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50117:2 -> 50115:0 -> 50108.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50117:3 -> 50116:1 -> 50109.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50118:0 -> 50114:2 -> 50109.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50118:1 -> 50111:3 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50118:2 -> 50119:0 -> 50116.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50119:0 -> 50116:2 -> 50117.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50119:1 -> 50113:3 -> 50110.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50119:2 -> 50117:0 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50119:3 -> 50120:1 -> 50117.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50120:1 -> 50117:3 -> 50116.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50120:2 -> 50119:0 -> 50116.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50120:3 -> 50118:1 -> 50111.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50121:0 -> 50121:2 -> 50120.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50121:1 -> 50122:3 -> 50120.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50121:3 -> 50119:1 -> 50113.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50122:0 -> 50123:2 -> 50117.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50122:1 -> 50118:3 -> 50117.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50122:2 -> 50119:0 -> 50116.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50122:3 -> 50120:1 -> 50117.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50123:0 -> 50115:2 -> 50111.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50123:1 -> 50116:3 -> 50115.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50123:2 -> 50117:0 -> 50112.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50123:3 -> 50124:1 -> 50113.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50124:0 -> 50112:2 -> 50113.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50124:1 -> 50113:3 -> 50110.
+Mon Jul  5 00:56:03 1999 :: fix_exits: 50124:3 -> 114:1 -> 109.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Equip_char: already equipped (14).
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Mon Jul  5 00:56:08 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Mon Jul  5 00:56:08 1999 :: ready to rock on port 4000.
+Mon Jul  5 00:56:08 1999 :: info service started on port 4001.
+Mon Jul  5 01:14:26 1999 :: sock.sinaddr: 206.245.158.35
+Mon Jul  5 01:14:26 1999 :: EOF encountered on read.
+Mon Jul  5 01:49:32 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Mon Jul  5 06:00:47 1999 :: sock.sinaddr: 209.109.224.180
+Mon Jul  5 06:00:56 1999 :: EOF encountered on read.
+Reseting area: [P] OBJ limit reached
+Mon Jul  5 07:21:50 1999 :: sock.sinaddr: 203.43.89.6
+Mon Jul  5 07:22:00 1999 :: resolver_loop: Jaira@203.43.89.6
+Mon Jul  5 07:22:01 1999 :: resolv_done: Jaira@snafu.net.au
+Mon Jul  5 07:27:48 1999 :: Jaira@snafu.net.au new player.
+Mon Jul  5 07:28:09 1999 :: Jaira has quit.
+Reseting area: [P] OBJ limit reached
+Mon Jul  5 09:51:31 1999 :: sock.sinaddr: 209.109.224.248
+Mon Jul  5 09:53:31 1999 :: Loading Kairi.
+Mon Jul  5 09:53:31 1999 :: resolver_loop: Kairi@209.109.224.248
+Mon Jul  5 09:53:31 1999 :: resolv_done: Kairi@nyc-ny65-56.ix.netcom.com
+Mon Jul  5 09:53:32 1999 :: Loading Kairi.
+Mon Jul  5 09:53:32 1999 :: Kairi@nyc-ny65-56.ix.netcom.com has connected.
+Mon Jul  5 09:53:44 1999 :: Kairi has quit.
+Mon Jul  5 09:53:44 1999 :: sock.sinaddr: 209.109.224.248
+Mon Jul  5 09:53:46 1999 :: EOF encountered on read.
+Mon Jul  5 10:11:14 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:13:01 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:13:02 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:15:07 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:16:13 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:16:14 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:16:14 1999 :: Wiegraf has quit.
+Mon Jul  5 10:16:15 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:16:18 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:16:18 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:17:27 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:21:32 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:21:33 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:21:33 1999 :: Wiegraf has quit.
+Mon Jul  5 10:21:35 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:21:40 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:21:41 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:22:17 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:24:09 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:24:09 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:24:09 1999 :: Wiegraf has quit.
+Mon Jul  5 10:24:11 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:24:21 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:24:21 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:24:44 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:26:06 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:26:07 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:26:07 1999 :: Wiegraf has quit.
+Mon Jul  5 10:26:11 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:26:47 1999 :: resolver_loop: Izlude@208.132.43.29
+Mon Jul  5 10:26:47 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Mon Jul  5 10:30:04 1999 :: sock.sinaddr: 167.206.60.154
+Mon Jul  5 10:30:06 1999 :: Loading Momo.
+Mon Jul  5 10:30:06 1999 :: resolver_loop: Momo@167.206.60.154
+Mon Jul  5 10:30:06 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Mon Jul  5 10:30:08 1999 :: Loading Momo.
+Mon Jul  5 10:30:08 1999 :: Momo@bab60-154.optonline.net has connected.
+Mon Jul  5 10:30:25 1999 :: Izlude@elp-43-29.raex.com new player.
+Mon Jul  5 10:33:09 1999 :: Log Izlude: delete
+Mon Jul  5 10:33:09 1999 :: Log Izlude: delete
+Mon Jul  5 10:33:09 1999 :: Izlude has quit.
+Mon Jul  5 10:33:11 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:33:13 1999 :: resolver_loop: Izlude@208.132.43.29
+Mon Jul  5 10:33:13 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Mon Jul  5 10:36:57 1999 :: Izlude@elp-43-29.raex.com new player.
+Mon Jul  5 10:37:12 1999 :: Log Izlude: delete
+Mon Jul  5 10:37:12 1999 :: Log Izlude: delete
+Mon Jul  5 10:37:12 1999 :: Izlude has quit.
+Mon Jul  5 10:37:14 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:37:16 1999 :: resolver_loop: Izlude@208.132.43.29
+Mon Jul  5 10:37:16 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Mon Jul  5 10:40:47 1999 :: Izlude@elp-43-29.raex.com new player.
+Mon Jul  5 10:46:10 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:46:21 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:46:21 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:49:33 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:49:43 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:49:44 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:49:44 1999 :: Wiegraf has quit.
+Mon Jul  5 10:49:46 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:49:55 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:49:56 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:52:56 1999 :: Wiegraf@elp-43-29.raex.com new player.
+Mon Jul  5 10:53:06 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:53:06 1999 :: Log Wiegraf: delete
+Mon Jul  5 10:53:06 1999 :: Wiegraf has quit.
+Mon Jul  5 10:53:08 1999 :: sock.sinaddr: 208.132.43.29
+Mon Jul  5 10:53:10 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Mon Jul  5 10:53:10 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Mon Jul  5 10:54:17 1999 :: back_home: reset place not found
+Mon Jul  5 10:55:12 1999 :: Log Izlude: delete
+Mon Jul  5 10:55:13 1999 :: Log Izlude: delete
+Mon Jul  5 10:55:13 1999 :: Izlude has quit.
+Mon Jul  5 10:55:43 1999 :: EOF encountered on read.
+Mon Jul  5 10:55:43 1999 :: Closing link to Wiegraf.
+Read_from_descriptor: Connection reset by peer
+Mon Jul  5 11:42:41 1999 :: Closing link to Momo.
+Mon Jul  5 12:27:32 1999 :: sock.sinaddr: 194.64.181.225
+Mon Jul  5 12:27:38 1999 :: Loading Voashnoon.
+Mon Jul  5 12:27:38 1999 :: resolver_loop: Voashnoon@194.64.181.225
+Mon Jul  5 12:27:39 1999 :: resolv_done: Voashnoon@deck-193.frankfurt.netsurf.de
+Mon Jul  5 12:27:42 1999 :: Loading Voashnoon.
+Mon Jul  5 12:27:42 1999 :: Voashnoon@deck-193.frankfurt.netsurf.de has connected.
+Mon Jul  5 12:28:33 1999 :: Voashnoon has quit.
+Mon Jul  5 12:28:36 1999 :: sock.sinaddr: 194.64.181.225
+Mon Jul  5 12:28:38 1999 :: Loading Thragan.
+Mon Jul  5 12:28:38 1999 :: resolver_loop: Thragan@194.64.181.225
+Mon Jul  5 12:28:39 1999 :: resolv_done: Thragan@deck-193.frankfurt.netsurf.de
+Mon Jul  5 12:28:42 1999 :: Loading Thragan.
+Mon Jul  5 12:28:42 1999 :: Thragan@deck-193.frankfurt.netsurf.de has connected.
+Mon Jul  5 12:31:29 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 12:31:48 1999 :: Loading Erebus.
+Mon Jul  5 12:31:48 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 12:31:48 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 12:31:58 1999 :: Loading Erebus.
+Mon Jul  5 12:31:58 1999 :: Erebus@pm2-1.ppp14.wmol.com has connected.
+Mon Jul  5 12:34:04 1999 :: Log Erebus: snoop thra
+Mon Jul  5 12:35:35 1999 :: Log Erebus: snoop self
+Mon Jul  5 12:41:51 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Mon Jul  5 12:45:42 1999 :: EOF encountered on read.
+Mon Jul  5 12:45:42 1999 :: Closing link to Erebus.
+Mon Jul  5 12:46:25 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 12:46:27 1999 :: Loading Erebus.
+Mon Jul  5 12:46:27 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 12:46:27 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 12:46:28 1999 :: Erebus@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 12:48:17 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 12:48:52 1999 :: resolver_loop: Dharluk@208.242.83.223
+Mon Jul  5 12:48:53 1999 :: resolv_done: Dharluk@pm2-1.ppp14.wmol.com
+Mon Jul  5 12:49:32 1999 :: oldstyle chief gnome: wait state 12
+Mon Jul  5 12:51:50 1999 :: Dharluk@pm2-1.ppp14.wmol.com new player.
+Mon Jul  5 12:57:48 1999 :: Log Erebus: restore all
+Mon Jul  5 12:58:14 1999 :: Log Erebus: set mob dhar int 25
+Mon Jul  5 13:01:06 1999 :: Log Erebus: set mob dhar str 25
+Mon Jul  5 13:01:16 1999 :: Log Erebus: set mob dhar dex 25
+Mon Jul  5 13:29:12 1999 :: sock.sinaddr: 199.174.48.224
+Mon Jul  5 13:29:21 1999 :: resolver_loop: Garylian@199.174.48.224
+Mon Jul  5 13:29:21 1999 :: resolv_done: Garylian@user-33qsc70.dialup.mindspring.com
+Mon Jul  5 13:34:55 1999 :: Garylian@user-33qsc70.dialup.mindspring.com new player.
+Mon Jul  5 13:40:08 1999 :: Log Erebus: snoop thra
+Mon Jul  5 13:40:14 1999 :: Log Erebus: snoop self
+Mon Jul  5 13:41:22 1999 :: Thragan has quit.
+Mon Jul  5 13:47:01 1999 :: Log Erebus: snoop gary
+Mon Jul  5 13:49:34 1999 :: Dharluk: 'leg' of a vampire bat
+Mon Jul  5 13:59:35 1999 :: Log Erebus: snoop self
+Mon Jul  5 13:59:52 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 13:59:54 1999 :: Loading Erebus.
+Mon Jul  5 13:59:54 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 13:59:54 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 14:00:21 1999 :: Closing link to Erebus.
+Mon Jul  5 14:00:21 1999 :: Erebus@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 14:00:22 1999 :: EOF encountered on read.
+Mon Jul  5 14:00:22 1999 :: Closing link to Erebus.
+Mon Jul  5 14:00:28 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 14:00:29 1999 :: Loading Erebus.
+Mon Jul  5 14:00:29 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 14:00:29 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 14:00:30 1999 :: Erebus@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 14:01:53 1999 :: Log Erebus: snoop gary
+Mon Jul  5 14:04:38 1999 :: EOF encountered on read.
+Mon Jul  5 14:04:38 1999 :: Closing link to Erebus.
+Mon Jul  5 14:05:12 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 14:05:13 1999 :: Loading Erebus.
+Mon Jul  5 14:05:13 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 14:05:13 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 14:05:14 1999 :: Erebus@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 14:06:14 1999 :: Log Erebus: snoop gary
+Mon Jul  5 14:14:21 1999 :: Log Erebus: snoop self
+Mon Jul  5 14:18:35 1999 :: pm2-1.ppp14.wmol.com input spamming!
+Mon Jul  5 14:18:54 1999 :: [*****] BUG: Buffer overflow. Closing.
+
+Mon Jul  5 14:18:54 1999 :: Closing link to Erebus.
+Read_from_descriptor: Connection reset by peer
+Mon Jul  5 14:19:38 1999 :: Closing link to Dharluk.
+Mon Jul  5 14:20:43 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 14:20:44 1999 :: Loading Erebus.
+Mon Jul  5 14:20:44 1999 :: resolver_loop: Erebus@208.242.83.223
+Mon Jul  5 14:20:44 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Mon Jul  5 14:20:45 1999 :: Erebus@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 14:21:01 1999 :: sock.sinaddr: 208.242.83.223
+Mon Jul  5 14:21:02 1999 :: Loading Dharluk.
+Mon Jul  5 14:21:02 1999 :: resolver_loop: Dharluk@208.242.83.223
+Mon Jul  5 14:21:02 1999 :: resolv_done: Dharluk@pm2-1.ppp14.wmol.com
+Mon Jul  5 14:21:03 1999 :: Dharluk@pm2-1.ppp14.wmol.com reconnected.
+Mon Jul  5 14:22:24 1999 :: Log Erebus: snoop gary
+Mon Jul  5 14:23:13 1999 :: Log Erebus: snoop self
+Mon Jul  5 14:32:30 1999 :: Log Erebus: snoop gary
+Mon Jul  5 14:36:59 1999 :: Garylian has quit.
+Mon Jul  5 14:37:19 1999 :: Dharluk has quit.
+Mon Jul  5 15:10:03 1999 :: sock.sinaddr: 152.173.180.108
+Mon Jul  5 15:10:06 1999 :: Loading Lazorus.
+Mon Jul  5 15:10:06 1999 :: resolver_loop: Lazorus@152.173.180.108
+Mon Jul  5 15:10:06 1999 :: resolv_done: Lazorus@98ADB46C.ipt.aol.com
+Mon Jul  5 15:10:07 1999 :: Loading Lazorus.
+Mon Jul  5 15:10:07 1999 :: Lazorus@98ADB46C.ipt.aol.com has connected.
+Mon Jul  5 15:10:22 1999 :: Lazorus has quit.
+Mon Jul  5 15:10:23 1999 :: sock.sinaddr: 152.173.180.108
+Mon Jul  5 15:18:43 1999 :: Erebus has quit.
+Mon Jul  5 15:59:52 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 16:00:06 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 16:00:06 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 16:02:02 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 16:03:05 1999 :: Log Izlude: delete
+Mon Jul  5 16:03:05 1999 :: Log Izlude: delete
+Mon Jul  5 16:03:05 1999 :: Izlude has quit.
+Mon Jul  5 16:03:07 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 16:03:09 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 16:03:09 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 16:05:11 1999 :: EOF encountered on read.
+Mon Jul  5 16:05:11 1999 :: Closing link to Izlude.
+Mon Jul  5 16:17:56 1999 :: sock.sinaddr: 194.64.181.193
+Mon Jul  5 16:18:18 1999 :: EOF encountered on read.
+new_descriptor: accept: Connection timed out
+Mon Jul  5 16:31:57 1999 :: sock.sinaddr: 208.242.83.236
+Mon Jul  5 16:32:01 1999 :: Loading Erebus.
+Mon Jul  5 16:32:01 1999 :: resolver_loop: Erebus@208.242.83.236
+Mon Jul  5 16:32:01 1999 :: resolv_done: Erebus@pm2-1.ppp27.wmol.com
+Mon Jul  5 16:32:02 1999 :: Loading Erebus.
+Mon Jul  5 16:32:02 1999 :: Erebus@pm2-1.ppp27.wmol.com has connected.
+Mon Jul  5 16:32:27 1999 :: Erebus has quit.
+Mon Jul  5 16:35:58 1999 :: sock.sinaddr: 167.206.60.154
+Mon Jul  5 16:36:01 1999 :: Loading Momo.
+Mon Jul  5 16:36:01 1999 :: resolver_loop: Momo@167.206.60.154
+Mon Jul  5 16:36:01 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Mon Jul  5 16:36:02 1999 :: Momo@bab60-154.optonline.net reconnected.
+Mon Jul  5 16:39:58 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 16:40:04 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 16:40:04 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 16:41:24 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 16:41:43 1999 :: Log Izlude: delete
+Mon Jul  5 16:41:43 1999 :: Log Izlude: delete
+Mon Jul  5 16:41:43 1999 :: Izlude has quit.
+Mon Jul  5 16:41:45 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 16:41:46 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 16:41:47 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 16:43:03 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 16:45:39 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 16:46:10 1999 :: resolver_loop: Wiegraf@208.132.43.59
+Mon Jul  5 16:46:10 1999 :: resolv_done: Wiegraf@elp-43-59.raex.com
+Mon Jul  5 16:48:46 1999 :: Wiegraf@elp-43-59.raex.com new player.
+Mon Jul  5 17:08:45 1999 :: Log Izlude: delete
+Mon Jul  5 17:08:46 1999 :: Log Izlude: delete
+Mon Jul  5 17:08:48 1999 :: Log Izlude: delete
+Mon Jul  5 17:08:48 1999 :: Log Izlude: delete
+Mon Jul  5 17:08:48 1999 :: Izlude has quit.
+Mon Jul  5 17:08:49 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 17:08:55 1999 :: Log Wiegraf: delete
+Mon Jul  5 17:08:56 1999 :: Log Wiegraf: delete
+Mon Jul  5 17:08:56 1999 :: Wiegraf has quit.
+Mon Jul  5 17:08:57 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 17:09:08 1999 :: EOF encountered on read.
+Mon Jul  5 17:09:12 1999 :: EOF encountered on read.
+Mon Jul  5 17:10:11 1999 :: EOF encountered on read.
+Mon Jul  5 17:10:11 1999 :: Closing link to Momo.
+Mon Jul  5 17:44:43 1999 :: Loading Lazorus.
+Mon Jul  5 17:44:43 1999 :: resolver_loop: Lazorus@152.173.180.108
+Mon Jul  5 17:44:43 1999 :: resolv_done: Lazorus@98ADB46C.ipt.aol.com
+Mon Jul  5 17:44:45 1999 :: Loading Lazorus.
+Mon Jul  5 17:44:45 1999 :: Lazorus@98ADB46C.ipt.aol.com has connected.
+Mon Jul  5 17:44:57 1999 :: Lazorus has quit.
+Mon Jul  5 17:44:58 1999 :: sock.sinaddr: 152.173.180.108
+Mon Jul  5 18:01:50 1999 :: sock.sinaddr: 194.195.95.43
+Mon Jul  5 18:01:56 1999 :: Loading Thragan.
+Mon Jul  5 18:01:56 1999 :: resolver_loop: Thragan@194.195.95.43
+Mon Jul  5 18:01:56 1999 :: resolv_done: Thragan@n0-06-043.frankfurt.netsurf.de
+Mon Jul  5 18:01:59 1999 :: Loading Thragan.
+Mon Jul  5 18:01:59 1999 :: Thragan@n0-06-043.frankfurt.netsurf.de has connected.
+Mon Jul  5 18:12:20 1999 :: deduct cost: Thragan: ch->silver (21) < silver (-68)
+Mon Jul  5 18:12:20 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-68)
+Mon Jul  5 18:12:20 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-68)
+Mon Jul  5 18:12:46 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:54 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:55 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:55 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:57 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:12:57 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Mon Jul  5 18:14:30 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-76)
+Mon Jul  5 18:14:37 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-88)
+Mon Jul  5 18:30:34 1999 :: EOF encountered on read.
+Mon Jul  5 18:59:08 1999 :: deduct cost: blacksmith vendy: ch->silver (36) < silver (-34)
+Mon Jul  5 18:59:08 1999 :: deduct cost: blacksmith vendy: ch->silver (0) < silver (-84)
+Mon Jul  5 18:59:09 1999 :: deduct cost: blacksmith vendy: ch->silver (0) < silver (-34)
+Mon Jul  5 18:59:09 1999 :: deduct cost: blacksmith vendy: ch->silver (0) < silver (-90)
+Mon Jul  5 18:59:09 1999 :: deduct cost: blacksmith vendy: ch->silver (0) < silver (-20)
+Mon Jul  5 19:11:58 1999 :: sock.sinaddr: 209.109.227.118
+Mon Jul  5 19:12:03 1999 :: EOF encountered on read.
+Mon Jul  5 19:42:59 1999 :: Thragan has quit.
+Mon Jul  5 20:21:13 1999 :: sock.sinaddr: 167.206.60.154
+Mon Jul  5 20:21:18 1999 :: Loading Momo.
+Mon Jul  5 20:21:19 1999 :: resolver_loop: Momo@167.206.60.154
+Mon Jul  5 20:21:19 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Mon Jul  5 20:21:21 1999 :: Momo@bab60-154.optonline.net reconnected.
+Mon Jul  5 20:21:28 1999 :: Momo has quit.
+Mon Jul  5 20:36:49 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:36:57 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:36:57 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:41:26 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 20:41:57 1999 :: Log Izlude: delete
+Mon Jul  5 20:41:57 1999 :: Log Izlude: delete
+Mon Jul  5 20:41:57 1999 :: Izlude has quit.
+Mon Jul  5 20:42:02 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:42:03 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:42:04 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:43:57 1999 :: sock.sinaddr: 208.242.83.216
+Mon Jul  5 20:44:03 1999 :: EOF encountered on read.
+Mon Jul  5 20:44:25 1999 :: sock.sinaddr: 208.242.83.216
+Mon Jul  5 20:44:26 1999 :: Loading Erebus.
+Mon Jul  5 20:44:27 1999 :: resolver_loop: Erebus@208.242.83.216
+Mon Jul  5 20:44:27 1999 :: resolv_done: Erebus@pm2-1.ppp7.wmol.com
+Mon Jul  5 20:44:28 1999 :: Loading Erebus.
+Mon Jul  5 20:44:28 1999 :: Erebus@pm2-1.ppp7.wmol.com has connected.
+Mon Jul  5 20:44:32 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 20:44:44 1999 :: Log Erebus: snoop iz
+Mon Jul  5 20:44:54 1999 :: Log Izlude: delete
+Mon Jul  5 20:44:54 1999 :: Log Izlude: delete
+Mon Jul  5 20:44:54 1999 :: Izlude has quit.
+Mon Jul  5 20:44:58 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:45:01 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:45:01 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:46:23 1999 :: sock.sinaddr: 208.242.83.216
+Mon Jul  5 20:46:48 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 20:47:01 1999 :: Log Erebus: snoop iz
+Mon Jul  5 20:49:36 1999 :: Log Erebus: snoop self
+Mon Jul  5 20:50:29 1999 :: resolver_loop: Toliandrus@208.242.83.216
+Mon Jul  5 20:50:29 1999 :: resolv_done: Toliandrus@pm2-1.ppp7.wmol.com
+Mon Jul  5 20:52:33 1999 :: Toliandrus@pm2-1.ppp7.wmol.com new player.
+Mon Jul  5 20:53:03 1999 :: Log Izlude: delete
+Mon Jul  5 20:53:04 1999 :: Log Izlude: delete
+Mon Jul  5 20:53:04 1999 :: Izlude has quit.
+Mon Jul  5 20:53:06 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:53:07 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:53:08 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:54:47 1999 :: EOF encountered on read.
+Mon Jul  5 20:54:47 1999 :: Closing link to Izlude.
+Mon Jul  5 20:54:50 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:54:52 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:54:53 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:55:39 1999 :: Log Erebus: set toli dex 26
+Mon Jul  5 20:55:49 1999 :: Log Erebus: set mob toli dex 26
+Mon Jul  5 20:58:14 1999 :: EOF encountered on read.
+Mon Jul  5 20:58:14 1999 :: Closing link to Izlude.
+Mon Jul  5 20:58:16 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:58:19 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:58:19 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 20:59:25 1999 :: EOF encountered on read.
+Mon Jul  5 20:59:25 1999 :: Closing link to Izlude.
+Mon Jul  5 20:59:27 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 20:59:29 1999 :: resolver_loop: Izlude@208.132.43.59
+Mon Jul  5 20:59:29 1999 :: resolv_done: Izlude@elp-43-59.raex.com
+Mon Jul  5 21:00:50 1999 :: Izlude@elp-43-59.raex.com new player.
+Mon Jul  5 21:02:57 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 21:03:01 1999 :: resolver_loop: Wiegraf@208.132.43.59
+Mon Jul  5 21:03:01 1999 :: resolv_done: Wiegraf@elp-43-59.raex.com
+Mon Jul  5 21:03:47 1999 :: Log Erebus: snoop izl
+Mon Jul  5 21:04:05 1999 :: Log Erebus: snoop self
+Mon Jul  5 21:04:32 1999 :: Wiegraf@elp-43-59.raex.com new player.
+Mon Jul  5 21:05:28 1999 :: Toliandrus has quit.
+Mon Jul  5 21:06:05 1999 :: sock.sinaddr: 208.242.83.216
+Mon Jul  5 21:06:10 1999 :: resolver_loop: Retholien@208.242.83.216
+Mon Jul  5 21:06:10 1999 :: resolv_done: Retholien@pm2-1.ppp7.wmol.com
+Mon Jul  5 21:12:12 1999 :: Retholien@pm2-1.ppp7.wmol.com new player.
+Mon Jul  5 21:12:39 1999 :: Retholien has quit.
+Mon Jul  5 21:12:43 1999 :: sock.sinaddr: 208.242.83.216
+Mon Jul  5 21:12:44 1999 :: resolver_loop: Retholien@208.242.83.216
+Mon Jul  5 21:12:44 1999 :: resolv_done: Retholien@pm2-1.ppp7.wmol.com
+Mon Jul  5 21:20:01 1999 :: Retholien@pm2-1.ppp7.wmol.com new player.
+Mon Jul  5 21:20:48 1999 :: Log Erebus: set mob reth train 30
+Mon Jul  5 21:27:21 1999 :: sock.sinaddr: 209.109.227.86
+Mon Jul  5 21:27:29 1999 :: EOF encountered on read.
+Mon Jul  5 21:30:12 1999 :: Log Izlude: delete
+Mon Jul  5 21:30:13 1999 :: Log Izlude: delete
+Mon Jul  5 21:30:14 1999 :: Log Izlude: delete
+Mon Jul  5 21:30:15 1999 :: Log Izlude: delete
+Mon Jul  5 21:30:15 1999 :: Izlude has quit.
+Mon Jul  5 21:30:18 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 21:30:22 1999 :: Log Wiegraf: delete
+Mon Jul  5 21:30:22 1999 :: Log Wiegraf: delete
+Mon Jul  5 21:30:22 1999 :: Wiegraf has quit.
+Mon Jul  5 21:30:24 1999 :: sock.sinaddr: 208.132.43.59
+Mon Jul  5 21:30:26 1999 :: EOF encountered on read.
+Mon Jul  5 21:30:26 1999 :: EOF encountered on read.
+Mon Jul  5 21:31:19 1999 :: Log Erebus: reboot cancel
+Mon Jul  5 21:32:18 1999 :: Log Retholien: delete
+Mon Jul  5 21:32:18 1999 :: Log Retholien: delete
+Mon Jul  5 21:32:18 1999 :: Retholien has quit.
+Mon Jul  5 21:32:18 1999 :: Retholien: 'arm' of Izlude
+Mon Jul  5 21:32:46 1999 :: Erebus has quit.
+Mon Jul  5 21:39:25 1999 :: sock.sinaddr: 205.164.135.160
+Mon Jul  5 21:39:29 1999 :: Loading Kairi.
+Mon Jul  5 21:39:29 1999 :: resolver_loop: Kairi@205.164.135.160
+Mon Jul  5 21:39:29 1999 :: resolv_done: Kairi@160-pool8.ras10.nynyc.agisdial.net
+Mon Jul  5 21:39:30 1999 :: Loading Kairi.
+Mon Jul  5 21:39:30 1999 :: Kairi@160-pool8.ras10.nynyc.agisdial.net has connected.
+Mon Jul  5 21:39:34 1999 :: Kairi has quit.
+Mon Jul  5 21:39:35 1999 :: sock.sinaddr: 205.164.135.160
+Mon Jul  5 21:39:39 1999 :: EOF encountered on read.
+Mon Jul  5 21:51:16 1999 :: sock.sinaddr: 167.206.60.154
+Mon Jul  5 21:51:18 1999 :: Loading Momo.
+Mon Jul  5 21:51:18 1999 :: resolver_loop: Momo@167.206.60.154
+Mon Jul  5 21:51:18 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Mon Jul  5 21:51:21 1999 :: Loading Momo.
+Mon Jul  5 21:51:21 1999 :: Momo@bab60-154.optonline.net has connected.
+Mon Jul  5 21:51:27 1999 :: Momo has quit.
+Mon Jul  5 22:04:50 1999 :: sock.sinaddr: 208.242.83.103
+Mon Jul  5 22:04:54 1999 :: Loading Erebus.
+Mon Jul  5 22:04:54 1999 :: resolver_loop: Erebus@208.242.83.103
+Mon Jul  5 22:04:54 1999 :: resolv_done: Erebus@ppp3.wmol.com
+Mon Jul  5 22:04:56 1999 :: Loading Erebus.
+Mon Jul  5 22:04:56 1999 :: Erebus@ppp3.wmol.com has connected.
+Mon Jul  5 22:05:04 1999 :: Erebus has quit.
+Reseting area: [P] OBJ limit reached
+Mon Jul  5 23:07:15 1999 :: sock.sinaddr: 209.166.139.82
+Mon Jul  5 23:07:17 1999 :: Loading Till.
+Mon Jul  5 23:07:17 1999 :: resolver_loop: Till@209.166.139.82
+Mon Jul  5 23:07:17 1999 :: resolv_done: Till@dap01-139082.latrobe.sgi.net
+Mon Jul  5 23:07:24 1999 :: Loading Till.
+Mon Jul  5 23:07:24 1999 :: Till@dap01-139082.latrobe.sgi.net has connected.
+Reseting area: [P] OBJ limit reached
+Mon Jul  5 23:23:52 1999 :: sock.sinaddr: 167.206.60.154
+Mon Jul  5 23:23:57 1999 :: Loading Momo.
+Mon Jul  5 23:23:58 1999 :: resolver_loop: Momo@167.206.60.154
+Mon Jul  5 23:23:58 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Mon Jul  5 23:23:58 1999 :: Loading Momo.
+Mon Jul  5 23:23:58 1999 :: Momo@bab60-154.optonline.net has connected.
+Mon Jul  5 23:24:01 1999 :: Momo has quit.
+Mon Jul  5 23:41:29 1999 :: back_home: reset place not found
+Tue Jul  6 00:46:59 1999 :: sock.sinaddr: 216.26.2.41
+Tue Jul  6 00:47:08 1999 :: resolver_loop: Azure@216.26.2.41
+Tue Jul  6 00:47:09 1999 :: resolv_done: Azure@i48-01-41.pdx.du.teleport.com
+Tue Jul  6 00:49:25 1999 :: Azure@i48-01-41.pdx.du.teleport.com new player.
+Tue Jul  6 00:50:18 1999 :: EOF encountered on read.
+Tue Jul  6 00:50:18 1999 :: Closing link to Azure.
+Tue Jul  6 01:01:49 1999 :: sock.sinaddr: 209.166.139.82
+Tue Jul  6 01:01:50 1999 :: Loading Till.
+Tue Jul  6 01:01:50 1999 :: resolver_loop: Till@209.166.139.82
+Tue Jul  6 01:01:51 1999 :: resolv_done: Till@dap01-139082.latrobe.sgi.net
+Tue Jul  6 01:01:58 1999 :: Closing link to Till.
+Tue Jul  6 01:01:58 1999 :: Till@dap01-139082.latrobe.sgi.net reconnected.
+Tue Jul  6 01:07:39 1999 :: Till has quit.
+Tue Jul  6 01:12:14 1999 :: Azure has quit.
+Tue Jul  6 01:20:37 1999 :: sock.sinaddr: 206.245.158.35
+Tue Jul  6 01:20:37 1999 :: EOF encountered on read.
+Tue Jul  6 02:26:55 1999 :: sock.sinaddr: 209.166.139.97
+Tue Jul  6 02:26:58 1999 :: Loading Till.
+Tue Jul  6 02:26:58 1999 :: resolver_loop: Till@209.166.139.97
+Tue Jul  6 02:26:58 1999 :: resolv_done: Till@dap01-139097.latrobe.sgi.net
+Tue Jul  6 02:27:02 1999 :: Loading Till.
+Tue Jul  6 02:27:02 1999 :: Till@dap01-139097.latrobe.sgi.net has connected.
+Tue Jul  6 02:33:58 1999 :: sock.sinaddr: 203.127.163.200
+Tue Jul  6 02:34:04 1999 :: resolver_loop: Nighteyes@203.127.163.200
+Tue Jul  6 02:34:06 1999 :: resolv_done: Nighteyes@203.127.163.200
+Tue Jul  6 02:40:48 1999 :: Nighteyes@203.127.163.200 new player.
+Tue Jul  6 03:00:11 1999 :: Nighteyes has quit.
+Tue Jul  6 03:00:49 1999 :: oldstyle myconoid shaman: wait state 18
+Tue Jul  6 03:05:45 1999 :: back_home: reset place not found
+Tue Jul  6 03:14:15 1999 :: sock.sinaddr: 209.166.139.97
+Tue Jul  6 03:14:16 1999 :: Loading Till.
+Tue Jul  6 03:14:16 1999 :: resolver_loop: Till@209.166.139.97
+Tue Jul  6 03:14:17 1999 :: resolv_done: Till@dap01-139097.latrobe.sgi.net
+Tue Jul  6 03:14:22 1999 :: EOF encountered on read.
+Tue Jul  6 03:14:22 1999 :: Closing link to Till.
+Tue Jul  6 03:14:32 1999 :: sock.sinaddr: 209.166.139.97
+Tue Jul  6 03:14:33 1999 :: resolver_loop: Numbchuck@209.166.139.97
+Tue Jul  6 03:14:33 1999 :: resolv_done: Numbchuck@dap01-139097.latrobe.sgi.net
+Tue Jul  6 03:15:21 1999 :: Numbchuck@dap01-139097.latrobe.sgi.net new player.
+Tue Jul  6 03:21:38 1999 :: Numbchuck has quit.
+Tue Jul  6 03:21:40 1999 :: EOF encountered on read.
+Tue Jul  6 03:21:40 1999 :: Closing link to Till.
+Tue Jul  6 03:21:55 1999 :: sock.sinaddr: 209.166.139.97
+Tue Jul  6 03:21:56 1999 :: Loading Till.
+Tue Jul  6 03:21:56 1999 :: resolver_loop: Till@209.166.139.97
+Tue Jul  6 03:21:56 1999 :: resolv_done: Till@dap01-139097.latrobe.sgi.net
+Tue Jul  6 03:21:59 1999 :: Till@dap01-139097.latrobe.sgi.net reconnected.
+Tue Jul  6 03:22:17 1999 :: deduct cost: Till: ch->silver (6) < silver (-20)
+Tue Jul  6 03:22:20 1999 :: sock.sinaddr: 152.200.145.232
+Tue Jul  6 03:22:21 1999 :: Loading Miette.
+Tue Jul  6 03:22:21 1999 :: resolver_loop: Miette@152.200.145.232
+Tue Jul  6 03:22:26 1999 :: resolv_done: Miette@98C891E8.ipt.aol.com
+Tue Jul  6 03:22:27 1999 :: Loading Miette.
+Tue Jul  6 03:22:27 1999 :: Miette@98C891E8.ipt.aol.com has connected.
+Tue Jul  6 03:23:03 1999 :: Miette has quit.
+Tue Jul  6 03:30:34 1999 :: back_home: reset place not found
+Tue Jul  6 03:30:42 1999 :: Till has quit.
+Tue Jul  6 04:37:12 1999 :: sock.sinaddr: 216.26.2.170
+Read_from_descriptor: Connection reset by peer
+Tue Jul  6 04:38:33 1999 :: sock.sinaddr: 216.26.2.170
+Tue Jul  6 04:38:40 1999 :: resolver_loop: Azure@216.26.2.170
+Tue Jul  6 04:38:40 1999 :: resolv_done: Azure@i48-03-42.pdx.du.teleport.com
+Read_from_descriptor: Connection reset by peer
+Tue Jul  6 04:38:49 1999 :: Closing link to Azure.
+Tue Jul  6 05:37:27 1999 :: sock.sinaddr: 209.109.224.233
+Tue Jul  6 05:37:32 1999 :: EOF encountered on read.
+Tue Jul  6 07:34:38 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 07:34:44 1999 :: Loading Voashnoon.
+Tue Jul  6 07:34:44 1999 :: resolver_loop: Voashnoon@194.64.181.210
+Tue Jul  6 07:34:44 1999 :: resolv_done: Voashnoon@deck-178.frankfurt.netsurf.de
+Tue Jul  6 07:34:48 1999 :: Loading Voashnoon.
+Tue Jul  6 07:34:48 1999 :: Voashnoon@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 07:35:34 1999 :: Voashnoon has quit.
+Tue Jul  6 07:46:37 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 07:46:42 1999 :: Loading Thragan.
+Tue Jul  6 07:46:42 1999 :: resolver_loop: Thragan@194.64.181.210
+Tue Jul  6 07:46:43 1999 :: resolv_done: Thragan@deck-178.frankfurt.netsurf.de
+Tue Jul  6 07:46:47 1999 :: Loading Thragan.
+Tue Jul  6 07:46:47 1999 :: Thragan@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 07:58:40 1999 :: deduct cost: Thragan: ch->silver (16) < silver (-65)
+Tue Jul  6 07:58:41 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:41 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:41 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:41 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-65)
+Tue Jul  6 07:58:42 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-56)
+Tue Jul  6 07:58:46 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-59)
+Tue Jul  6 07:58:46 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-53)
+Tue Jul  6 07:58:47 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:47 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-61)
+Tue Jul  6 07:58:47 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:47 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-62)
+Tue Jul  6 07:58:48 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:48 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-53)
+Tue Jul  6 07:58:48 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-71)
+Tue Jul  6 07:58:55 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-77)
+Tue Jul  6 07:58:55 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-50)
+Tue Jul  6 07:58:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-66)
+Tue Jul  6 07:58:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-57)
+Tue Jul  6 07:58:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-60)
+Tue Jul  6 07:58:56 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-82)
+Reseting area: [P] OBJ limit reached
+Tue Jul  6 08:37:01 1999 :: Thragan has quit.
+Tue Jul  6 08:37:04 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 08:37:17 1999 :: Loading Thragan.
+Tue Jul  6 08:37:17 1999 :: resolver_loop: Thragan@194.64.181.210
+Tue Jul  6 08:37:17 1999 :: resolv_done: Thragan@deck-178.frankfurt.netsurf.de
+Tue Jul  6 08:37:22 1999 :: Loading Thragan.
+Tue Jul  6 08:37:22 1999 :: Thragan@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 08:53:54 1999 :: deduct cost: Thragan: ch->silver (27) < silver (-5)
+Tue Jul  6 08:53:57 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-95)
+Tue Jul  6 08:55:18 1999 :: Thragan has quit.
+Tue Jul  6 08:55:21 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 08:55:24 1999 :: Loading Thragan.
+Tue Jul  6 08:55:24 1999 :: resolver_loop: Thragan@194.64.181.210
+Tue Jul  6 08:55:24 1999 :: resolv_done: Thragan@deck-178.frankfurt.netsurf.de
+Tue Jul  6 08:55:27 1999 :: Loading Thragan.
+Tue Jul  6 08:55:27 1999 :: Thragan@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 08:55:36 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 08:55:43 1999 :: resolver_loop: Tabata@194.64.181.210
+Tue Jul  6 08:55:43 1999 :: resolv_done: Tabata@deck-178.frankfurt.netsurf.de
+Tue Jul  6 08:59:54 1999 :: Tabata@deck-178.frankfurt.netsurf.de new player.
+Tue Jul  6 09:08:12 1999 :: Thragan has quit.
+Tue Jul  6 09:08:14 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 09:08:17 1999 :: resolver_loop: Ozelot@194.64.181.210
+Tue Jul  6 09:08:17 1999 :: resolv_done: Ozelot@deck-178.frankfurt.netsurf.de
+Tue Jul  6 09:08:23 1999 :: Loading Thragan.
+Tue Jul  6 09:08:25 1999 :: Loading Thragan.
+Tue Jul  6 09:08:25 1999 :: Thragan@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 09:11:16 1999 :: Log Tabata: delete
+Tue Jul  6 09:11:17 1999 :: Log Tabata: delete
+Tue Jul  6 09:11:17 1999 :: Tabata has quit.
+Tue Jul  6 09:11:33 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 09:11:43 1999 :: resolver_loop: Tabata@194.64.181.210
+Tue Jul  6 09:11:44 1999 :: resolv_done: Tabata@deck-178.frankfurt.netsurf.de
+Tue Jul  6 09:13:18 1999 :: Tabata@deck-178.frankfurt.netsurf.de new player.
+Tue Jul  6 09:17:24 1999 :: deduct cost: Thragan: ch->silver (0) < silver (-83)
+Tue Jul  6 09:21:15 1999 :: sock.sinaddr: 210.24.122.120
+Tue Jul  6 09:21:20 1999 :: Loading Nighteyes.
+Tue Jul  6 09:21:20 1999 :: resolver_loop: Nighteyes@210.24.122.120
+Tue Jul  6 09:21:21 1999 :: resolv_done: Nighteyes@ppp120.dyn122.pacific.net.sg
+Tue Jul  6 09:21:29 1999 :: Loading Nighteyes.
+Tue Jul  6 09:21:29 1999 :: Nighteyes@ppp120.dyn122.pacific.net.sg has connected.
+Tue Jul  6 09:22:43 1999 :: Thragan has quit.
+Tue Jul  6 09:22:46 1999 :: sock.sinaddr: 194.64.181.210
+Tue Jul  6 09:22:48 1999 :: resolver_loop: Ozelot@194.64.181.210
+Tue Jul  6 09:22:49 1999 :: resolv_done: Ozelot@deck-178.frankfurt.netsurf.de
+Tue Jul  6 09:22:55 1999 :: Loading Thragan.
+Tue Jul  6 09:22:57 1999 :: Loading Thragan.
+Tue Jul  6 09:22:57 1999 :: Thragan@deck-178.frankfurt.netsurf.de has connected.
+Tue Jul  6 09:24:07 1999 :: Log Tabata: delete
+Tue Jul  6 09:24:08 1999 :: Log Tabata: delete
+Tue Jul  6 09:24:08 1999 :: Tabata has quit.
+Tue Jul  6 09:31:33 1999 :: Thragan has quit.
+Tue Jul  6 09:35:43 1999 :: Nighteyes has quit.
+Tue Jul  6 10:17:08 1999 :: sock.sinaddr: 199.174.49.11
+Tue Jul  6 10:17:09 1999 :: Loading Garylian.
+Tue Jul  6 10:17:09 1999 :: resolver_loop: Garylian@199.174.49.11
+Tue Jul  6 10:17:09 1999 :: resolv_done: Garylian@user-33qsc8b.dialup.mindspring.com
+Tue Jul  6 10:17:16 1999 :: Loading Garylian.
+Tue Jul  6 10:17:16 1999 :: Garylian@user-33qsc8b.dialup.mindspring.com has connected.
+Tue Jul  6 10:17:44 1999 :: EOF encountered on read.
+Tue Jul  6 10:17:44 1999 :: Closing link to Garylian.
+Tue Jul  6 10:39:03 1999 :: Garylian has quit.
+Tue Jul  6 10:53:38 1999 :: sock.sinaddr: 167.206.60.154
+Tue Jul  6 10:53:49 1999 :: Loading Momo.
+Tue Jul  6 10:53:49 1999 :: resolver_loop: Momo@167.206.60.154
+Tue Jul  6 10:53:49 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Tue Jul  6 10:53:50 1999 :: Loading Momo.
+Tue Jul  6 10:53:51 1999 :: Momo@bab60-154.optonline.net has connected.
+Tue Jul  6 11:18:02 1999 :: EOF encountered on read.
+Tue Jul  6 11:18:02 1999 :: Closing link to Momo.
+Tue Jul  6 12:13:17 1999 :: sock.sinaddr: 206.190.74.105
+Tue Jul  6 12:13:27 1999 :: EOF encountered on read.
+Reseting area: [P] OBJ limit reached
+Tue Jul  6 12:34:55 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 12:35:00 1999 :: Loading Thragan.
+Tue Jul  6 12:35:00 1999 :: resolver_loop: Thragan@194.195.95.29
+Tue Jul  6 12:35:01 1999 :: resolv_done: Thragan@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 12:35:06 1999 :: Loading Thragan.
+Tue Jul  6 12:35:06 1999 :: Thragan@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 12:55:50 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 12:55:54 1999 :: Loading Thragan.
+Tue Jul  6 12:55:54 1999 :: resolver_loop: Thragan@194.195.95.29
+Tue Jul  6 12:55:54 1999 :: resolv_done: Thragan@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 12:55:58 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 12:55:58 1999 :: EOF encountered on read.
+Tue Jul  6 12:56:00 1999 :: Closing link to Thragan.
+Tue Jul  6 12:56:00 1999 :: Thragan@n0-06-029.frankfurt.netsurf.de reconnected.
+Tue Jul  6 13:21:53 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:21:59 1999 :: Loading Aidanac.
+Tue Jul  6 13:21:59 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:21:59 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:22:03 1999 :: Loading Aidanac.
+Tue Jul  6 13:22:03 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 13:22:33 1999 :: Log Aidanac: delete
+Tue Jul  6 13:22:34 1999 :: Log Aidanac: delete
+Tue Jul  6 13:22:34 1999 :: Aidanac has quit.
+Tue Jul  6 13:22:37 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:22:40 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:22:40 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:23:33 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de new player.
+Tue Jul  6 13:24:31 1999 :: Log Aidanac: delete
+Tue Jul  6 13:24:31 1999 :: Log Aidanac: delete
+Tue Jul  6 13:24:31 1999 :: Aidanac has quit.
+Tue Jul  6 13:24:35 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:24:37 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:24:37 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:25:45 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de new player.
+Tue Jul  6 13:27:37 1999 :: Log Aidanac: delete
+Tue Jul  6 13:27:39 1999 :: Log Aidanac: delete
+Tue Jul  6 13:27:39 1999 :: Aidanac has quit.
+Tue Jul  6 13:28:03 1999 :: Thragan has quit.
+Tue Jul  6 13:28:06 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:28:08 1999 :: Loading Thragan.
+Tue Jul  6 13:28:08 1999 :: resolver_loop: Thragan@194.195.95.29
+Tue Jul  6 13:28:08 1999 :: resolv_done: Thragan@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:28:12 1999 :: Loading Thragan.
+Tue Jul  6 13:28:12 1999 :: Thragan@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 13:28:21 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:28:23 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:28:23 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:32:18 1999 :: EOF encountered on read.
+Tue Jul  6 13:32:18 1999 :: Closing link to Aidanac.
+Tue Jul  6 13:32:18 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:32:23 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:32:23 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:35:05 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de new player.
+Tue Jul  6 13:43:53 1999 :: Log Aidanac: delete
+Tue Jul  6 13:43:53 1999 :: Log Aidanac: delete
+Tue Jul  6 13:43:53 1999 :: Aidanac has quit.
+Tue Jul  6 13:43:56 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:43:58 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 13:43:58 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:49:14 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de new player.
+Tue Jul  6 13:58:29 1999 :: Thragan has quit.
+Tue Jul  6 13:58:32 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 13:58:37 1999 :: Loading Thragan.
+Tue Jul  6 13:58:37 1999 :: resolver_loop: Thragan@194.195.95.29
+Tue Jul  6 13:58:37 1999 :: resolv_done: Thragan@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 13:58:40 1999 :: Loading Thragan.
+Tue Jul  6 13:58:40 1999 :: Thragan@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 14:14:55 1999 :: Thragan has quit.
+Tue Jul  6 14:15:08 1999 :: Aidanac has quit.
+Tue Jul  6 14:24:48 1999 :: sock.sinaddr: 208.242.83.223
+Tue Jul  6 14:24:55 1999 :: Loading Erebus.
+Tue Jul  6 14:24:55 1999 :: resolver_loop: Erebus@208.242.83.223
+Tue Jul  6 14:24:55 1999 :: resolv_done: Erebus@pm2-1.ppp14.wmol.com
+Tue Jul  6 14:24:58 1999 :: Loading Erebus.
+Tue Jul  6 14:24:59 1999 :: Erebus@pm2-1.ppp14.wmol.com has connected.
+Tue Jul  6 14:25:11 1999 :: Erebus has quit.
+Tue Jul  6 14:40:34 1999 :: sock.sinaddr: 152.167.20.70
+Tue Jul  6 14:40:37 1999 :: resolver_loop: Magus@152.167.20.70
+Tue Jul  6 14:40:38 1999 :: resolv_done: Magus@98A71446.ipt.aol.com
+Tue Jul  6 14:40:47 1999 :: EOF encountered on read.
+Tue Jul  6 14:40:47 1999 :: Closing link to Magus.
+Tue Jul  6 15:13:39 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 15:13:39 1999 :: EOF encountered on read.
+Tue Jul  6 15:13:43 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 15:13:49 1999 :: Loading Voashnoon.
+Tue Jul  6 15:13:49 1999 :: resolver_loop: Voashnoon@194.195.95.29
+Tue Jul  6 15:13:49 1999 :: resolv_done: Voashnoon@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 15:13:53 1999 :: Loading Voashnoon.
+Tue Jul  6 15:13:53 1999 :: Voashnoon@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 15:15:15 1999 :: Voashnoon has quit.
+Tue Jul  6 15:15:18 1999 :: sock.sinaddr: 194.195.95.29
+Tue Jul  6 15:15:21 1999 :: Loading Aidanac.
+Tue Jul  6 15:15:21 1999 :: resolver_loop: Aidanac@194.195.95.29
+Tue Jul  6 15:15:21 1999 :: resolv_done: Aidanac@n0-06-029.frankfurt.netsurf.de
+Tue Jul  6 15:15:25 1999 :: Loading Aidanac.
+Tue Jul  6 15:15:25 1999 :: Aidanac@n0-06-029.frankfurt.netsurf.de has connected.
+Tue Jul  6 16:09:12 1999 :: Log Aidanac: delete
+Tue Jul  6 16:09:12 1999 :: Log Aidanac: delete
+Tue Jul  6 16:09:12 1999 :: Aidanac has quit.
+Tue Jul  6 16:18:57 1999 :: sock.sinaddr: 167.206.60.154
+Tue Jul  6 16:18:59 1999 :: Loading Momo.
+Tue Jul  6 16:18:59 1999 :: resolver_loop: Momo@167.206.60.154
+Tue Jul  6 16:19:00 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Tue Jul  6 16:19:01 1999 :: Momo@bab60-154.optonline.net reconnected.
+Tue Jul  6 17:04:17 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 17:04:23 1999 :: resolver_loop: Izlude@208.132.43.40
+Tue Jul  6 17:04:23 1999 :: resolv_done: Izlude@elp-43-40.raex.com
+Tue Jul  6 17:07:05 1999 :: Izlude@elp-43-40.raex.com new player.
+Tue Jul  6 17:15:15 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 17:15:19 1999 :: resolver_loop: Wiegraf@208.132.43.40
+Tue Jul  6 17:15:19 1999 :: resolv_done: Wiegraf@elp-43-40.raex.com
+Tue Jul  6 17:16:11 1999 :: Wiegraf@elp-43-40.raex.com new player.
+Tue Jul  6 17:23:19 1999 :: sock.sinaddr: 194.64.181.186
+Tue Jul  6 17:23:26 1999 :: Loading Voashnoon.
+Tue Jul  6 17:23:26 1999 :: resolver_loop: Voashnoon@194.64.181.186
+Tue Jul  6 17:23:26 1999 :: resolv_done: Voashnoon@deck-154.frankfurt.netsurf.de
+Tue Jul  6 17:23:31 1999 :: Wrong password by Voashnoon@deck-154.frankfurt.netsurf.de
+Tue Jul  6 17:23:35 1999 :: Wrong password by Voashnoon@deck-154.frankfurt.netsurf.de
+Tue Jul  6 17:23:39 1999 :: Loading Voashnoon.
+Tue Jul  6 17:23:39 1999 :: Voashnoon@deck-154.frankfurt.netsurf.de has connected.
+Tue Jul  6 17:28:07 1999 :: sock.sinaddr: 208.242.83.226
+Tue Jul  6 17:28:08 1999 :: Loading Erebus.
+Tue Jul  6 17:28:08 1999 :: resolver_loop: Erebus@208.242.83.226
+Tue Jul  6 17:28:08 1999 :: resolv_done: Erebus@pm2-1.ppp17.wmol.com
+Tue Jul  6 17:28:09 1999 :: Loading Erebus.
+Tue Jul  6 17:28:09 1999 :: Erebus@pm2-1.ppp17.wmol.com has connected.
+Tue Jul  6 17:28:22 1999 :: sock.sinaddr: 207.69.175.65
+Tue Jul  6 17:28:27 1999 :: resolver_loop: Reirrac@207.69.175.65
+Tue Jul  6 17:28:27 1999 :: resolv_done: Reirrac@user-37kbbq1.dialup.mindspring.com
+Tue Jul  6 17:30:35 1999 :: Reirrac@user-37kbbq1.dialup.mindspring.com new player.
+Tue Jul  6 17:30:39 1999 :: Reirrac has quit.
+Tue Jul  6 17:35:35 1999 :: [*****] BUG: Set_fighting: already fighting
+Tue Jul  6 17:36:03 1999 :: [*****] BUG: Set_fighting: already fighting
+Tue Jul  6 17:44:22 1999 :: sock.sinaddr: 209.109.225.182
+Tue Jul  6 17:44:43 1999 :: EOF encountered on read.
+Tue Jul  6 17:44:58 1999 :: [*****] BUG: Set_fighting: already fighting
+Tue Jul  6 17:45:25 1999 :: [*****] BUG: Set_fighting: already fighting
+Tue Jul  6 17:46:04 1999 :: Log Erebus: load obj 9424
+Tue Jul  6 17:47:42 1999 :: Log Erebus: slay gro
+Tue Jul  6 17:47:55 1999 :: Log Erebus: purge
+Tue Jul  6 17:48:03 1999 :: [*****] BUG: Set_fighting: already fighting
+Tue Jul  6 17:50:43 1999 :: Log Erebus: purge
+Tue Jul  6 17:50:52 1999 :: Log Erebus: restore
+Tue Jul  6 17:53:25 1999 :: deduct cost: Voashnoon: ch->silver (3) < silver (-66)
+Tue Jul  6 17:53:26 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:53:26 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-44)
+Tue Jul  6 17:53:26 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-86)
+Tue Jul  6 17:53:27 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-37)
+Tue Jul  6 17:53:27 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:53:27 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-46)
+Tue Jul  6 17:53:27 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:53:36 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-46)
+Tue Jul  6 17:53:36 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:53:37 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-74)
+Tue Jul  6 17:53:37 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-73)
+Tue Jul  6 17:53:37 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:53:37 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-64)
+Tue Jul  6 17:53:38 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-1)
+Tue Jul  6 17:53:41 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-10)
+Tue Jul  6 17:54:08 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:54:12 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:54:13 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Tue Jul  6 17:59:54 1999 :: Voashnoon has quit.
+Tue Jul  6 18:00:03 1999 :: sock.sinaddr: 194.64.181.186
+Tue Jul  6 18:17:09 1999 :: Erebus has quit.
+Tue Jul  6 18:17:48 1999 :: EOF encountered on read.
+Tue Jul  6 18:17:48 1999 :: Closing link to Momo.
+Tue Jul  6 18:19:10 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Tue Jul  6 18:38:13 1999 :: Wiegraf has quit.
+Tue Jul  6 18:38:19 1999 :: Izlude has quit.
+Tue Jul  6 19:18:48 1999 :: sock.sinaddr: 167.206.60.154
+Tue Jul  6 19:18:50 1999 :: Loading Momo.
+Tue Jul  6 19:18:51 1999 :: resolver_loop: Momo@167.206.60.154
+Tue Jul  6 19:18:51 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Tue Jul  6 19:18:53 1999 :: Momo@bab60-154.optonline.net reconnected.
+Tue Jul  6 19:59:39 1999 :: EOF encountered on read.
+Tue Jul  6 19:59:39 1999 :: Closing link to Momo.
+Reseting area: [P] OBJ limit reached
+Reseting area: [P] OBJ limit reached
+Tue Jul  6 21:37:11 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 21:37:17 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 21:37:20 1999 :: Loading Izlude.
+Tue Jul  6 21:37:20 1999 :: resolver_loop: Izlude@208.132.43.40
+Tue Jul  6 21:37:20 1999 :: resolv_done: Izlude@elp-43-40.raex.com
+Tue Jul  6 21:37:22 1999 :: Loading Izlude.
+Tue Jul  6 21:37:22 1999 :: Izlude@elp-43-40.raex.com has connected.
+Tue Jul  6 21:37:33 1999 :: Loading Wiegraf.
+Tue Jul  6 21:37:33 1999 :: resolver_loop: Wiegraf@208.132.43.40
+Tue Jul  6 21:37:33 1999 :: resolv_done: Wiegraf@elp-43-40.raex.com
+Tue Jul  6 21:37:35 1999 :: Loading Wiegraf.
+Tue Jul  6 21:37:35 1999 :: Wiegraf@elp-43-40.raex.com has connected.
+Tue Jul  6 21:40:00 1999 :: sock.sinaddr: 208.242.83.225
+Tue Jul  6 21:40:02 1999 :: Loading Erebus.
+Tue Jul  6 21:40:02 1999 :: resolver_loop: Erebus@208.242.83.225
+Tue Jul  6 21:40:02 1999 :: resolv_done: Erebus@pm2-1.ppp16.wmol.com
+Tue Jul  6 21:40:03 1999 :: Loading Erebus.
+Tue Jul  6 21:40:03 1999 :: Erebus@pm2-1.ppp16.wmol.com has connected.
+Tue Jul  6 21:40:16 1999 :: Erebus has quit.
+Tue Jul  6 21:49:07 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Tue Jul  6 21:49:41 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Tue Jul  6 21:50:56 1999 :: Log Izlude: delete
+Tue Jul  6 21:50:57 1999 :: Log Izlude: delete
+Tue Jul  6 21:50:57 1999 :: Izlude has quit.
+Tue Jul  6 21:50:59 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 21:51:00 1999 :: resolver_loop: Izlude@208.132.43.40
+Tue Jul  6 21:51:00 1999 :: resolv_done: Izlude@elp-43-40.raex.com
+Tue Jul  6 21:52:06 1999 :: Izlude@elp-43-40.raex.com new player.
+Tue Jul  6 21:55:04 1999 :: Log Wiegraf: delete
+Tue Jul  6 21:55:05 1999 :: Log Wiegraf: delete
+Tue Jul  6 21:55:05 1999 :: Wiegraf has quit.
+Tue Jul  6 21:55:06 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 21:55:09 1999 :: resolver_loop: Wiegraf@208.132.43.40
+Tue Jul  6 21:55:10 1999 :: resolv_done: Wiegraf@elp-43-40.raex.com
+Tue Jul  6 21:55:37 1999 :: Wiegraf@elp-43-40.raex.com new player.
+Tue Jul  6 22:31:34 1999 :: Izlude has quit.
+Tue Jul  6 22:31:40 1999 :: Wiegraf has quit.
+Tue Jul  6 22:53:48 1999 :: sock.sinaddr: 209.166.139.112
+Tue Jul  6 22:53:50 1999 :: Loading Till.
+Tue Jul  6 22:53:50 1999 :: resolver_loop: Till@209.166.139.112
+Tue Jul  6 22:53:50 1999 :: resolv_done: Till@dap02-139112.latrobe.sgi.net
+Tue Jul  6 22:53:54 1999 :: Loading Till.
+Tue Jul  6 22:53:54 1999 :: Till@dap02-139112.latrobe.sgi.net has connected.
+Tue Jul  6 22:55:33 1999 :: sock.sinaddr: 209.166.139.112
+Tue Jul  6 22:55:34 1999 :: resolver_loop: Numbchuck@209.166.139.112
+Tue Jul  6 22:55:34 1999 :: resolv_done: Numbchuck@dap02-139112.latrobe.sgi.net
+Tue Jul  6 22:56:42 1999 :: Numbchuck@dap02-139112.latrobe.sgi.net new player.
+Tue Jul  6 22:57:14 1999 :: Till has quit.
+Tue Jul  6 23:00:21 1999 :: sock.sinaddr: 209.166.139.98
+Tue Jul  6 23:00:22 1999 :: resolver_loop: Numbchuck@209.166.139.98
+Tue Jul  6 23:00:23 1999 :: resolv_done: Numbchuck@dap01-139098.latrobe.sgi.net
+Tue Jul  6 23:00:34 1999 :: Closing link to Numbchuck.
+Tue Jul  6 23:00:34 1999 :: Numbchuck@dap01-139098.latrobe.sgi.net reconnected.
+Tue Jul  6 23:10:47 1999 :: deduct cost: oldstyle igor 
+weaponsmith: ch->silver (14) < silver (-82)
+Tue Jul  6 23:10:57 1999 :: deduct cost: oldstyle igor 
+weaponsmith: ch->silver (0) < silver (-82)
+Tue Jul  6 23:11:41 1999 :: sock.sinaddr: 209.166.139.98
+Tue Jul  6 23:11:43 1999 :: Loading Till.
+Tue Jul  6 23:11:43 1999 :: resolver_loop: Till@209.166.139.98
+Tue Jul  6 23:11:43 1999 :: resolv_done: Till@dap01-139098.latrobe.sgi.net
+Tue Jul  6 23:11:44 1999 :: Loading Till.
+Tue Jul  6 23:11:44 1999 :: Till@dap01-139098.latrobe.sgi.net has connected.
+Tue Jul  6 23:13:20 1999 :: Numbchuck has quit.
+Tue Jul  6 23:31:14 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 23:31:20 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 23:31:25 1999 :: Loading Izlude.
+Tue Jul  6 23:31:25 1999 :: resolver_loop: Izlude@208.132.43.40
+Tue Jul  6 23:31:25 1999 :: resolv_done: Izlude@elp-43-40.raex.com
+Tue Jul  6 23:31:26 1999 :: Loading Izlude.
+Tue Jul  6 23:31:26 1999 :: Izlude@elp-43-40.raex.com has connected.
+Tue Jul  6 23:31:37 1999 :: Loading Wiegraf.
+Tue Jul  6 23:31:37 1999 :: resolver_loop: Wiegraf@208.132.43.40
+Tue Jul  6 23:31:38 1999 :: resolv_done: Wiegraf@elp-43-40.raex.com
+Tue Jul  6 23:31:39 1999 :: Loading Wiegraf.
+Tue Jul  6 23:31:39 1999 :: Wiegraf@elp-43-40.raex.com has connected.
+Tue Jul  6 23:32:27 1999 :: EOF encountered on read.
+Tue Jul  6 23:32:27 1999 :: Closing link to Izlude.
+Tue Jul  6 23:32:37 1999 :: sock.sinaddr: 208.132.43.40
+Tue Jul  6 23:32:43 1999 :: Loading Izlude.
+Tue Jul  6 23:32:43 1999 :: resolver_loop: Izlude@208.132.43.40
+Tue Jul  6 23:32:43 1999 :: resolv_done: Izlude@elp-43-40.raex.com
+Tue Jul  6 23:32:45 1999 :: Izlude@elp-43-40.raex.com reconnected.
+Tue Jul  6 23:34:52 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Tue Jul  6 23:43:53 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 00:01:13 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 00:09:00 1999 :: Wiegraf has quit.
+Wed Jul  7 00:09:08 1999 :: Izlude has quit.
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 01:01:55 1999 :: Closing link to Till.
+Wed Jul  7 01:02:06 1999 :: sock.sinaddr: 209.166.139.98
+Wed Jul  7 01:02:08 1999 :: Loading Till.
+Wed Jul  7 01:02:08 1999 :: resolver_loop: Till@209.166.139.98
+Wed Jul  7 01:02:08 1999 :: resolv_done: Till@dap01-139098.latrobe.sgi.net
+Wed Jul  7 01:02:15 1999 :: Till@dap01-139098.latrobe.sgi.net reconnected.
+Wed Jul  7 01:06:51 1999 :: sock.sinaddr: 209.166.139.98
+Wed Jul  7 01:06:52 1999 :: Loading Till.
+Wed Jul  7 01:06:52 1999 :: resolver_loop: Till@209.166.139.98
+Wed Jul  7 01:06:52 1999 :: resolv_done: Till@dap01-139098.latrobe.sgi.net
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 01:06:55 1999 :: Closing link to Till.
+Wed Jul  7 01:06:59 1999 :: Till@dap01-139098.latrobe.sgi.net reconnected.
+new_descriptor: accept: Network is unreachable
+Wed Jul  7 01:12:45 1999 :: sock.sinaddr: 209.166.139.98
+Wed Jul  7 01:12:46 1999 :: Loading Till.
+Wed Jul  7 01:12:46 1999 :: resolver_loop: Till@209.166.139.98
+Wed Jul  7 01:12:46 1999 :: resolv_done: Till@dap01-139098.latrobe.sgi.net
+Wed Jul  7 01:12:53 1999 :: Closing link to Till.
+Wed Jul  7 01:12:53 1999 :: Till@dap01-139098.latrobe.sgi.net reconnected.
+Wed Jul  7 01:15:42 1999 :: sock.sinaddr: 209.166.139.98
+Wed Jul  7 01:15:44 1999 :: Loading Till.
+Wed Jul  7 01:15:44 1999 :: resolver_loop: Till@209.166.139.98
+Wed Jul  7 01:15:44 1999 :: resolv_done: Till@dap01-139098.latrobe.sgi.net
+Wed Jul  7 01:16:37 1999 :: Closing link to Till.
+Wed Jul  7 01:16:37 1999 :: Till@dap01-139098.latrobe.sgi.net reconnected.
+Wed Jul  7 01:25:52 1999 :: sock.sinaddr: 206.245.158.35
+Wed Jul  7 01:25:52 1999 :: EOF encountered on read.
+Wed Jul  7 01:56:30 1999 :: sock.sinaddr: 152.204.22.21
+Wed Jul  7 01:56:57 1999 :: EOF encountered on read.
+Wed Jul  7 02:06:49 1999 :: sock.sinaddr: 152.204.22.21
+Wed Jul  7 02:06:53 1999 :: Loading Lazorus.
+Wed Jul  7 02:06:53 1999 :: resolver_loop: Lazorus@152.204.22.21
+Wed Jul  7 02:06:53 1999 :: resolv_done: Lazorus@98CC1615.ipt.aol.com
+Wed Jul  7 02:06:54 1999 :: Loading Lazorus.
+Wed Jul  7 02:06:54 1999 :: Lazorus@98CC1615.ipt.aol.com has connected.
+Wed Jul  7 02:07:21 1999 :: Lazorus has quit.
+Wed Jul  7 02:07:22 1999 :: sock.sinaddr: 152.204.22.21
+Wed Jul  7 02:07:30 1999 :: Till has quit.
+Wed Jul  7 02:07:39 1999 :: EOF encountered on read.
+Reseting area: [P] OBJ limit reached
+Wed Jul  7 06:12:23 1999 :: sock.sinaddr: 209.109.224.253
+Wed Jul  7 06:12:30 1999 :: EOF encountered on read.
+Wed Jul  7 08:53:24 1999 :: sock.sinaddr: 194.195.95.2
+Wed Jul  7 08:53:30 1999 :: Loading Voashnoon.
+Wed Jul  7 08:53:30 1999 :: resolver_loop: Voashnoon@194.195.95.2
+Wed Jul  7 08:53:30 1999 :: resolv_done: Voashnoon@n0-06-002.frankfurt.netsurf.de
+Wed Jul  7 08:53:34 1999 :: Loading Voashnoon.
+Wed Jul  7 08:53:34 1999 :: Voashnoon@n0-06-002.frankfurt.netsurf.de has connected.
+Wed Jul  7 08:54:57 1999 :: Voashnoon has quit.
+Wed Jul  7 08:55:00 1999 :: sock.sinaddr: 194.195.95.2
+Wed Jul  7 08:55:04 1999 :: Loading Thragan.
+Wed Jul  7 08:55:04 1999 :: resolver_loop: Thragan@194.195.95.2
+Wed Jul  7 08:55:04 1999 :: resolv_done: Thragan@n0-06-002.frankfurt.netsurf.de
+Wed Jul  7 08:55:08 1999 :: Loading Thragan.
+Wed Jul  7 08:55:08 1999 :: Thragan@n0-06-002.frankfurt.netsurf.de has connected.
+Wed Jul  7 08:58:05 1999 :: sock.sinaddr: 194.195.95.2
+Wed Jul  7 08:58:10 1999 :: resolver_loop: Aidanac@194.195.95.2
+Wed Jul  7 08:58:10 1999 :: resolv_done: Aidanac@n0-06-002.frankfurt.netsurf.de
+Wed Jul  7 09:02:25 1999 :: Aidanac@n0-06-002.frankfurt.netsurf.de new player.
+Reseting area: [P] OBJ limit reached
+Wed Jul  7 09:54:37 1999 :: Thragan has quit.
+Wed Jul  7 09:54:42 1999 :: sock.sinaddr: 194.195.95.2
+Wed Jul  7 09:54:46 1999 :: Loading Thragan.
+Wed Jul  7 09:54:46 1999 :: resolver_loop: Thragan@194.195.95.2
+Wed Jul  7 09:54:47 1999 :: resolv_done: Thragan@n0-06-002.frankfurt.netsurf.de
+Wed Jul  7 09:54:50 1999 :: Loading Thragan.
+Wed Jul  7 09:54:50 1999 :: Thragan@n0-06-002.frankfurt.netsurf.de has connected.
+Wed Jul  7 10:04:13 1999 :: tired adventurer: wait state 12
+Wed Jul  7 10:05:37 1999 :: Aidanac has quit.
+Wed Jul  7 10:05:47 1999 :: Thragan has quit.
+Wed Jul  7 10:29:05 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 10:29:06 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 10:29:09 1999 :: Loading Izlude.
+Wed Jul  7 10:29:09 1999 :: resolver_loop: Izlude@208.132.43.29
+Wed Jul  7 10:29:09 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Wed Jul  7 10:29:30 1999 :: Loading Izlude.
+Wed Jul  7 10:29:30 1999 :: Izlude@elp-43-29.raex.com has connected.
+Wed Jul  7 10:29:36 1999 :: Loading Wiegraf.
+Wed Jul  7 10:29:36 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Wed Jul  7 10:29:37 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Wed Jul  7 10:29:38 1999 :: Loading Wiegraf.
+Wed Jul  7 10:29:38 1999 :: Wiegraf@elp-43-29.raex.com has connected.
+Wed Jul  7 10:40:13 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 10:40:29 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 10:41:50 1999 :: Izlude has quit.
+Wed Jul  7 10:41:55 1999 :: Wiegraf has quit.
+Wed Jul  7 10:43:28 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 12:15:17 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 12:15:17 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 12:15:20 1999 :: Loading Izlude.
+Wed Jul  7 12:15:20 1999 :: resolver_loop: Izlude@208.132.43.29
+Wed Jul  7 12:15:20 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Wed Jul  7 12:15:22 1999 :: Loading Izlude.
+Wed Jul  7 12:15:22 1999 :: Izlude@elp-43-29.raex.com has connected.
+Wed Jul  7 12:15:26 1999 :: Loading Wiegraf.
+Wed Jul  7 12:15:26 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Wed Jul  7 12:15:26 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Wed Jul  7 12:15:27 1999 :: Loading Wiegraf.
+Wed Jul  7 12:15:27 1999 :: Wiegraf@elp-43-29.raex.com has connected.
+Wed Jul  7 12:35:53 1999 :: Wiegraf has quit.
+Wed Jul  7 12:35:59 1999 :: Izlude has quit.
+Wed Jul  7 12:36:11 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 12:36:15 1999 :: EOF encountered on read.
+Wed Jul  7 13:33:37 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 13:33:42 1999 :: sock.sinaddr: 208.132.43.29
+Wed Jul  7 13:33:51 1999 :: Loading Izlude.
+Wed Jul  7 13:33:51 1999 :: resolver_loop: Izlude@208.132.43.29
+Wed Jul  7 13:33:51 1999 :: resolv_done: Izlude@elp-43-29.raex.com
+Wed Jul  7 13:33:55 1999 :: Loading Izlude.
+Wed Jul  7 13:33:55 1999 :: Izlude@elp-43-29.raex.com has connected.
+Wed Jul  7 13:34:00 1999 :: Loading Wiegraf.
+Wed Jul  7 13:34:00 1999 :: resolver_loop: Wiegraf@208.132.43.29
+Wed Jul  7 13:34:00 1999 :: resolv_done: Wiegraf@elp-43-29.raex.com
+Wed Jul  7 13:34:01 1999 :: Loading Wiegraf.
+Wed Jul  7 13:34:01 1999 :: Wiegraf@elp-43-29.raex.com has connected.
+Wed Jul  7 13:41:49 1999 :: sock.sinaddr: 194.64.181.153
+Wed Jul  7 13:41:54 1999 :: Loading Voashnoon.
+Wed Jul  7 13:41:54 1999 :: resolver_loop: Voashnoon@194.64.181.153
+Wed Jul  7 13:41:55 1999 :: resolv_done: Voashnoon@deck-121.frankfurt.netsurf.de
+Wed Jul  7 13:41:58 1999 :: Loading Voashnoon.
+Wed Jul  7 13:41:58 1999 :: Voashnoon@deck-121.frankfurt.netsurf.de has connected.
+Wed Jul  7 13:53:35 1999 :: deduct cost: Voashnoon: ch->silver (24) < silver (-68)
+Wed Jul  7 13:53:45 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-68)
+Wed Jul  7 13:53:45 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-82)
+Wed Jul  7 13:53:46 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-19)
+Wed Jul  7 13:53:46 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-4)
+Wed Jul  7 13:53:46 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-90)
+Wed Jul  7 13:53:46 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-68)
+Wed Jul  7 14:12:19 1999 :: sock.sinaddr: 194.64.181.153
+Wed Jul  7 14:12:19 1999 :: EOF encountered on read.
+Wed Jul  7 14:12:32 1999 :: sock.sinaddr: 194.64.181.153
+Wed Jul  7 14:12:32 1999 :: EOF encountered on read.
+Wed Jul  7 14:13:06 1999 :: sock.sinaddr: 194.64.181.153
+Wed Jul  7 14:13:06 1999 :: sock.sinaddr: 194.64.181.153
+Wed Jul  7 14:13:06 1999 :: EOF encountered on read.
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 14:14:22 1999 :: sock.sinaddr: 194.64.181.158
+Wed Jul  7 14:14:27 1999 :: Loading Voashnoon.
+Wed Jul  7 14:14:27 1999 :: resolver_loop: Voashnoon@194.64.181.158
+Wed Jul  7 14:14:44 1999 :: citizen woman: wait state 24
+Wed Jul  7 14:14:45 1999 :: sock.sinaddr: 194.64.181.158
+Wed Jul  7 14:14:50 1999 :: Loading Voashnoon.
+Wed Jul  7 14:15:08 1999 :: resolver_loop: Voashnoon@194.64.181.158
+Wed Jul  7 14:15:08 1999 :: resolv_done: Voashnoon@194.64.181.158
+Wed Jul  7 14:15:53 1999 :: Closing link to Voashnoon.
+Wed Jul  7 14:15:53 1999 :: Closing link to Voashnoon.
+Wed Jul  7 14:15:53 1999 :: Voashnoon@194.64.181.158 reconnected.
+Wed Jul  7 14:16:17 1999 :: Wiegraf has quit.
+Wed Jul  7 14:16:22 1999 :: Izlude has quit.
+Wed Jul  7 14:16:28 1999 :: resolv_done: Voashnoon@194.64.181.158
+Wed Jul  7 14:16:54 1999 :: Voashnoon has quit.
+Reseting area: [P] OBJ limit reached
+Wed Jul  7 16:05:46 1999 :: sock.sinaddr: 209.109.230.167
+Wed Jul  7 16:05:49 1999 :: EOF encountered on read.
+Wed Jul  7 16:44:02 1999 :: sock.sinaddr: 167.206.60.154
+Wed Jul  7 16:44:04 1999 :: Loading Momo.
+Wed Jul  7 16:44:05 1999 :: resolver_loop: Momo@167.206.60.154
+Wed Jul  7 16:44:05 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Wed Jul  7 16:44:06 1999 :: Momo@bab60-154.optonline.net reconnected.
+Wed Jul  7 17:14:08 1999 :: sock.sinaddr: 167.206.60.154
+Wed Jul  7 17:14:10 1999 :: Loading Momo.
+Wed Jul  7 17:14:10 1999 :: resolver_loop: Momo@167.206.60.154
+Wed Jul  7 17:14:10 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Wed Jul  7 17:14:14 1999 :: Wrong password by Momo@bab60-154.optonline.net
+Wed Jul  7 17:14:18 1999 :: Closing link to Momo.
+Wed Jul  7 17:14:18 1999 :: Momo@bab60-154.optonline.net reconnected.
+Reseting area: [P] OBJ limit reached
+Wed Jul  7 17:40:24 1999 :: sock.sinaddr: 136.142.185.53
+Wed Jul  7 17:40:38 1999 :: resolver_loop: Kils@136.142.185.53
+Wed Jul  7 17:40:39 1999 :: resolv_done: Kils@unixs2.cis.pitt.edu
+Wed Jul  7 17:43:19 1999 :: Kilran@unixs2.cis.pitt.edu new player.
+Wed Jul  7 17:43:38 1999 :: Kilran has quit.
+Wed Jul  7 17:48:13 1999 :: sock.sinaddr: 161.53.2.130
+Wed Jul  7 17:48:23 1999 :: resolver_loop: Gwin@161.53.2.130
+Wed Jul  7 17:48:24 1999 :: resolv_done: Gwin@jagor.srce.hr
+Wed Jul  7 17:56:48 1999 :: EOF encountered on read.
+Wed Jul  7 17:56:48 1999 :: Closing link to Gwin.
+Wed Jul  7 18:08:03 1999 :: sock.sinaddr: 161.53.2.130
+Wed Jul  7 18:08:08 1999 :: resolver_loop: Gwin@161.53.2.130
+Wed Jul  7 18:08:09 1999 :: resolv_done: Gwin@jagor.srce.hr
+Wed Jul  7 18:10:02 1999 :: Gwin@jagor.srce.hr new player.
+Wed Jul  7 18:30:03 1999 :: Gwin has quit.
+Wed Jul  7 18:36:51 1999 :: sock.sinaddr: 208.242.83.226
+Wed Jul  7 18:36:52 1999 :: Loading Erebus.
+Wed Jul  7 18:36:52 1999 :: resolver_loop: Erebus@208.242.83.226
+Wed Jul  7 18:36:53 1999 :: resolv_done: Erebus@pm2-1.ppp17.wmol.com
+Wed Jul  7 18:36:54 1999 :: Loading Erebus.
+Wed Jul  7 18:36:54 1999 :: Erebus@pm2-1.ppp17.wmol.com has connected.
+Wed Jul  7 18:38:42 1999 :: Erebus has quit.
+Wed Jul  7 18:39:34 1999 :: sock.sinaddr: 194.64.181.216
+Wed Jul  7 18:39:41 1999 :: Loading Aidanac.
+Wed Jul  7 18:39:41 1999 :: resolver_loop: Aidanac@194.64.181.216
+Wed Jul  7 18:39:47 1999 :: resolv_done: Aidanac@deck-184.frankfurt.netsurf.de
+Wed Jul  7 18:39:50 1999 :: Loading Aidanac.
+Wed Jul  7 18:39:50 1999 :: Aidanac@deck-184.frankfurt.netsurf.de has connected.
+Wed Jul  7 18:52:14 1999 :: sock.sinaddr: 161.53.2.130
+Wed Jul  7 18:52:17 1999 :: Loading Gwin.
+Wed Jul  7 18:52:17 1999 :: resolver_loop: Gwin@161.53.2.130
+Wed Jul  7 18:52:17 1999 :: resolv_done: Gwin@jagor.srce.hr
+Wed Jul  7 18:52:20 1999 :: Wrong password by Gwin@jagor.srce.hr
+Wed Jul  7 18:52:23 1999 :: Wrong password by Gwin@jagor.srce.hr
+Wed Jul  7 18:52:26 1999 :: Loading Gwin.
+Wed Jul  7 18:52:26 1999 :: Gwin@jagor.srce.hr has connected.
+Wed Jul  7 18:55:53 1999 :: Gwin has quit.
+Wed Jul  7 18:57:24 1999 :: sock.sinaddr: 208.242.83.226
+Wed Jul  7 18:57:25 1999 :: Loading Erebus.
+Wed Jul  7 18:57:25 1999 :: resolver_loop: Erebus@208.242.83.226
+Wed Jul  7 18:57:25 1999 :: resolv_done: Erebus@pm2-1.ppp17.wmol.com
+Wed Jul  7 18:57:26 1999 :: Loading Erebus.
+Wed Jul  7 18:57:26 1999 :: Erebus@pm2-1.ppp17.wmol.com has connected.
+Wed Jul  7 19:00:29 1999 :: Erebus has quit.
+Wed Jul  7 19:27:23 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 19:28:54 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 6518: 'emote'
+Wed Jul  7 19:32:58 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 19:33:02 1999 :: Loading Aidanac.
+Wed Jul  7 19:33:02 1999 :: resolver_loop: Aidanac@194.64.181.213
+Wed Jul  7 19:33:02 1999 :: resolv_done: Aidanac@deck-181.frankfurt.netsurf.de
+Wed Jul  7 19:33:07 1999 :: Closing link to Aidanac.
+Wed Jul  7 19:33:07 1999 :: Aidanac@deck-181.frankfurt.netsurf.de reconnected.
+Wed Jul  7 19:33:11 1999 :: Aidanac has quit.
+Wed Jul  7 19:33:15 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 19:33:30 1999 :: resolver_loop: Tabajaga@194.64.181.213
+Wed Jul  7 19:33:31 1999 :: resolv_done: Tabajaga@deck-181.frankfurt.netsurf.de
+Wed Jul  7 19:34:12 1999 :: EOF encountered on read.
+Wed Jul  7 19:34:12 1999 :: Closing link to Tabajaga.
+Wed Jul  7 19:34:13 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 19:34:27 1999 :: resolver_loop: Tabajaga@194.64.181.213
+Wed Jul  7 19:34:27 1999 :: resolv_done: Tabajaga@deck-181.frankfurt.netsurf.de
+Wed Jul  7 19:40:33 1999 :: Tabajaga@deck-181.frankfurt.netsurf.de new player.
+Wed Jul  7 19:40:56 1999 :: Log Tabajaga: delete
+Wed Jul  7 19:40:58 1999 :: Log Tabajaga: delete
+Wed Jul  7 19:40:58 1999 :: Tabajaga has quit.
+Wed Jul  7 19:41:01 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 19:41:09 1999 :: resolver_loop: Tabajaga@194.64.181.213
+Wed Jul  7 19:41:09 1999 :: resolv_done: Tabajaga@deck-181.frankfurt.netsurf.de
+Wed Jul  7 19:45:22 1999 :: Tabajaga@deck-181.frankfurt.netsurf.de new player.
+Wed Jul  7 20:19:08 1999 :: sock.sinaddr: 152.205.53.111
+Wed Jul  7 20:19:10 1999 :: Loading Kagus.
+Wed Jul  7 20:19:10 1999 :: resolver_loop: Kagus@152.205.53.111
+Wed Jul  7 20:19:10 1999 :: resolv_done: Kagus@98CD356F.ipt.aol.com
+Wed Jul  7 20:19:10 1999 :: Loading Kagus.
+Wed Jul  7 20:19:10 1999 :: Kagus@98CD356F.ipt.aol.com has connected.
+Wed Jul  7 20:20:29 1999 :: Tabajaga has quit.
+Wed Jul  7 20:20:39 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 20:20:44 1999 :: resolver_loop: Gothmog@194.64.181.213
+Wed Jul  7 20:20:44 1999 :: resolv_done: Gothmog@deck-181.frankfurt.netsurf.de
+Wed Jul  7 20:21:59 1999 :: sock.sinaddr: 152.205.53.111
+Wed Jul  7 20:22:01 1999 :: Loading Urza.
+Wed Jul  7 20:22:01 1999 :: resolver_loop: Urza@152.205.53.111
+Wed Jul  7 20:22:01 1999 :: resolv_done: Urza@98CD356F.ipt.aol.com
+Wed Jul  7 20:22:02 1999 :: Loading Urza.
+Wed Jul  7 20:22:02 1999 :: Urza@98CD356F.ipt.aol.com has connected.
+Wed Jul  7 20:24:14 1999 :: EOF encountered on read.
+Wed Jul  7 20:24:14 1999 :: Closing link to Gothmog.
+Wed Jul  7 20:24:14 1999 :: sock.sinaddr: 194.64.181.213
+Wed Jul  7 20:24:17 1999 :: Loading Voashnoon.
+Wed Jul  7 20:24:18 1999 :: resolver_loop: Voashnoon@194.64.181.213
+Wed Jul  7 20:24:18 1999 :: resolv_done: Voashnoon@deck-181.frankfurt.netsurf.de
+Wed Jul  7 20:24:21 1999 :: Loading Voashnoon.
+Wed Jul  7 20:24:21 1999 :: Voashnoon@deck-181.frankfurt.netsurf.de has connected.
+Wed Jul  7 20:34:59 1999 :: oldstyle Judge Whopper: wait state 18
+Wed Jul  7 20:35:03 1999 :: oldstyle Judge Whopper: wait state 6
+Wed Jul  7 20:35:08 1999 :: oldstyle Judge Whopper: wait state 18
+Wed Jul  7 20:35:12 1999 :: oldstyle Judge Whopper: wait state 6
+Wed Jul  7 20:35:41 1999 :: oldstyle Judge Whopper: wait state 24
+Wed Jul  7 20:36:48 1999 :: sock.sinaddr: 208.242.83.104
+Wed Jul  7 20:36:49 1999 :: Loading Erebus.
+Wed Jul  7 20:36:49 1999 :: resolver_loop: Erebus@208.242.83.104
+Wed Jul  7 20:36:49 1999 :: resolv_done: Erebus@ppp4.wmol.com
+Wed Jul  7 20:36:50 1999 :: Loading Erebus.
+Wed Jul  7 20:36:50 1999 :: Erebus@ppp4.wmol.com has connected.
+Wed Jul  7 20:50:35 1999 :: oldstyle Ice Screamer: wait state 24
+Wed Jul  7 20:50:39 1999 :: oldstyle Ice Screamer: wait state 12
+Wed Jul  7 20:50:52 1999 :: oldstyle I-scream worker: wait state 6
+Wed Jul  7 20:51:04 1999 :: oldstyle I-scream worker: wait state 24
+Wed Jul  7 20:51:33 1999 :: oldstyle I-scream worker: wait state 24
+Wed Jul  7 20:51:38 1999 :: oldstyle I-scream worker: wait state 24
+Wed Jul  7 20:51:42 1999 :: oldstyle I-scream worker: wait state 24
+Wed Jul  7 20:57:48 1999 :: oldstyle Judge Whopper: wait state 18
+Wed Jul  7 20:57:52 1999 :: oldstyle Judge Whopper: wait state 6
+Wed Jul  7 20:58:09 1999 :: oldstyle Judge Whopper: wait state 18
+Wed Jul  7 20:58:13 1999 :: oldstyle Judge Whopper: wait state 18
+Wed Jul  7 21:01:35 1999 :: sock.sinaddr: 209.109.227.187
+Wed Jul  7 21:01:35 1999 :: EOF encountered on read.
+Wed Jul  7 21:09:01 1999 :: sock.sinaddr: 24.2.22.153
+Wed Jul  7 21:09:08 1999 :: resolver_loop: Dengarman@24.2.22.153
+Wed Jul  7 21:09:08 1999 :: resolv_done: Dengarman@c50655-a.plstn1.sfba.home.com
+Wed Jul  7 21:12:49 1999 :: Log Erebus: load obj 15009
+Wed Jul  7 21:13:23 1999 :: Dengarman@c50655-a.plstn1.sfba.home.com new player.
+Wed Jul  7 21:13:42 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:43 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:43 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:43 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:44 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:44 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:44 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:44 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:46 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:46 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:46 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:47 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:47 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:47 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:47 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:48 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:48 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:48 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:48 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:49 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:49 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:49 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:49 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:50 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:50 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:50 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:50 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:51 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:51 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:51 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:51 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:52 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:52 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:52 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:52 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:53 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:53 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:53 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:54 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:54 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:54 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:54 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:13:55 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:15:41 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:15:42 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:15:59 1999 :: Log Momo: trans satan
+Wed Jul  7 21:16:03 1999 :: Log Momo: trans shadow
+Wed Jul  7 21:16:10 1999 :: Log Momo: trans scil
+Wed Jul  7 21:16:54 1999 :: Log Erebus: load obj 19158
+Wed Jul  7 21:28:16 1999 :: Log Erebus: trans mob ninja master
+Wed Jul  7 21:28:23 1999 :: Log Erebus: trans ninja master
+Wed Jul  7 21:28:24 1999 :: Log Erebus: switch nin
+Wed Jul  7 21:28:36 1999 :: Log Erebus: trans 'ninja master
+Wed Jul  7 21:28:38 1999 :: Log Erebus: switch nin
+Wed Jul  7 21:29:02 1999 :: Log guildmaster master assassin ninja: murder ere
+Wed Jul  7 21:29:23 1999 :: Log Momo: load 15009
+Wed Jul  7 21:29:24 1999 :: Log Momo: load 15009
+Wed Jul  7 21:29:28 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:29:28 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:29:39 1999 :: Log Momo: force voa wear hand
+Wed Jul  7 21:29:45 1999 :: Log Momo: force voa dual hand
+Wed Jul  7 21:29:46 1999 :: Log Erebus: slay nin
+Wed Jul  7 21:30:25 1999 :: sock.sinaddr: 209.123.65.29
+Wed Jul  7 21:30:27 1999 :: Loading Momo.
+Wed Jul  7 21:30:28 1999 :: resolver_loop: Momo@209.123.65.29
+Wed Jul  7 21:30:28 1999 :: resolv_done: Momo@icey.mudsrus.com
+Wed Jul  7 21:30:32 1999 :: EOF encountered on read.
+Wed Jul  7 21:32:35 1999 :: Log Erebus: trans mob ranger guild
+Wed Jul  7 21:32:42 1999 :: Log Erebus: trans ranger guild
+Wed Jul  7 21:32:47 1999 :: Log Erebus: trans 'ranger guild
+Wed Jul  7 21:32:50 1999 :: Log Erebus: slay ran
+Wed Jul  7 21:33:54 1999 :: Log Erebus: grant voash 92
+Wed Jul  7 21:34:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:34:45 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:34:48 1999 :: Log Momo: restore all
+Wed Jul  7 21:35:30 1999 :: Log Momo: force den wear hand
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 21:35:51 1999 :: Closing link to Urza.
+Wed Jul  7 21:35:53 1999 :: sock.sinaddr: 152.205.53.111
+Wed Jul  7 21:35:54 1999 :: Loading Urza.
+Wed Jul  7 21:35:54 1999 :: resolver_loop: Urza@152.205.53.111
+Wed Jul  7 21:35:55 1999 :: resolv_done: Urza@98CD356F.ipt.aol.com
+Wed Jul  7 21:35:55 1999 :: Urza@98CD356F.ipt.aol.com reconnected.
+Wed Jul  7 21:36:35 1999 :: Log Erebus: advance voash 92
+Wed Jul  7 21:36:39 1999 :: Log Erebus: trans voash
+Wed Jul  7 21:36:40 1999 :: Log Erebus: advance voash 92
+Wed Jul  7 21:36:43 1999 :: Log Erebus: restore
+Wed Jul  7 21:38:23 1999 :: deduct cost: Urza: ch->silver (0) < silver (-76)
+Wed Jul  7 21:38:26 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:27 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:27 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:27 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:28 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:28 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:28 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:29 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:29 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:29 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:29 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:30 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:30 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:30 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:30 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:31 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:31 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:31 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:31 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:32 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:32 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:32 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:32 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:38:33 1999 :: Log Momo: load obj 15009
+Wed Jul  7 21:39:46 1999 :: Log Erebus: snoop voash
+Wed Jul  7 21:40:39 1999 :: sock.sinaddr: 152.173.9.106
+Wed Jul  7 21:40:40 1999 :: Loading Ronkar.
+Wed Jul  7 21:40:40 1999 :: resolver_loop: Ronkar@152.173.9.106
+Wed Jul  7 21:40:40 1999 :: resolv_done: Ronkar@98AD096A.ipt.aol.com
+Wed Jul  7 21:40:41 1999 :: Loading Ronkar.
+Wed Jul  7 21:40:41 1999 :: Ronkar@98AD096A.ipt.aol.com has connected.
+Read_from_descriptor: Broken pipe
+Wed Jul  7 21:40:42 1999 :: Closing link to Ronkar.
+Wed Jul  7 21:41:44 1999 :: sock.sinaddr: 209.109.228.183
+Wed Jul  7 21:41:47 1999 :: Loading Sabin.
+Wed Jul  7 21:41:47 1999 :: resolver_loop: Sabin@209.109.228.183
+Wed Jul  7 21:41:47 1999 :: resolv_done: Sabin@nyc-ny76-55.ix.netcom.com
+Wed Jul  7 21:41:49 1999 :: Wrong password by Sabin@nyc-ny76-55.ix.netcom.com
+Wed Jul  7 21:41:50 1999 :: Wrong password by Sabin@nyc-ny76-55.ix.netcom.com
+Wed Jul  7 21:41:52 1999 :: EOF encountered on read.
+Wed Jul  7 21:41:52 1999 :: Closing link to Sabin.
+Wed Jul  7 21:41:52 1999 :: sock.sinaddr: 209.109.228.183
+Wed Jul  7 21:41:55 1999 :: Loading Whander.
+Wed Jul  7 21:41:55 1999 :: resolver_loop: Whander@209.109.228.183
+Wed Jul  7 21:41:55 1999 :: resolv_done: Whander@nyc-ny76-55.ix.netcom.com
+Wed Jul  7 21:41:55 1999 :: Loading Whander.
+Wed Jul  7 21:41:55 1999 :: Whander@nyc-ny76-55.ix.netcom.com has connected.
+Wed Jul  7 21:46:13 1999 :: Log Erebus: purge
+Wed Jul  7 21:47:28 1999 :: Log Erebus: slay gno
+Wed Jul  7 21:48:06 1999 :: Log Erebus: purge
+Wed Jul  7 21:49:18 1999 :: Log Erebus: purge
+Wed Jul  7 21:51:53 1999 :: Log Erebus: set skill voash all 100
+Wed Jul  7 21:52:34 1999 :: Log Erebus: grant voash set
+Wed Jul  7 21:55:46 1999 :: Log eye deep beholder: murder Voashnoon
+Wed Jul  7 21:56:29 1999 :: Log Erebus: trans dengar 3001
+Wed Jul  7 21:56:45 1999 :: Log Erebus: grant voash 100
+Wed Jul  7 21:56:54 1999 :: Log Voashnoon: set char voash str 25
+Wed Jul  7 22:00:46 1999 :: Ronkar has quit.
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 22:03:40 1999 :: Closing link to Dengarman.
+Read_from_descriptor: Connection reset by peer
+Wed Jul  7 22:08:23 1999 :: Closing link to Momo.
+Wed Jul  7 22:09:07 1999 :: sock.sinaddr: 209.109.228.183
+Wed Jul  7 22:09:24 1999 :: Loading Nibas.
+Wed Jul  7 22:09:24 1999 :: resolver_loop: Nibas@209.109.228.183
+Wed Jul  7 22:09:24 1999 :: resolv_done: Nibas@nyc-ny76-55.ix.netcom.com
+Wed Jul  7 22:09:25 1999 :: Loading Nibas.
+Wed Jul  7 22:09:25 1999 :: Nibas@nyc-ny76-55.ix.netcom.com has connected.
+Wed Jul  7 22:14:40 1999 :: Log Erebus: gecho {BA cool breeze passes over you, refreshing your {Csoul{x 
+Wed Jul  7 22:14:40 1999 :: Log Erebus: restore all
+Wed Jul  7 22:15:05 1999 :: Log Erebus: delete
+Wed Jul  7 22:15:07 1999 :: Log Erebus: delete
+Wed Jul  7 22:15:07 1999 :: Erebus has quit.
+Wed Jul  7 22:17:19 1999 :: Log Voashnoon: load obj 6522
+Wed Jul  7 22:19:49 1999 :: Log Voashnoon: set obj hand noremove
+Wed Jul  7 22:20:12 1999 :: Log Voashnoon: set obj hand extra noremove
+Wed Jul  7 22:20:22 1999 :: Log Voashnoon: set obj hand timer 1
+Wed Jul  7 22:20:28 1999 :: shadow thing: wait state 12
+Wed Jul  7 22:20:40 1999 :: shadow thing: wait state 6
+Wed Jul  7 22:20:44 1999 :: back_home: reset place not found
+Wed Jul  7 22:20:44 1999 :: back_home: reset place not found
+Wed Jul  7 22:20:45 1999 :: back_home: reset place not found
+Wed Jul  7 22:20:54 1999 :: Log Voashnoon: set obj hand timer 1
+Wed Jul  7 22:21:25 1999 :: Log Voashnoon: load obj 6521
+Wed Jul  7 22:21:34 1999 :: Dengarman has quit.
+Wed Jul  7 22:21:53 1999 :: Log Voashnoon: set obj hand timer 1
+Wed Jul  7 22:22:52 1999 :: Log Voashnoon: load obj 6521
+Wed Jul  7 22:23:33 1999 :: Log Voashnoon: load obj 6521
+Wed Jul  7 22:23:34 1999 :: Log Voashnoon: load obj 6521
+Wed Jul  7 22:28:51 1999 :: oldstyle statue: wait state 12
+Wed Jul  7 22:29:43 1999 :: Voashnoon has quit.
+Wed Jul  7 22:35:12 1999 :: sock.sinaddr: 167.206.60.154
+Wed Jul  7 22:35:18 1999 :: Loading Momo.
+Wed Jul  7 22:35:19 1999 :: resolver_loop: Momo@167.206.60.154
+Wed Jul  7 22:35:19 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Wed Jul  7 22:35:20 1999 :: Momo@bab60-154.optonline.net reconnected.
+Wed Jul  7 22:36:43 1999 :: Urza has quit.
+Wed Jul  7 22:38:26 1999 :: Kagus has quit.

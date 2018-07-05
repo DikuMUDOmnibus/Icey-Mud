@@ -1,0 +1,1326 @@
+Fri Mar 26 09:57:19 1999 :: spell_mana_transfer: not touched
+Fri Mar 26 09:57:19 1999 :: spell_plant_form: not touched
+Fri Mar 26 09:57:23 1999 :: fix_exits: 40202:3 -> 40206:1 -> 40207.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 40202:5 -> 40200:4 -> 40201.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 40203:4 -> 40205:5 -> 40204.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 40205:1 -> 40203:3 -> 40208.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 40206:4 -> 40202:5 -> 40200.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 297:3 -> 206:1 -> 205.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33131:5 -> 3054:4 -> 1215.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33176:0 -> 33176:2 -> 33178.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33302:1 -> 33304:3 -> 33306.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33303:1 -> 33304:3 -> 33306.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33306:0 -> 33304:2 -> 33305.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33306:3 -> 33304:1 -> 33305.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33307:1 -> 33305:3 -> 33304.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33307:2 -> 33305:0 -> 33304.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33307:3 -> 33304:1 -> 33305.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33309:0 -> 33304:2 -> 33305.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33309:1 -> 33306:3 -> 33304.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 33309:2 -> 33305:0 -> 33304.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 4716:2 -> 4708:0 -> 4717.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27347:3 -> 27346:1 -> 27349.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27355:2 -> 27391:0 -> 27356.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 13020:1 -> 13025:3 -> 13019.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 13053:2 -> 13052:0 -> 13052.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27391:1 -> 27391:3 -> 27453.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27391:2 -> 27391:0 -> 27356.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27398:2 -> 27398:0 -> 27405.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27399:2 -> 27399:0 -> 27406.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27412:0 -> 27412:2 -> 27409.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27413:0 -> 27413:2 -> 27408.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27419:3 -> 27419:1 -> 27425.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27420:1 -> 27425:3 -> 27419.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27420:3 -> 27420:1 -> 27425.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27421:0 -> 27421:2 -> 27420.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27421:1 -> 27425:3 -> 27419.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27421:3 -> 27421:1 -> 27425.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27432:3 -> 27432:1 -> 27431.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27433:3 -> 27433:1 -> 27435.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27434:0 -> 27434:2 -> 27433.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27434:3 -> 27434:1 -> 27436.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27435:1 -> 27430:3 -> 27431.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27436:0 -> 27436:2 -> 27435.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27436:1 -> 27430:3 -> 27431.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27437:3 -> 27437:1 -> 27442.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27438:3 -> 27438:1 -> 27441.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27439:0 -> 27439:2 -> 27438.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27439:3 -> 27439:1 -> 27440.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27440:0 -> 27440:2 -> 27441.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27444:1 -> 27447:3 -> 27443.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27445:0 -> 27445:2 -> 27444.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27445:1 -> 27447:3 -> 27443.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27446:0 -> 27439:2 -> 27438.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27447:0 -> 27439:2 -> 27438.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27448:2 -> 27448:0 -> 27397.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27448:3 -> 27448:1 -> 27449.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27449:2 -> 27449:0 -> 27396.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27455:1 -> 27455:3 -> 27456.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27455:2 -> 27455:0 -> 27453.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27456:2 -> 27456:0 -> 27452.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27457:2 -> 27457:0 -> 27451.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27458:2 -> 27458:0 -> 27450.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27458:3 -> 27458:1 -> 27457.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27464:1 -> 27464:3 -> 27510.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27466:3 -> 27466:1 -> 27465.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27470:0 -> 27470:2 -> 27469.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27471:0 -> 27471:2 -> 27472.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27473:0 -> 27473:2 -> 27511.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 12124:1 -> 12154:3 -> 12154.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 12125:1 -> 12153:3 -> 12153.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 12126:3 -> 12152:1 -> 12152.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27487:2 -> 27496:0 -> 27495.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 12127:3 -> 12151:1 -> 12151.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27491:2 -> 27496:0 -> 27495.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27491:3 -> 27496:1 -> 27487.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27496:2 -> 27496:0 -> 27495.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27497:3 -> 27497:1 -> 27496.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27499:3 -> 27499:1 -> 27494.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27500:3 -> 27500:1 -> 27493.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27501:0 -> 27501:2 -> 27510.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27502:3 -> 27502:1 -> 27498.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27503:3 -> 27503:1 -> 27506.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27504:0 -> 27504:2 -> 27503.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27504:3 -> 27504:1 -> 27505.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27505:0 -> 27505:2 -> 27506.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27507:0 -> 27507:2 -> 27464.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27507:1 -> 27507:3 -> 27501.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27511:3 -> 27504:1 -> 27505.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 27518:2 -> 27391:0 -> 27356.
+Fri Mar 26 09:57:23 1999 :: fix_exits: 47002:5 -> 1220:4 -> 1221.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Equip_char: already equipped (14).
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Mar 26 09:57:23 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Fri Mar 26 09:57:23 1999 :: ready to rock on port 4000.
+Fri Mar 26 09:57:23 1999 :: info service started on port 4001.
+Fri Mar 26 09:57:23 1999 :: sock.sinaddr: 208.133.30.70
+Fri Mar 26 09:57:24 1999 :: Loading Moridin.
+Fri Mar 26 09:57:24 1999 :: resolver_loop: Moridin@208.133.30.70
+Fri Mar 26 09:57:25 1999 :: resolv_done: Moridin@max01-lr-05.lr.anc.net
+Fri Mar 26 09:57:27 1999 :: Loading Moridin.
+Fri Mar 26 09:57:27 1999 :: Moridin@max01-lr-05.lr.anc.net has connected.
+Fri Mar 26 09:57:29 1999 :: sock.sinaddr: 208.133.30.70
+Fri Mar 26 09:57:31 1999 :: sock.sinaddr: 208.133.30.70
+Fri Mar 26 09:57:34 1999 :: Loading Mezik.
+Fri Mar 26 09:57:34 1999 :: resolver_loop: Mezik@208.133.30.70
+Fri Mar 26 09:57:34 1999 :: resolv_done: Mezik@max01-lr-05.lr.anc.net
+Fri Mar 26 09:57:34 1999 :: Loading Mezik.
+Fri Mar 26 09:57:34 1999 :: Mezik@max01-lr-05.lr.anc.net has connected.
+Fri Mar 26 09:57:47 1999 :: Log Moridin: load obj 35271
+Fri Mar 26 09:58:08 1999 :: Log Moridin: trans mezik
+Fri Mar 26 09:58:21 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 09:58:28 1999 :: Log Moridin: asave changed
+Fri Mar 26 09:58:32 1999 :: Log Moridin: load obj 12496
+Fri Mar 26 09:59:04 1999 :: Log Moridin: purge
+Fri Mar 26 10:00:29 1999 :: Log Moridin: load obj 16061
+Fri Mar 26 10:00:56 1999 :: Log Moridin: trans mez
+Fri Mar 26 10:01:53 1999 :: Log Moridin: trans mezik
+Fri Mar 26 10:02:14 1999 :: Log Moridin: trans mez
+Fri Mar 26 10:03:59 1999 :: Log Moridin: load obj 19067
+Fri Mar 26 10:04:54 1999 :: dragon: wait state 12
+Fri Mar 26 10:04:55 1999 :: Log Moridin: trans arch 1
+Fri Mar 26 10:05:02 1999 :: dragon: wait state 12
+Fri Mar 26 10:06:14 1999 :: Log Moridin: trans mez
+Fri Mar 26 10:06:15 1999 :: Log Moridin: trans wolf
+Fri Mar 26 10:06:50 1999 :: Moridin has quit.
+Fri Mar 26 10:08:12 1999 :: Mezik has quit.
+Fri Mar 26 10:50:49 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Fri Mar 26 12:14:56 1999 :: sock.sinaddr: 208.195.247.198
+Fri Mar 26 12:15:00 1999 :: resolver_loop: Xiana@208.195.247.198
+Fri Mar 26 12:15:00 1999 :: resolv_done: Xiana@d198.goes.com
+Fri Mar 26 12:19:13 1999 :: Xiana@d198.goes.com new player.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 12:34:31 1999 :: Closing link to Xiana.
+Fri Mar 26 12:54:16 1999 :: Xiana has quit.
+Fri Mar 26 13:07:56 1999 :: sock.sinaddr: 209.214.162.119
+Fri Mar 26 13:08:01 1999 :: resolver_loop: Dremotos@209.214.162.119
+Fri Mar 26 13:08:02 1999 :: resolv_done: Dremotos@host-209-214-162-119.rdu.bellsouth.net
+Fri Mar 26 13:09:00 1999 :: EOF encountered on read.
+Fri Mar 26 13:09:00 1999 :: Closing link to Dremotos.
+Fri Mar 26 13:09:03 1999 :: sock.sinaddr: 209.214.162.119
+Fri Mar 26 13:09:05 1999 :: resolver_loop: Dremotos@209.214.162.119
+Fri Mar 26 13:09:05 1999 :: resolv_done: Dremotos@host-209-214-162-119.rdu.bellsouth.net
+Fri Mar 26 13:10:49 1999 :: Dremotos@host-209-214-162-119.rdu.bellsouth.net new player.
+Fri Mar 26 13:57:22 1999 :: back_home: reset place not found
+Fri Mar 26 14:04:56 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:05:09 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:05:16 1999 :: Loading Wynder.
+Fri Mar 26 14:05:16 1999 :: resolver_loop: Wynder@216.128.155.1
+Fri Mar 26 14:05:16 1999 :: resolver_loop: Zavor@216.128.155.1
+Fri Mar 26 14:05:16 1999 :: resolv_done: Wynder@cisco-worthco1.peanut.org
+Fri Mar 26 14:05:17 1999 :: Loading Wynder.
+Fri Mar 26 14:05:17 1999 :: Wynder@cisco-worthco1.peanut.org has connected.
+Fri Mar 26 14:06:26 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:06:43 1999 :: resolver_loop: Zavor@216.128.155.1
+Fri Mar 26 14:06:43 1999 :: resolv_done: Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:06:43 1999 :: resolv_done: Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:06:43 1999 :: EOF encountered on read.
+Fri Mar 26 14:06:43 1999 :: Closing link to Zavor.
+Fri Mar 26 14:06:47 1999 :: Wrong password by Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:06:52 1999 :: Wrong password by Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:07:02 1999 :: Wrong password by Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:07:02 1999 :: Closing link to Zavor.
+Fri Mar 26 14:07:08 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:07:13 1999 :: resolver_loop: Zavor@216.128.155.1
+Fri Mar 26 14:07:13 1999 :: resolv_done: Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:07:52 1999 :: sock.sinaddr: 206.245.158.193
+Fri Mar 26 14:09:14 1999 :: Zavor@cisco-worthco1.peanut.org new player.
+Fri Mar 26 14:09:35 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:09:38 1999 :: resolver_loop: Hicks@216.128.155.1
+Fri Mar 26 14:09:39 1999 :: resolv_done: Hicks@cisco-worthco1.peanut.org
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 14:09:57 1999 :: Closing link to Hicks.
+Fri Mar 26 14:10:03 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:10:24 1999 :: resolver_loop: Hickshicks@216.128.155.1
+Fri Mar 26 14:10:24 1999 :: resolv_done: Hickshicks@cisco-worthco1.peanut.org
+Fri Mar 26 14:12:08 1999 :: EOF encountered on read.
+Fri Mar 26 14:12:08 1999 :: Closing link to Zavor.
+Fri Mar 26 14:12:08 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:12:20 1999 :: resolver_loop: Zavor@216.128.155.1
+Fri Mar 26 14:12:20 1999 :: resolv_done: Zavor@cisco-worthco1.peanut.org
+Fri Mar 26 14:12:26 1999 :: Zavor@cisco-worthco1.peanut.org reconnected.
+Fri Mar 26 14:12:49 1999 :: EOF encountered on read.
+Fri Mar 26 14:12:49 1999 :: Closing link to Zavor.
+Fri Mar 26 14:12:53 1999 :: sock.sinaddr: 216.128.155.1
+Fri Mar 26 14:13:00 1999 :: resolver_loop: Robin@216.128.155.1
+Fri Mar 26 14:13:01 1999 :: resolv_done: Robin@cisco-worthco1.peanut.org
+Fri Mar 26 14:14:29 1999 :: Freak@cisco-worthco1.peanut.org new player.
+Fri Mar 26 14:14:34 1999 :: Robin@cisco-worthco1.peanut.org new player.
+Fri Mar 26 14:17:49 1999 :: Log Wynder: murder z
+Fri Mar 26 14:20:01 1999 :: sock.sinaddr: 209.214.162.119
+Fri Mar 26 14:20:44 1999 :: EOF encountered on read.
+Fri Mar 26 14:22:03 1999 :: sock.sinaddr: 209.123.65.29
+Fri Mar 26 14:22:08 1999 :: Loading Momo.
+Fri Mar 26 14:22:08 1999 :: resolver_loop: Momo@209.123.65.29
+Fri Mar 26 14:22:08 1999 :: resolv_done: Momo@icey.mudsrus.com
+Fri Mar 26 14:22:09 1999 :: Loading Momo.
+Fri Mar 26 14:22:09 1999 :: Momo@icey.mudsrus.com has connected.
+Fri Mar 26 14:22:20 1999 :: Log Freak: murder robin
+Fri Mar 26 14:22:25 1999 :: Log Freak: murder gods
+Fri Mar 26 14:22:38 1999 :: Log Freak: murder
+Fri Mar 26 14:22:55 1999 :: Log Freak: murder murder robin
+Fri Mar 26 14:23:01 1999 :: Log Freak: murder robin
+Fri Mar 26 14:23:04 1999 :: Log Freak: murder
+Fri Mar 26 14:23:46 1999 :: Log Momo: noaff robin
+Fri Mar 26 14:24:55 1999 :: Log Freak: murder robin
+Fri Mar 26 14:25:24 1999 :: Log Robin: murder freak
+Fri Mar 26 14:25:32 1999 :: Log Freak: murder robin
+Fri Mar 26 14:27:18 1999 :: sock.sinaddr: 209.214.162.119
+Fri Mar 26 14:27:49 1999 :: Loading Dremotos.
+Fri Mar 26 14:27:49 1999 :: resolver_loop: Dremotos@209.214.162.119
+Fri Mar 26 14:27:49 1999 :: resolv_done: Dremotos@host-209-214-162-119.rdu.bellsouth.net
+Fri Mar 26 14:28:02 1999 :: Closing link to Dremotos.
+Fri Mar 26 14:28:02 1999 :: Dremotos@host-209-214-162-119.rdu.bellsouth.net reconnected.
+Fri Mar 26 14:28:12 1999 :: Log Wynder: edit room 27001
+Fri Mar 26 14:31:14 1999 :: sock.sinaddr: 171.210.227.165
+Fri Mar 26 14:31:51 1999 :: Loading Racquel.
+Fri Mar 26 14:31:51 1999 :: resolver_loop: Racquel@171.210.227.165
+Fri Mar 26 14:31:51 1999 :: resolv_done: Racquel@ABD2E3A5.ipt.aol.com
+Fri Mar 26 14:31:53 1999 :: Loading Racquel.
+Fri Mar 26 14:31:53 1999 :: Racquel@ABD2E3A5.ipt.aol.com has connected.
+Fri Mar 26 14:32:41 1999 :: Wynder has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 14:32:57 1999 :: Closing link to Freak.
+Fri Mar 26 14:33:06 1999 :: Zavor has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 14:33:08 1999 :: Closing link to Robin.
+Fri Mar 26 14:44:42 1999 :: back_home: reset place not found
+Fri Mar 26 14:48:42 1999 :: Racquel: 'arm' of Papa Smurf
+Fri Mar 26 14:53:01 1999 :: sock.sinaddr: 198.110.221.149
+Fri Mar 26 14:53:03 1999 :: Loading Erebus.
+Fri Mar 26 14:53:04 1999 :: resolver_loop: Erebus@198.110.221.149
+Fri Mar 26 14:53:04 1999 :: resolv_done: Erebus@198.110.221.149
+Fri Mar 26 14:53:06 1999 :: Loading Erebus.
+Fri Mar 26 14:53:06 1999 :: Erebus@198.110.221.149 has connected.
+Fri Mar 26 14:53:55 1999 :: Freak has quit.
+Fri Mar 26 14:53:55 1999 :: Robin has quit.
+Fri Mar 26 14:54:40 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:24 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:25 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:28 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:30 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:32 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:35 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:37 1999 :: Log Erebus: edit room
+Fri Mar 26 14:58:43 1999 :: Log Erebus: edit room
+Fri Mar 26 14:59:24 1999 :: sock.sinaddr: 134.210.76.150
+Fri Mar 26 14:59:27 1999 :: Log Erebus: edit room
+Fri Mar 26 14:59:40 1999 :: Loading Iolus.
+Fri Mar 26 14:59:40 1999 :: resolver_loop: Iolus@134.210.76.150
+Fri Mar 26 14:59:40 1999 :: resolv_done: Iolus@134.210.76.150
+Fri Mar 26 14:59:42 1999 :: Log Erebus: edit room
+Fri Mar 26 14:59:52 1999 :: Log Erebus: edit room
+Fri Mar 26 15:00:04 1999 :: Loading Iolus.
+Fri Mar 26 15:00:04 1999 :: Iolus@134.210.76.150 has connected.
+Fri Mar 26 15:00:16 1999 :: Log Erebus: edit room
+Fri Mar 26 15:00:33 1999 :: Log Erebus: edit room
+Fri Mar 26 15:00:43 1999 :: Log Erebus: edit room
+Fri Mar 26 15:01:08 1999 :: Log Erebus: edit room
+Fri Mar 26 15:01:14 1999 :: Log Erebus: edit room
+Fri Mar 26 15:01:17 1999 :: Log Erebus: edit room
+Fri Mar 26 15:01:19 1999 :: Log Erebus: edit room
+Fri Mar 26 15:01:22 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:02 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:05 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:30 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:31 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:36 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:42 1999 :: Log Erebus: edit room
+Fri Mar 26 15:02:44 1999 :: Log Erebus: edit room
+Fri Mar 26 15:03:13 1999 :: Log Erebus: edit room
+Fri Mar 26 15:03:35 1999 :: Log Erebus: edit room
+Fri Mar 26 15:03:56 1999 :: Log Erebus: edit room
+Fri Mar 26 15:04:06 1999 :: Log Erebus: edit room
+Fri Mar 26 15:04:18 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:05 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:05 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:09 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:11 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:18 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:32 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:56 1999 :: Log Erebus: edit room
+Fri Mar 26 15:05:59 1999 :: Log Erebus: edit room
+Fri Mar 26 15:06:04 1999 :: Log Erebus: edit room
+Fri Mar 26 15:06:50 1999 :: Log Erebus: edit room
+Fri Mar 26 15:06:55 1999 :: Log Erebus: edit room
+Fri Mar 26 15:07:01 1999 :: Log Erebus: edit room
+Fri Mar 26 15:07:14 1999 :: Log Erebus: load mob 109
+Fri Mar 26 15:07:24 1999 :: sock.sinaddr: 198.110.221.149
+Fri Mar 26 15:07:27 1999 :: Loading Dwarftest.
+Fri Mar 26 15:07:27 1999 :: resolver_loop: Dwarftest@198.110.221.149
+Fri Mar 26 15:07:28 1999 :: resolv_done: Dwarftest@198.110.221.149
+Fri Mar 26 15:07:30 1999 :: Loading Dwarftest.
+Fri Mar 26 15:07:30 1999 :: Dwarftest@198.110.221.149 has connected.
+Fri Mar 26 15:07:35 1999 :: Log Erebus: trans dwarft
+Fri Mar 26 15:08:27 1999 :: Log Erebus: edit room
+Fri Mar 26 15:08:57 1999 :: EOF encountered on read.
+Fri Mar 26 15:08:57 1999 :: Closing link to Momo.
+Fri Mar 26 15:08:58 1999 :: Log Erebus: edit room
+Fri Mar 26 15:09:21 1999 :: Log Erebus: edit room
+Fri Mar 26 15:09:47 1999 :: Log Erebus: edit room
+Fri Mar 26 15:11:00 1999 :: Log Erebus: edit room
+Fri Mar 26 15:13:17 1999 :: Log Erebus: edit room
+Fri Mar 26 15:13:28 1999 :: Log Erebus: edit room
+Fri Mar 26 15:13:44 1999 :: Log Erebus: edit obj 3300
+Fri Mar 26 15:14:16 1999 :: Log Erebus: edit obj 3301
+Fri Mar 26 15:16:28 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:16:34 1999 :: Log Erebus: create obj 3302
+Fri Mar 26 15:16:38 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:18:07 1999 :: back_home: reset place not found
+Fri Mar 26 15:18:25 1999 :: Iolus has quit.
+Fri Mar 26 15:18:39 1999 :: Dremotos has quit.
+Fri Mar 26 15:18:49 1999 :: sock.sinaddr: 209.214.162.119
+Fri Mar 26 15:18:52 1999 :: Loading Dremotos.
+Fri Mar 26 15:18:52 1999 :: resolver_loop: Dremotos@209.214.162.119
+Fri Mar 26 15:18:52 1999 :: resolv_done: Dremotos@host-209-214-162-119.rdu.bellsouth.net
+Fri Mar 26 15:18:56 1999 :: EOF encountered on read.
+Fri Mar 26 15:18:56 1999 :: Closing link to Dremotos.
+Fri Mar 26 15:23:11 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:23:19 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:23:30 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:23:47 1999 :: Log Erebus: edit 3302
+Fri Mar 26 15:23:54 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:24:05 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:24:32 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:24:43 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:25:03 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:25:35 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:26:15 1999 :: Log Erebus: set mob dwarft class warrior
+Fri Mar 26 15:26:25 1999 :: Log Erebus: advance dwarft 50
+Fri Mar 26 15:27:24 1999 :: Log Erebus: edit obj 20
+Fri Mar 26 15:27:47 1999 :: sock.sinaddr: 196.33.155.33
+Fri Mar 26 15:27:49 1999 :: Loading Exemption.
+Fri Mar 26 15:27:49 1999 :: resolver_loop: Exemption@196.33.155.33
+Fri Mar 26 15:27:49 1999 :: resolv_done: Exemption@ras33.mailnet.co.za
+Fri Mar 26 15:27:56 1999 :: Log Erebus: load obj 3302
+Fri Mar 26 15:27:57 1999 :: Loading Exemption.
+Fri Mar 26 15:27:57 1999 :: Exemption@ras33.mailnet.co.za has connected.
+Fri Mar 26 15:28:22 1999 :: Log Erebus: restore
+Fri Mar 26 15:29:08 1999 :: Log Erebus: edit room
+Fri Mar 26 15:30:21 1999 :: sock.sinaddr: 206.245.158.35
+Fri Mar 26 15:31:49 1999 :: EOF encountered on read.
+Fri Mar 26 15:32:04 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:33:33 1999 :: Log Erebus: edit room
+Fri Mar 26 15:35:01 1999 :: sock.sinaddr: 209.214.120.242
+Fri Mar 26 15:35:10 1999 :: resolver_loop: Godiva@209.214.120.242
+Fri Mar 26 15:35:11 1999 :: resolv_done: Godiva@host-209-214-120-242.bna.bellsouth.net
+Fri Mar 26 15:37:43 1999 :: Aideen@host-209-214-120-242.bna.bellsouth.net new player.
+Fri Mar 26 15:38:46 1999 :: Log Erebus: edit room
+Fri Mar 26 15:43:04 1999 :: Log Erebus: asave changed
+Fri Mar 26 15:43:29 1999 :: Log Erebus: create obj 3304
+Fri Mar 26 15:43:53 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:44:05 1999 :: Log Erebus: edit obj 3304
+Fri Mar 26 15:46:10 1999 :: Log Erebus: edit obj 3302
+Fri Mar 26 15:46:30 1999 :: Log Erebus: edit obj 3304
+Fri Mar 26 15:49:13 1999 :: sock.sinaddr: 209.245.96.20
+Fri Mar 26 15:49:29 1999 :: resolver_loop: Ajgar@209.245.96.20
+Fri Mar 26 15:49:29 1999 :: resolv_done: Ajgar@dialup-209.245.96.20.Manchester1.Level3.net
+Fri Mar 26 15:49:31 1999 :: Log Erebus: edit obj 3300
+Fri Mar 26 15:49:53 1999 :: Log Erebus: edit obj 3300
+Fri Mar 26 15:51:05 1999 :: Log Erebus: edit room
+Fri Mar 26 15:51:59 1999 :: Log Erebus: set obj cra timer 1
+Fri Mar 26 15:52:33 1999 :: Log Erebus: edit room
+Fri Mar 26 15:53:06 1999 :: Log Erebus: edit obj 3303
+Fri Mar 26 15:53:57 1999 :: Log Erebus: edit room
+Fri Mar 26 16:02:56 1999 :: Log Erebus: edit room
+Fri Mar 26 16:08:28 1999 :: Ajgar@dialup-209.245.96.20.Manchester1.Level3.net new player.
+Fri Mar 26 16:09:08 1999 :: Log Erebus: edit mob 1110
+Fri Mar 26 16:11:15 1999 :: Log Erebus: load mob 1110
+Fri Mar 26 16:16:39 1999 :: sock.sinaddr: 12.72.45.215
+Fri Mar 26 16:16:43 1999 :: Loading Gwayne.
+Fri Mar 26 16:16:43 1999 :: resolver_loop: Gwayne@12.72.45.215
+Fri Mar 26 16:16:43 1999 :: resolv_done: Gwayne@215.sherman-oaks-13-14rs16rt.ca.dial-access.att.net
+Fri Mar 26 16:16:45 1999 :: Loading Gwayne.
+Fri Mar 26 16:16:45 1999 :: Gwayne@215.sherman-oaks-13-14rs16rt.ca.dial-access.att.net has connected.
+Fri Mar 26 16:21:57 1999 :: Log Erebus: restore
+new_descriptor: accept: Connection reset by peer
+new_descriptor: accept: Connection reset by peer
+new_descriptor: accept: Connection reset by peer
+new_descriptor: accept: Connection reset by peer
+Fri Mar 26 16:24:00 1999 :: Log Erebus: edit room
+Fri Mar 26 16:24:41 1999 :: Log Erebus: edit room
+Fri Mar 26 16:24:57 1999 :: Log Erebus: edit room
+Fri Mar 26 16:24:57 1999 :: back_home: reset place not found
+Fri Mar 26 16:25:02 1999 :: Log Erebus: edit room
+Fri Mar 26 16:25:24 1999 :: Log Erebus: edit room
+Fri Mar 26 16:25:49 1999 :: Log Erebus: edit room
+Fri Mar 26 16:26:04 1999 :: Log Erebus: edit room
+Fri Mar 26 16:26:43 1999 :: Log Erebus: edit room
+Fri Mar 26 16:26:51 1999 :: Log Erebus: edit room
+Fri Mar 26 16:27:20 1999 :: Log Erebus: edit room
+Fri Mar 26 16:27:39 1999 :: Log Erebus: edit room
+Fri Mar 26 16:27:51 1999 :: Exemption has quit.
+Fri Mar 26 16:27:56 1999 :: sock.sinaddr: 196.33.155.33
+Fri Mar 26 16:27:58 1999 :: Loading Exemption.
+Fri Mar 26 16:27:58 1999 :: resolver_loop: Exemption@196.33.155.33
+Fri Mar 26 16:27:58 1999 :: resolv_done: Exemption@ras33.mailnet.co.za
+Fri Mar 26 16:28:05 1999 :: Loading Exemption.
+Fri Mar 26 16:28:05 1999 :: Exemption@ras33.mailnet.co.za has connected.
+Fri Mar 26 16:28:07 1999 :: Log Erebus: edit room
+Fri Mar 26 16:28:14 1999 :: Log Erebus: edit room
+Fri Mar 26 16:28:33 1999 :: Log Erebus: edit room
+Fri Mar 26 16:28:42 1999 :: Log Erebus: edit room
+Fri Mar 26 16:29:01 1999 :: Log Erebus: edit room
+Fri Mar 26 16:32:27 1999 :: Log Erebus: gecho {BA cool breeze blows on your face, refreshing your soul.{x
+Fri Mar 26 16:32:28 1999 :: Log Erebus: restore all
+Fri Mar 26 16:34:38 1999 :: nanny: wait state 15
+Fri Mar 26 16:44:31 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 16:44:35 1999 :: Loading Moridin.
+Fri Mar 26 16:44:36 1999 :: resolver_loop: Moridin@208.133.30.109
+Fri Mar 26 16:44:36 1999 :: resolv_done: Moridin@max01-lr-44.lr.anc.net
+Fri Mar 26 16:44:36 1999 :: Loading Moridin.
+Fri Mar 26 16:44:36 1999 :: Moridin@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 16:45:39 1999 :: Log Erebus: edit room
+Fri Mar 26 16:45:43 1999 :: Log Erebus: edit room
+Fri Mar 26 16:45:51 1999 :: Log Erebus: edit room
+Fri Mar 26 16:46:04 1999 :: Log Erebus: slay w
+Fri Mar 26 16:46:17 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 16:46:39 1999 :: Log Moridin: asave changed
+Fri Mar 26 16:46:54 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 16:46:54 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 16:46:54 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 16:46:55 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 16:46:55 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 16:47:02 1999 :: Log Moridin: load obj 3702
+Fri Mar 26 16:47:50 1999 :: Log Moridin: edit obj 3719
+Fri Mar 26 16:49:09 1999 :: back_home: reset place not found
+Fri Mar 26 16:51:14 1999 :: Log Moridin: load obj 27302
+Fri Mar 26 16:51:43 1999 :: Log Moridin: load obj 27304
+Fri Mar 26 16:51:56 1999 :: Log Moridin: load obj 27304
+Fri Mar 26 16:52:03 1999 :: Log Moridin: purge
+Fri Mar 26 16:52:06 1999 :: Log Moridin: purge chest
+Fri Mar 26 16:52:12 1999 :: Log Moridin: load obj 27303
+Fri Mar 26 16:52:16 1999 :: Log Moridin: purge gly
+Fri Mar 26 16:52:21 1999 :: Log Moridin: edit obj 27308
+Fri Mar 26 16:52:25 1999 :: Log Moridin: load obj 27308
+Fri Mar 26 16:52:30 1999 :: Log Moridin: purge nexus
+Fri Mar 26 16:52:36 1999 :: Log Moridin: purge nexus
+Fri Mar 26 16:52:37 1999 :: Log Moridin: purge rune
+Fri Mar 26 16:52:41 1999 :: Log Moridin: purge chest
+Fri Mar 26 16:52:46 1999 :: Log Moridin: purge a
+Fri Mar 26 16:52:51 1999 :: Log Moridin: purge iron
+Fri Mar 26 16:52:56 1999 :: Log Moridin: purge iron
+Fri Mar 26 16:53:33 1999 :: Log Moridin: load obj 27302
+Fri Mar 26 17:01:28 1999 :: nanny: wait state 3
+Fri Mar 26 17:01:37 1999 :: nanny: wait state 3
+Fri Mar 26 17:02:46 1999 :: back_home: reset place not found
+Fri Mar 26 17:03:12 1999 :: Gwayne has quit.
+Fri Mar 26 17:03:28 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:03:45 1999 :: Log Erebus: load obj 47004
+Fri Mar 26 17:03:53 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:54 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:55 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:55 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:55 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:55 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:56 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:57 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:03:58 1999 :: Ajgar: 'head' of a teddy bear
+Fri Mar 26 17:04:20 1999 :: Log Erebus: load obj 47004
+Fri Mar 26 17:04:31 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:04:34 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:04:34 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:04:34 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:04:35 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:04:35 1999 :: Log Erebus: clone scro
+Fri Mar 26 17:05:06 1999 :: Exemption has quit.
+Fri Mar 26 17:05:20 1999 :: Log Erebus: load 12479
+Fri Mar 26 17:05:25 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:05:27 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:05:27 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:05:27 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:05:28 1999 :: Log Erebus: load obj 12479
+Fri Mar 26 17:07:47 1999 :: Log Erebus: edit room
+Fri Mar 26 17:07:58 1999 :: Log Erebus: edit mob 3300
+Fri Mar 26 17:08:03 1999 :: Log Erebus: create mob 3300
+Fri Mar 26 17:12:37 1999 :: Aideen has quit.
+Fri Mar 26 17:12:41 1999 :: Log Erebus: gecho {BA cool breeze blows on your face, refreshing your soul.{x
+Fri Mar 26 17:12:41 1999 :: Log Erebus: restore all
+Fri Mar 26 17:14:09 1999 :: Racquel has quit.
+Fri Mar 26 17:14:38 1999 :: Log Moridin: load obj 12480
+Fri Mar 26 17:16:11 1999 :: Log Moridin: create obj 12478
+Fri Mar 26 17:17:51 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:17:54 1999 :: Log Moridin: load obj 12478
+Fri Mar 26 17:19:59 1999 :: sock.sinaddr: 152.204.231.44
+Fri Mar 26 17:20:00 1999 :: Loading Wynder.
+Fri Mar 26 17:20:00 1999 :: resolver_loop: Wynder@152.204.231.44
+Fri Mar 26 17:20:00 1999 :: resolv_done: Wynder@98CCE72C.ipt.aol.com
+Fri Mar 26 17:20:02 1999 :: Loading Wynder.
+Fri Mar 26 17:20:02 1999 :: Wynder@98CCE72C.ipt.aol.com has connected.
+Fri Mar 26 17:21:29 1999 :: Log Erebus: force wynder wizi
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 17:21:31 1999 :: Closing link to Wynder.
+Fri Mar 26 17:21:44 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:21:53 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 17:22:07 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:22:12 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:12 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:12 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:13 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:13 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:13 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:13 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:14 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:14 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:14 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:22:15 1999 :: Log Moridin: trans wynd 1
+Fri Mar 26 17:22:20 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:20 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:21 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:21 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:21 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:21 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:22 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:22 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:22 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:22:22 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:23:05 1999 :: Ajgar has quit.
+Fri Mar 26 17:23:15 1999 :: Log Moridin: purge
+Fri Mar 26 17:24:31 1999 :: Log Erebus: load mob 3
+Fri Mar 26 17:24:36 1999 :: sock.sinaddr: 152.206.205.150
+Fri Mar 26 17:24:38 1999 :: Loading Wynder.
+Fri Mar 26 17:24:38 1999 :: resolver_loop: Wynder@152.206.205.150
+Fri Mar 26 17:24:38 1999 :: resolv_done: Wynder@98CECD96.ipt.aol.com
+Fri Mar 26 17:24:39 1999 :: Wynder@98CECD96.ipt.aol.com reconnected.
+Fri Mar 26 17:25:13 1999 :: Log Moridin: load obj 35721
+Fri Mar 26 17:25:18 1999 :: Log Moridin: load obj 35 271
+Fri Mar 26 17:25:20 1999 :: Log Moridin: load obj 35271
+Fri Mar 26 17:25:27 1999 :: Log Erebus: restore
+Fri Mar 26 17:25:32 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:26:55 1999 :: Log Erebus: edit obj 35271
+Fri Mar 26 17:27:14 1999 :: Log Moridin: load obj 12499
+Fri Mar 26 17:27:42 1999 :: Log Moridin: purge
+Fri Mar 26 17:27:43 1999 :: Log Erebus: load obj 35271
+Fri Mar 26 17:27:48 1999 :: Log Erebus: slay tz
+Fri Mar 26 17:28:02 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 17:28:09 1999 :: Log Erebus: load mob 3
+Fri Mar 26 17:28:12 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:28:16 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:28:19 1999 :: Log Moridin: purge
+Fri Mar 26 17:28:20 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:29:54 1999 :: Log Erebus: slay tz
+Fri Mar 26 17:29:56 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 17:29:56 1999 :: Log Erebus: trans dwarft
+Fri Mar 26 17:30:22 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:30:25 1999 :: Log Moridin: asave world
+Fri Mar 26 17:30:29 1999 :: Log Moridin: load mob 12479
+Fri Mar 26 17:30:33 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:02 1999 :: Log Moridin: load 3
+Fri Mar 26 17:31:06 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:31:13 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:21 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:21 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:22 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:22 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:31:37 1999 :: Log Moridin: purge
+Fri Mar 26 17:31:45 1999 :: Log Erebus: set mob dwarftest noghost 0
+Fri Mar 26 17:32:11 1999 :: Log Erebus: trans dwarftest
+Fri Mar 26 17:32:22 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:32:22 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:32:26 1999 :: Log Erebus: set mob dwarftest noghost 0
+Fri Mar 26 17:32:46 1999 :: Log Moridin: trans wynder 0
+Fri Mar 26 17:32:50 1999 :: Log Moridin: trans wynder 1
+Fri Mar 26 17:32:53 1999 :: Log Moridin: trans dwarv
+Fri Mar 26 17:32:54 1999 :: Log Moridin: trans dwarf
+Fri Mar 26 17:32:58 1999 :: Log Moridin: trans dwarftest
+Fri Mar 26 17:33:37 1999 :: Log Erebus: set mob dwa noghost 0
+Fri Mar 26 17:34:06 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:34:40 1999 :: Log Moridin: purge
+Fri Mar 26 17:35:00 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:35:07 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:35:15 1999 :: Log Erebus: slay tz
+Fri Mar 26 17:35:22 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:35:55 1999 :: Log Moridin: trans tzi 1
+Fri Mar 26 17:35:59 1999 :: Log Moridin: purge tzi
+Fri Mar 26 17:36:00 1999 :: Log Moridin: purge
+Fri Mar 26 17:36:30 1999 :: Log Erebus: load 3
+Fri Mar 26 17:36:33 1999 :: Log Erebus: load mob 3
+Fri Mar 26 17:37:48 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 17:37:59 1999 :: Log Moridin: asave world
+Fri Mar 26 17:38:02 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:16 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:18 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:38:30 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:38:34 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:35 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:35 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:35 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:35 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:38:45 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:39:08 1999 :: sock.sinaddr: 152.173.47.227
+Fri Mar 26 17:39:34 1999 :: Log Moridin: purge
+Fri Mar 26 17:40:24 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 17:41:11 1999 :: resolver_loop: Gwyndala@152.173.47.227
+Fri Mar 26 17:41:11 1999 :: resolv_done: Gwyndala@98AD2FE3.ipt.aol.com
+Fri Mar 26 17:43:01 1999 :: Log Erebus: edit room
+Fri Mar 26 17:43:06 1999 :: Log Erebus: edit area
+Fri Mar 26 17:43:51 1999 :: Log Erebus: asave changed
+Fri Mar 26 17:44:14 1999 :: Log Moridin: asave world
+Fri Mar 26 17:44:17 1999 :: Log Moridin: load mob 12499
+Fri Mar 26 17:44:29 1999 :: Log Moridin: edit obj 12479
+Fri Mar 26 17:45:02 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:45:06 1999 :: Log Moridin: load obj 12479
+Fri Mar 26 17:46:28 1999 :: Log Erebus: edit area
+Fri Mar 26 17:46:33 1999 :: Log Moridin: purge
+Fri Mar 26 17:46:35 1999 :: Log Moridin: edit mob 12479
+Fri Mar 26 17:46:39 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 17:46:39 1999 :: Log Erebus: edit 126
+Fri Mar 26 17:46:43 1999 :: Log Erebus: edit area 126
+Fri Mar 26 17:46:52 1999 :: sock.sinaddr: 207.99.111.58
+Fri Mar 26 17:46:54 1999 :: Loading Momo.
+Fri Mar 26 17:46:54 1999 :: resolver_loop: Momo@207.99.111.58
+Fri Mar 26 17:46:54 1999 :: resolv_done: Momo@ntcp58.spec.net
+Fri Mar 26 17:46:55 1999 :: Momo@ntcp58.spec.net reconnected.
+Fri Mar 26 17:46:56 1999 :: EOF encountered on read.
+Fri Mar 26 17:46:56 1999 :: Closing link to Gwyndala.
+Fri Mar 26 17:47:01 1999 :: sock.sinaddr: 152.173.47.227
+Fri Mar 26 17:47:03 1999 :: resolver_loop: Gwyndala@152.173.47.227
+Fri Mar 26 17:47:03 1999 :: resolv_done: Gwyndala@98AD2FE3.ipt.aol.com
+Fri Mar 26 17:48:48 1999 :: Log Moridin: asave changed
+Fri Mar 26 17:48:51 1999 :: Log Moridin: asave world
+Fri Mar 26 17:48:58 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 17:50:09 1999 :: Log Moridin: asave world
+Fri Mar 26 17:50:11 1999 :: Log Moridin: load mob 12499
+Fri Mar 26 17:50:28 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:51:13 1999 :: Log Moridin: purge corpse
+Fri Mar 26 17:51:13 1999 :: Log Moridin: purge corpse
+Fri Mar 26 17:51:45 1999 :: Log Moridin: load obj 3724
+Fri Mar 26 17:51:53 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:52:06 1999 :: Log Moridin: load mob 3
+Fri Mar 26 17:53:29 1999 :: Log Erebus: purge dwarftest
+Fri Mar 26 17:54:27 1999 :: Log Moridin: trans dummy
+Fri Mar 26 17:54:46 1999 :: Log Erebus: slay m
+Fri Mar 26 17:54:48 1999 :: Log Erebus: slay d
+Fri Mar 26 17:54:50 1999 :: Log Erebus: purge
+Fri Mar 26 17:54:52 1999 :: Wynder has quit.
+Fri Mar 26 17:55:04 1999 :: Log Moridin: load mob 12499
+Fri Mar 26 17:55:11 1999 :: Log Erebus: edit mob 3300
+Fri Mar 26 17:55:25 1999 :: Log Moridin: purge dumy
+Fri Mar 26 17:55:26 1999 :: Log Moridin: purge dum
+Fri Mar 26 17:55:34 1999 :: Log Moridin: load obj 12478
+Fri Mar 26 17:55:38 1999 :: Balinor@98AD2FE3.ipt.aol.com new player.
+Fri Mar 26 17:56:34 1999 :: Log Erebus: edit mob 3300
+Fri Mar 26 17:56:44 1999 :: Momo has quit.
+Fri Mar 26 17:57:25 1999 :: Log Erebus: edit room
+Fri Mar 26 17:58:07 1999 :: Log Erebus: edit area
+Fri Mar 26 17:58:46 1999 :: Log Erebus: edit area 96
+Fri Mar 26 17:58:58 1999 :: Log Moridin: edit obj 12499
+Fri Mar 26 17:59:07 1999 :: Log Moridin: edit obj 12498
+Fri Mar 26 17:59:08 1999 :: Log Erebus: edit area 104
+Fri Mar 26 17:59:10 1999 :: Log Moridin: edit obj 12497
+Fri Mar 26 17:59:13 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 17:59:16 1999 :: Log Moridin: edit obj 12495
+Fri Mar 26 17:59:16 1999 :: Log Erebus: edit area 105
+Fri Mar 26 17:59:18 1999 :: Log Moridin: edit obj 12494
+Fri Mar 26 17:59:22 1999 :: Log Moridin: edit obj 12493
+Fri Mar 26 17:59:25 1999 :: Log Moridin: edit obj 12492
+Fri Mar 26 17:59:27 1999 :: Log Moridin: edit obj 12491
+Fri Mar 26 17:59:31 1999 :: Log Moridin: edit obj 12490
+Fri Mar 26 17:59:34 1999 :: Log Moridin: edit obj 12489
+Fri Mar 26 17:59:36 1999 :: Log Moridin: edit obj 12488
+Fri Mar 26 17:59:39 1999 :: Log Moridin: edit obj 12487
+Fri Mar 26 17:59:40 1999 :: Log Erebus: edit area 124
+Fri Mar 26 17:59:41 1999 :: Log Moridin: edit obj 12486
+Fri Mar 26 17:59:43 1999 :: Log Moridin: edit obj 12485
+Fri Mar 26 17:59:45 1999 :: Log Moridin: edit obj 12484
+Fri Mar 26 17:59:47 1999 :: Log Moridin: edit obj 12483
+Fri Mar 26 17:59:50 1999 :: Log Moridin: edit obj 12482
+Fri Mar 26 17:59:51 1999 :: Log Erebus: edit area 121
+Fri Mar 26 17:59:53 1999 :: Log Moridin: edit obj 12481
+Fri Mar 26 17:59:55 1999 :: Log Moridin: edit obj 12480
+Fri Mar 26 17:59:59 1999 :: Log Moridin: asave world
+Fri Mar 26 18:00:04 1999 :: Log Erebus: edit area 122
+Fri Mar 26 18:00:10 1999 :: Log Erebus: edit area 120
+Fri Mar 26 18:00:21 1999 :: Log Erebus: edit area 125
+Fri Mar 26 18:01:58 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 18:02:00 1999 :: Loading Mezik.
+Fri Mar 26 18:02:00 1999 :: resolver_loop: Mezik@208.133.30.109
+Fri Mar 26 18:02:00 1999 :: resolv_done: Mezik@max01-lr-44.lr.anc.net
+Fri Mar 26 18:02:01 1999 :: Loading Mezik.
+Fri Mar 26 18:02:01 1999 :: Mezik@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 18:04:07 1999 :: Log Moridin: purge
+Fri Mar 26 18:04:17 1999 :: Log Moridin: asave world
+Fri Mar 26 18:04:25 1999 :: Log Erebus: edit room
+Fri Mar 26 18:04:34 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 18:04:38 1999 :: Log Erebus: edit room
+Fri Mar 26 18:05:12 1999 :: Log Erebus: edit room
+Fri Mar 26 18:05:49 1999 :: Log Erebus: edit room
+Fri Mar 26 18:05:54 1999 :: Log Erebus: edit room
+Fri Mar 26 18:05:59 1999 :: Log Erebus: edit room
+Fri Mar 26 18:10:13 1999 :: Log Moridin: asave world
+Fri Mar 26 18:10:14 1999 :: Log Moridin: edit room
+Fri Mar 26 18:10:23 1999 :: Log Erebus: edit room
+Fri Mar 26 18:10:29 1999 :: Log Moridin: edit obj 12499
+Fri Mar 26 18:10:36 1999 :: Log Moridin: edit obj 12498
+Fri Mar 26 18:10:43 1999 :: Log Erebus: edit room
+Fri Mar 26 18:10:48 1999 :: Log Moridin: edit obj 12497
+Fri Mar 26 18:10:53 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 18:11:01 1999 :: Log Moridin: edit obj 12495
+Fri Mar 26 18:11:05 1999 :: Log Moridin: edit obj 12494
+Fri Mar 26 18:11:10 1999 :: Log Moridin: edit obj 12493
+Fri Mar 26 18:11:31 1999 :: Log Moridin: edit obj 12492
+Fri Mar 26 18:11:35 1999 :: Log Moridin: edit obj 12491
+Fri Mar 26 18:11:52 1999 :: Log Moridin: edit obj 12490
+Fri Mar 26 18:12:46 1999 :: Log Moridin: edit obj 12489
+Fri Mar 26 18:12:47 1999 :: Log Erebus: edit room
+Fri Mar 26 18:13:15 1999 :: Log Moridin: edit obj 12488
+Fri Mar 26 18:13:55 1999 :: Log Moridin: edit obj 12487
+Fri Mar 26 18:14:23 1999 :: Log Moridin: edit obj 12486
+Fri Mar 26 18:14:41 1999 :: Log Moridin: edit obj 12485
+Fri Mar 26 18:14:56 1999 :: Log Moridin: edit obj 12486
+Fri Mar 26 18:14:59 1999 :: Log Moridin: asave world
+Fri Mar 26 18:15:00 1999 :: Log Moridin: edit obj 12484
+Fri Mar 26 18:15:16 1999 :: Log Moridin: edit obj 12483
+Fri Mar 26 18:15:56 1999 :: Log Moridin: edit obj 12482
+Fri Mar 26 18:16:33 1999 :: Log Moridin: edit obj 12481
+Fri Mar 26 18:16:38 1999 :: Log Moridin: edit obj 12480
+Fri Mar 26 18:16:49 1999 :: Log Moridin: edit obj 12499
+Fri Mar 26 18:16:53 1999 :: Log Moridin: edit obj 12498
+Fri Mar 26 18:16:58 1999 :: Log Moridin: edit obj 12497
+Fri Mar 26 18:17:01 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 18:17:04 1999 :: Log Moridin: edit obj 12495
+Fri Mar 26 18:17:09 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 18:17:47 1999 :: Log Moridin: edit obj 12495
+Fri Mar 26 18:17:50 1999 :: Log Moridin: edit obj 12494
+Fri Mar 26 18:18:45 1999 :: Log Moridin: edit obj 12493
+Fri Mar 26 18:18:52 1999 :: Log Moridin: edit obj 12492
+Fri Mar 26 18:19:20 1999 :: Log Moridin: edit obj 12491
+Fri Mar 26 18:19:25 1999 :: Log Moridin: edit obj 12490
+Fri Mar 26 18:19:30 1999 :: Log Moridin: edit obj 12489
+Fri Mar 26 18:19:33 1999 :: Log Moridin: edit obj 12488
+Fri Mar 26 18:19:34 1999 :: Log Moridin: edit obj 12487
+Fri Mar 26 18:19:47 1999 :: Log Moridin: edit obj 12488
+Fri Mar 26 18:20:08 1999 :: Log Moridin: edit obj 12487
+Fri Mar 26 18:20:11 1999 :: Log Moridin: edit obj 12486
+Fri Mar 26 18:20:12 1999 :: Log Moridin: edit obj 12485
+Fri Mar 26 18:20:14 1999 :: Log Moridin: edit obj 12486
+Fri Mar 26 18:20:16 1999 :: Log Moridin: edit obj 12485
+Fri Mar 26 18:20:19 1999 :: Log Moridin: edit obj 12484
+Fri Mar 26 18:20:21 1999 :: Log Moridin: edit obj 12483
+Fri Mar 26 18:20:26 1999 :: Log Moridin: edit obj 12482
+Fri Mar 26 18:20:29 1999 :: Log Moridin: edit obj 12481
+Fri Mar 26 18:20:47 1999 :: Log Moridin: edit room
+Fri Mar 26 18:21:43 1999 :: Log Moridin: edit obj 12496
+Fri Mar 26 18:22:02 1999 :: Mezik has quit.
+Fri Mar 26 18:22:02 1999 :: Log Moridin: edit room
+Fri Mar 26 18:22:12 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 18:23:56 1999 :: Log Moridin: edit room
+Fri Mar 26 18:24:31 1999 :: Log Moridin: trans mortican
+Fri Mar 26 18:24:43 1999 :: Log Moridin: purge
+Fri Mar 26 18:24:48 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 18:24:58 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 18:25:09 1999 :: Log Moridin: asave world
+Fri Mar 26 18:25:14 1999 :: Log Moridin: edit room
+Fri Mar 26 18:25:46 1999 :: Log Moridin: trans mortican
+Fri Mar 26 18:25:50 1999 :: Log Moridin: purge
+Fri Mar 26 18:25:54 1999 :: Log Moridin: purge mortican
+Fri Mar 26 18:26:02 1999 :: Log Moridin: edit room
+Fri Mar 26 18:26:20 1999 :: Log Moridin: edit room
+Fri Mar 26 18:27:18 1999 :: Log Balinor: delete
+Fri Mar 26 18:27:24 1999 :: Log Balinor: delete
+Fri Mar 26 18:27:24 1999 :: Balinor has quit.
+Fri Mar 26 18:30:28 1999 :: Log Moridin: purge
+Fri Mar 26 18:30:51 1999 :: Log Moridin: purge motican
+Fri Mar 26 18:30:56 1999 :: Log Moridin: purge mort
+Fri Mar 26 18:30:58 1999 :: Log Moridin: edit room
+Fri Mar 26 18:31:17 1999 :: Log Moridin: edit room
+Fri Mar 26 18:33:34 1999 :: Log Moridin: load obj 12407
+Fri Mar 26 18:33:40 1999 :: Log Moridin: edit room
+Fri Mar 26 18:35:21 1999 :: Log Moridin: edit room
+Fri Mar 26 18:35:27 1999 :: Log Moridin: edit room
+Fri Mar 26 18:36:23 1999 :: Log Moridin: load obj 12481
+Fri Mar 26 18:37:01 1999 :: Log Moridin: asave world
+Fri Mar 26 18:37:06 1999 :: Log Moridin: purge
+Fri Mar 26 18:37:10 1999 :: Log Moridin: purge mortican
+Fri Mar 26 18:37:14 1999 :: Log Moridin: edit area
+Fri Mar 26 18:37:34 1999 :: Log Moridin: asave world
+Fri Mar 26 18:38:06 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 18:38:16 1999 :: Log Moridin: asave world
+Fri Mar 26 18:38:18 1999 :: Log Moridin: purge mortican
+Fri Mar 26 18:38:21 1999 :: Log Moridin: edit area
+Fri Mar 26 18:38:25 1999 :: Log Moridin: asave world
+Fri Mar 26 18:38:43 1999 :: Loading Mezik.
+Fri Mar 26 18:38:43 1999 :: resolver_loop: Mezik@208.133.30.109
+Fri Mar 26 18:38:43 1999 :: resolv_done: Mezik@max01-lr-44.lr.anc.net
+Fri Mar 26 18:38:44 1999 :: Loading Mezik.
+Fri Mar 26 18:38:44 1999 :: Mezik@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 18:38:56 1999 :: Log Moridin: trans mezik
+Fri Mar 26 18:40:08 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 18:41:35 1999 :: mortican warlock god: wait state 6
+Fri Mar 26 18:41:35 1999 :: Log Moridin: trans mezik
+Fri Mar 26 18:42:50 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 18:42:54 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 18:43:40 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 18:44:34 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 18:45:57 1999 :: mortican warlock god: wait state 6
+Fri Mar 26 18:46:06 1999 :: mortican warlock god: wait state 6
+Fri Mar 26 18:46:40 1999 :: Log Moridin: trans mezik
+Fri Mar 26 18:47:03 1999 :: Log Erebus: create room 27537
+Fri Mar 26 18:47:09 1999 :: Log Erebus: edit room
+Fri Mar 26 18:47:22 1999 :: Log Erebus: edit room
+Fri Mar 26 18:47:29 1999 :: Log Moridin: trans mezik
+Fri Mar 26 18:47:57 1999 :: Log Moridin: trans mortican
+Fri Mar 26 18:47:57 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:00 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:11 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:19 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:29 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:36 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:46 1999 :: Log Erebus: edit room
+Fri Mar 26 18:49:58 1999 :: Log Erebus: edit room
+Fri Mar 26 18:50:15 1999 :: Log Erebus: edit room
+Fri Mar 26 18:50:32 1999 :: Log Erebus: edit room
+Fri Mar 26 18:51:06 1999 :: Log Erebus: edit room
+Fri Mar 26 18:51:15 1999 :: Log Erebus: edit room
+Fri Mar 26 18:51:23 1999 :: Log Erebus: edit room
+Fri Mar 26 18:51:51 1999 :: Log Erebus: edit room
+Fri Mar 26 18:51:57 1999 :: Log Erebus: edit room
+Fri Mar 26 18:52:06 1999 :: Log Erebus: edit room
+Fri Mar 26 18:52:14 1999 :: Log Moridin: purge
+Fri Mar 26 18:52:16 1999 :: Log Erebus: edit room
+Fri Mar 26 18:52:23 1999 :: Log Moridin: trans mezik
+Fri Mar 26 18:52:25 1999 :: Log Erebus: edit room
+Fri Mar 26 18:52:25 1999 :: Moridin has quit.
+Fri Mar 26 18:52:27 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 18:52:32 1999 :: EOF encountered on read.
+Fri Mar 26 18:52:36 1999 :: Log Erebus: edit room
+Fri Mar 26 18:52:52 1999 :: Log Erebus: edit room
+Fri Mar 26 18:53:06 1999 :: Mezik has quit.
+Fri Mar 26 18:53:12 1999 :: Log Erebus: edit room
+Fri Mar 26 18:53:26 1999 :: Log Erebus: edit room
+Fri Mar 26 18:53:39 1999 :: Log Erebus: edit room
+Fri Mar 26 18:53:54 1999 :: Log Erebus: edit room
+Fri Mar 26 18:54:20 1999 :: Log Erebus: edit room
+Fri Mar 26 18:56:22 1999 :: Log Erebus: edit room
+Fri Mar 26 18:58:15 1999 :: Log Erebus: edit room
+Fri Mar 26 18:58:24 1999 :: Log Erebus: edit room
+Fri Mar 26 18:58:33 1999 :: Log Erebus: edit room
+Fri Mar 26 19:01:39 1999 :: Log Erebus: edit room
+Fri Mar 26 19:01:49 1999 :: Log Erebus: edit room
+Fri Mar 26 19:01:58 1999 :: Log Erebus: edit room
+Fri Mar 26 19:02:13 1999 :: Log Erebus: edit room
+Fri Mar 26 19:02:22 1999 :: Log Erebus: edit room
+Fri Mar 26 19:02:33 1999 :: Log Erebus: edit room
+Fri Mar 26 19:03:00 1999 :: Log Erebus: edit room
+Fri Mar 26 19:03:19 1999 :: Log Erebus: edit room
+Fri Mar 26 19:03:32 1999 :: Log Erebus: edit room
+Fri Mar 26 19:03:42 1999 :: Log Erebus: edit room
+Fri Mar 26 19:04:08 1999 :: Log Erebus: edit room
+Fri Mar 26 19:04:32 1999 :: Log Erebus: edit room
+Fri Mar 26 19:04:43 1999 :: Log Erebus: edit room
+Fri Mar 26 19:04:53 1999 :: Log Erebus: edit room
+Fri Mar 26 19:04:54 1999 :: sock.sinaddr: 206.245.158.193
+Fri Mar 26 19:05:03 1999 :: Log Erebus: edit room
+Fri Mar 26 19:06:57 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 19:06:58 1999 :: Loading Moridin.
+Fri Mar 26 19:06:58 1999 :: resolver_loop: Moridin@208.133.30.109
+Fri Mar 26 19:06:58 1999 :: resolv_done: Moridin@max01-lr-44.lr.anc.net
+Fri Mar 26 19:06:58 1999 :: Loading Moridin.
+Fri Mar 26 19:06:59 1999 :: Moridin@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 19:07:44 1999 :: Log Erebus: edit room
+Fri Mar 26 19:07:55 1999 :: Log Erebus: edit room
+Fri Mar 26 19:08:19 1999 :: Log Erebus: edit room
+Fri Mar 26 19:08:40 1999 :: Log Erebus: edit room
+Fri Mar 26 19:09:01 1999 :: Log Erebus: asave changed
+Fri Mar 26 19:12:31 1999 :: sock.sinaddr: 152.174.255.109
+Fri Mar 26 19:12:33 1999 :: Loading Wynder.
+Fri Mar 26 19:12:33 1999 :: resolver_loop: Wynder@152.174.255.109
+Fri Mar 26 19:12:33 1999 :: resolv_done: Wynder@98AEFF6D.ipt.aol.com
+Fri Mar 26 19:12:34 1999 :: Loading Wynder.
+Fri Mar 26 19:12:34 1999 :: Wynder@98AEFF6D.ipt.aol.com has connected.
+Fri Mar 26 19:14:54 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 19:14:58 1999 :: Log Moridin: asave world
+Fri Mar 26 19:15:13 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 19:15:31 1999 :: Log Moridin: load obj 12496
+Fri Mar 26 19:15:59 1999 :: Log Moridin: purge mortican
+Fri Mar 26 19:16:00 1999 :: Log Moridin: edit room
+Fri Mar 26 19:16:29 1999 :: Log Moridin: purge mortican
+Fri Mar 26 19:16:31 1999 :: Log Moridin: edit mob 12499
+Fri Mar 26 19:16:44 1999 :: Log Moridin: asave world
+Fri Mar 26 19:16:44 1999 :: Log Erebus: load mob 12499
+Fri Mar 26 19:16:51 1999 :: Log Moridin: purge mortican
+Fri Mar 26 19:16:52 1999 :: Log Moridin: edit room
+Fri Mar 26 19:17:22 1999 :: mortican warlock god: wait state 6
+Fri Mar 26 19:17:35 1999 :: mortican warlock god: wait state 18
+Fri Mar 26 19:18:08 1999 :: mortican warlock god: wait state 6
+Fri Mar 26 19:19:39 1999 :: sock.sinaddr: 152.173.47.227
+Fri Mar 26 19:20:16 1999 :: resolver_loop: Gwyndala@152.173.47.227
+Fri Mar 26 19:20:16 1999 :: resolv_done: Gwyndala@98AD2FE3.ipt.aol.com
+Fri Mar 26 19:24:49 1999 :: Wynder has quit.
+Fri Mar 26 19:26:09 1999 :: EOF encountered on read.
+Fri Mar 26 19:26:09 1999 :: Closing link to Gwyndala.
+Fri Mar 26 19:26:18 1999 :: sock.sinaddr: 206.245.158.193
+Fri Mar 26 19:27:27 1999 :: Moridin has quit.
+Fri Mar 26 19:27:28 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 19:27:30 1999 :: Loading Shukumei.
+Fri Mar 26 19:27:30 1999 :: resolver_loop: Shukumei@208.133.30.109
+Fri Mar 26 19:27:30 1999 :: resolv_done: Shukumei@max01-lr-44.lr.anc.net
+Fri Mar 26 19:27:30 1999 :: Loading Shukumei.
+Fri Mar 26 19:27:30 1999 :: Shukumei@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 19:29:43 1999 :: Log Erebus: edit obj 8716
+Fri Mar 26 19:35:42 1999 :: sock.sinaddr: 152.202.117.222
+Fri Mar 26 19:35:44 1999 :: resolver_loop: Leithia@152.202.117.222
+Fri Mar 26 19:35:45 1999 :: resolv_done: Leithia@98CA75DE.ipt.aol.com
+Fri Mar 26 19:35:53 1999 :: Loading Aisha.
+Fri Mar 26 19:35:56 1999 :: Loading Aisha.
+Fri Mar 26 19:35:56 1999 :: Aisha@98CA75DE.ipt.aol.com has connected.
+Fri Mar 26 19:36:04 1999 :: Aisha has quit.
+Fri Mar 26 19:38:32 1999 :: Shukumei has quit.
+Fri Mar 26 19:38:35 1999 :: sock.sinaddr: 208.133.30.109
+Fri Mar 26 19:38:37 1999 :: Loading Moridin.
+Fri Mar 26 19:38:37 1999 :: resolver_loop: Moridin@208.133.30.109
+Fri Mar 26 19:38:37 1999 :: resolv_done: Moridin@max01-lr-44.lr.anc.net
+Fri Mar 26 19:38:37 1999 :: Loading Moridin.
+Fri Mar 26 19:38:37 1999 :: Moridin@max01-lr-44.lr.anc.net has connected.
+Fri Mar 26 19:39:00 1999 :: Log Erebus: asave changed
+Fri Mar 26 19:39:01 1999 :: Erebus has quit.
+Fri Mar 26 20:09:18 1999 :: sock.sinaddr: 12.72.45.86
+Fri Mar 26 20:09:23 1999 :: Loading Gwayne.
+Fri Mar 26 20:09:23 1999 :: resolver_loop: Gwayne@12.72.45.86
+Fri Mar 26 20:09:24 1999 :: resolv_done: Gwayne@86.sherman-oaks-13-14rs16rt.ca.dial-access.att.net
+Fri Mar 26 20:09:26 1999 :: Loading Gwayne.
+Fri Mar 26 20:09:26 1999 :: Gwayne@86.sherman-oaks-13-14rs16rt.ca.dial-access.att.net has connected.
+Fri Mar 26 20:20:45 1999 :: sock.sinaddr: 198.110.221.149
+Fri Mar 26 20:20:47 1999 :: Loading Erebus.
+Fri Mar 26 20:20:47 1999 :: resolver_loop: Erebus@198.110.221.149
+Fri Mar 26 20:20:48 1999 :: resolv_done: Erebus@198.110.221.149
+Fri Mar 26 20:20:50 1999 :: Loading Erebus.
+Fri Mar 26 20:20:50 1999 :: Erebus@198.110.221.149 has connected.
+Fri Mar 26 20:28:18 1999 :: Log Erebus: trans gwayne
+Fri Mar 26 20:33:35 1999 :: sock.sinaddr: 152.174.255.109
+Fri Mar 26 20:33:37 1999 :: Loading Wynder.
+Fri Mar 26 20:33:37 1999 :: resolver_loop: Wynder@152.174.255.109
+Fri Mar 26 20:33:37 1999 :: resolv_done: Wynder@98AEFF6D.ipt.aol.com
+Fri Mar 26 20:33:38 1999 :: Loading Wynder.
+Fri Mar 26 20:33:38 1999 :: Wynder@98AEFF6D.ipt.aol.com has connected.
+Fri Mar 26 20:37:07 1999 :: Wynder has quit.
+Fri Mar 26 20:38:07 1999 :: Log Erebus: trans gwayne 3001
+Fri Mar 26 20:38:21 1999 :: Log Erebus: gecho {BA cool breeze blows on your face, refreshing your soul.{x
+Fri Mar 26 20:38:21 1999 :: Log Erebus: restore all
+Fri Mar 26 20:38:24 1999 :: Erebus has quit.
+Fri Mar 26 20:38:41 1999 :: Gwayne has quit.
+Fri Mar 26 20:44:34 1999 :: sock.sinaddr: 209.122.234.55
+Fri Mar 26 20:44:40 1999 :: Loading Ryokan.
+Fri Mar 26 20:44:40 1999 :: resolver_loop: Ryokan@209.122.234.55
+Fri Mar 26 20:44:41 1999 :: resolv_done: Ryokan@209-122-234-55.s309.tnt5.sbo.ma.dialup.rcn.com
+Fri Mar 26 20:44:48 1999 :: Loading Ryokan.
+Fri Mar 26 20:44:48 1999 :: Ryokan@209-122-234-55.s309.tnt5.sbo.ma.dialup.rcn.com has connected.
+Fri Mar 26 21:04:22 1999 :: Ryokan has quit.
+Fri Mar 26 21:11:44 1999 :: sock.sinaddr: 152.174.255.109
+Fri Mar 26 21:11:45 1999 :: Loading Wynder.
+Fri Mar 26 21:11:45 1999 :: resolver_loop: Wynder@152.174.255.109
+Fri Mar 26 21:11:46 1999 :: resolv_done: Wynder@98AEFF6D.ipt.aol.com
+Fri Mar 26 21:11:47 1999 :: Loading Wynder.
+Fri Mar 26 21:11:47 1999 :: Wynder@98AEFF6D.ipt.aol.com has connected.
+Fri Mar 26 21:13:08 1999 :: mortican warlock god: wait state 12
+Fri Mar 26 21:17:40 1999 :: Wynder has quit.
+Reseting area: [P] OBJ limit reached
+Fri Mar 26 21:21:13 1999 :: sock.sinaddr: 152.207.165.129
+Fri Mar 26 21:21:20 1999 :: resolver_loop: Myrsalis@152.207.165.129
+Fri Mar 26 21:21:20 1999 :: resolv_done: Myrsalis@98CFA581.ipt.aol.com
+Fri Mar 26 21:22:55 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 21:22:57 1999 :: resolver_loop: Gwyndala@152.202.125.105
+Fri Mar 26 21:23:02 1999 :: resolv_done: Gwyndala@98CA7D69.ipt.aol.com
+Fri Mar 26 21:23:12 1999 :: EOF encountered on read.
+Fri Mar 26 21:23:12 1999 :: Closing link to Gwyndala.
+Fri Mar 26 21:23:50 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 21:23:52 1999 :: resolver_loop: Gwyndala@152.202.125.105
+Fri Mar 26 21:23:52 1999 :: resolv_done: Gwyndala@98CA7D69.ipt.aol.com
+Fri Mar 26 21:24:00 1999 :: EOF encountered on read.
+Fri Mar 26 21:24:00 1999 :: Closing link to Gwyndala.
+Fri Mar 26 21:25:43 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 21:25:44 1999 :: Loading Racquel.
+Fri Mar 26 21:25:44 1999 :: resolver_loop: Racquel@152.202.125.105
+Fri Mar 26 21:25:44 1999 :: resolv_done: Racquel@98CA7D69.ipt.aol.com
+Fri Mar 26 21:26:02 1999 :: Loading Racquel.
+Fri Mar 26 21:26:02 1999 :: Racquel@98CA7D69.ipt.aol.com has connected.
+Fri Mar 26 21:26:05 1999 :: Moridin has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 21:27:36 1999 :: Closing link to Myrsalis.
+Fri Mar 26 21:27:40 1999 :: sock.sinaddr: 152.207.165.129
+Fri Mar 26 21:27:48 1999 :: resolver_loop: Kyyrane@152.207.165.129
+Fri Mar 26 21:27:48 1999 :: resolv_done: Kyyrane@98CFA581.ipt.aol.com
+Fri Mar 26 21:32:14 1999 :: Kyyrane@98CFA581.ipt.aol.com new player.
+Fri Mar 26 21:35:01 1999 :: sock.sinaddr: 208.8.211.221
+Fri Mar 26 21:35:05 1999 :: resolver_loop: Zeit@208.8.211.221
+Fri Mar 26 21:35:05 1999 :: resolv_done: Zeit@sea211221.foxinternet.net
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 21:43:11 1999 :: Closing link to Zeit.
+Fri Mar 26 21:55:45 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 21:55:48 1999 :: Loading Ryokan.
+Fri Mar 26 21:55:48 1999 :: resolver_loop: Ryokan@207.172.245.24
+Fri Mar 26 21:55:49 1999 :: resolv_done: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 21:55:50 1999 :: Loading Ryokan.
+Fri Mar 26 21:55:50 1999 :: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com has connected.
+Fri Mar 26 22:00:30 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:00:36 1999 :: resolver_loop: Tasp@207.172.245.24
+Fri Mar 26 22:00:36 1999 :: resolv_done: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 22:00:44 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 22:00:54 1999 :: resolver_loop: Gwyndala@152.202.125.105
+Fri Mar 26 22:00:54 1999 :: resolv_done: Gwyndala@98CA7D69.ipt.aol.com
+Fri Mar 26 22:03:01 1999 :: EOF encountered on read.
+Fri Mar 26 22:03:01 1999 :: Closing link to Tasp.
+Fri Mar 26 22:03:06 1999 :: Ryokan has quit.
+Fri Mar 26 22:03:11 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:03:14 1999 :: resolver_loop: Tasp@207.172.245.24
+Fri Mar 26 22:03:14 1999 :: resolv_done: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 22:03:42 1999 :: sock.sinaddr: 209.63.112.133
+Fri Mar 26 22:03:48 1999 :: resolver_loop: Olconic@209.63.112.133
+Fri Mar 26 22:03:48 1999 :: resolv_done: Olconic@209-63-112-133.pdx.jps.net
+Fri Mar 26 22:03:52 1999 :: EOF encountered on read.
+Fri Mar 26 22:03:52 1999 :: Closing link to Olconic.
+Fri Mar 26 22:03:57 1999 :: Kyyrane has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:04:38 1999 :: Closing link to Tasp.
+Fri Mar 26 22:04:41 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:04:44 1999 :: resolver_loop: Tasp@207.172.245.24
+Fri Mar 26 22:04:44 1999 :: resolv_done: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:05:40 1999 :: Closing link to Tasp.
+Fri Mar 26 22:05:42 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:05:44 1999 :: resolver_loop: Tasp@207.172.245.24
+Fri Mar 26 22:05:44 1999 :: resolv_done: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:07:08 1999 :: Closing link to Gwyndala.
+Fri Mar 26 22:07:16 1999 :: Log Racquel: delete
+Fri Mar 26 22:07:19 1999 :: Log Racquel: delete
+Fri Mar 26 22:07:19 1999 :: Racquel has quit.
+Fri Mar 26 22:07:25 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 22:07:27 1999 :: resolver_loop: Racquel@152.202.125.105
+Fri Mar 26 22:07:27 1999 :: resolv_done: Racquel@98CA7D69.ipt.aol.com
+Fri Mar 26 22:07:38 1999 :: sock.sinaddr: 206.168.144.58
+Fri Mar 26 22:07:41 1999 :: resolver_loop: Jabralter@206.168.144.58
+Fri Mar 26 22:07:42 1999 :: resolv_done: Jabralter@daughter.tparents.org
+Fri Mar 26 22:10:24 1999 :: sock.sinaddr: 153.34.98.141
+Fri Mar 26 22:10:27 1999 :: resolver_loop: Ponnet@153.34.98.141
+Fri Mar 26 22:10:27 1999 :: resolv_done: Ponnet@1Cust141.tnt5.sarasota.fl.da.uu.net
+Fri Mar 26 22:13:50 1999 :: EOF encountered on read.
+Fri Mar 26 22:13:50 1999 :: Closing link to Racquel.
+Fri Mar 26 22:13:55 1999 :: sock.sinaddr: 152.202.125.105
+Fri Mar 26 22:13:56 1999 :: Ponnet@1Cust141.tnt5.sarasota.fl.da.uu.net new player.
+Fri Mar 26 22:13:56 1999 :: resolver_loop: Racquel@152.202.125.105
+Fri Mar 26 22:13:57 1999 :: resolv_done: Racquel@98CA7D69.ipt.aol.com
+Fri Mar 26 22:16:00 1999 :: sock.sinaddr: 24.92.36.38
+Fri Mar 26 22:16:15 1999 :: sock.sinaddr: 24.92.36.38
+Fri Mar 26 22:16:17 1999 :: resolver_loop: Gypsy@24.92.36.38
+Fri Mar 26 22:16:18 1999 :: resolv_done: Gypsy@toshiba-36-38.nycap.rr.com
+Fri Mar 26 22:18:22 1999 :: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 22:18:52 1999 :: Log Tasp: delete
+Fri Mar 26 22:18:54 1999 :: Log Tasp: delete
+Fri Mar 26 22:18:54 1999 :: Tasp has quit.
+Fri Mar 26 22:18:58 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:19:02 1999 :: Loading Ryokan.
+Fri Mar 26 22:19:02 1999 :: resolver_loop: Ryokan@207.172.245.24
+Fri Mar 26 22:19:02 1999 :: resolv_done: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 22:19:03 1999 :: Loading Ryokan.
+Fri Mar 26 22:19:03 1999 :: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com has connected.
+Reseting area: [P] OBJ limit reached
+Fri Mar 26 22:19:44 1999 :: Gypsy@toshiba-36-38.nycap.rr.com new player.
+Fri Mar 26 22:22:58 1999 :: sock.sinaddr: 152.174.255.109
+Fri Mar 26 22:23:00 1999 :: Loading Wynder.
+Fri Mar 26 22:23:00 1999 :: resolver_loop: Wynder@152.174.255.109
+Fri Mar 26 22:23:00 1999 :: resolv_done: Wynder@98AEFF6D.ipt.aol.com
+Fri Mar 26 22:23:01 1999 :: Loading Wynder.
+Fri Mar 26 22:23:01 1999 :: Wynder@98AEFF6D.ipt.aol.com has connected.
+Fri Mar 26 22:23:48 1999 :: Ryokan has quit.
+Fri Mar 26 22:23:53 1999 :: Racquel@98CA7D69.ipt.aol.com new player.
+Fri Mar 26 22:23:53 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:23:58 1999 :: resolver_loop: Tasp@207.172.245.24
+Fri Mar 26 22:23:58 1999 :: resolv_done: Tasp@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 22:25:30 1999 :: Log Gypsy: delete
+Fri Mar 26 22:25:34 1999 :: Log Gypsy: delete
+Fri Mar 26 22:25:34 1999 :: Gypsy has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:26:45 1999 :: Closing link to Ponnet.
+Fri Mar 26 22:26:58 1999 :: EOF encountered on read.
+Fri Mar 26 22:26:58 1999 :: Closing link to Wynder.
+Fri Mar 26 22:30:05 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 22:34:37 1999 :: Log Vantid: delete
+Fri Mar 26 22:34:39 1999 :: Log Vantid: delete
+Fri Mar 26 22:34:39 1999 :: Vantid has quit.
+Fri Mar 26 22:34:44 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:34:47 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 22:34:48 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:35:16 1999 :: Closing link to Vantid.
+Fri Mar 26 22:35:18 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:35:21 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 22:35:21 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:35:42 1999 :: Closing link to Vantid.
+Fri Mar 26 22:35:44 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:35:49 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 22:35:49 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 22:37:31 1999 :: Closing link to Vantid.
+Fri Mar 26 22:37:33 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 22:37:35 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 22:37:35 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 22:47:19 1999 :: Ponnet has quit.
+Fri Mar 26 22:50:46 1999 :: sock.sinaddr: 152.170.201.143
+Fri Mar 26 22:50:48 1999 :: Loading Talcamis.
+Fri Mar 26 22:50:48 1999 :: resolver_loop: Talcamis@152.170.201.143
+Fri Mar 26 22:50:49 1999 :: resolv_done: Talcamis@98AAC98F.ipt.aol.com
+Fri Mar 26 22:50:51 1999 :: Loading Talcamis.
+Fri Mar 26 22:50:51 1999 :: Talcamis@98AAC98F.ipt.aol.com has connected.
+Fri Mar 26 22:50:57 1999 :: sock.sinaddr: 152.170.201.143
+Fri Mar 26 22:50:59 1999 :: Loading Ferret.
+Fri Mar 26 22:50:59 1999 :: resolver_loop: Ferret@152.170.201.143
+Fri Mar 26 22:50:59 1999 :: resolv_done: Ferret@98AAC98F.ipt.aol.com
+Fri Mar 26 22:51:00 1999 :: Loading Ferret.
+Fri Mar 26 22:51:00 1999 :: Ferret@98AAC98F.ipt.aol.com has connected.
+Fri Mar 26 22:57:27 1999 :: back_home: reset place not found
+Fri Mar 26 23:01:50 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:06:14 1999 :: Log Vantid: delete
+Fri Mar 26 23:06:17 1999 :: Log Vantid: delete
+Fri Mar 26 23:06:17 1999 :: Vantid has quit.
+Fri Mar 26 23:06:22 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:06:27 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:06:27 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:08:28 1999 :: Closing link to Vantid.
+Fri Mar 26 23:08:30 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:08:37 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:08:37 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:09:40 1999 :: Closing link to Vantid.
+Fri Mar 26 23:09:42 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:09:47 1999 :: resolver_loop: Vant@207.172.245.24
+Fri Mar 26 23:09:47 1999 :: resolv_done: Vant@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 23:11:06 1999 :: teacher: wait state 24
+Fri Mar 26 23:11:10 1999 :: teacher: wait state 12
+Fri Mar 26 23:12:05 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:13:01 1999 :: Log Vantid: delete
+Fri Mar 26 23:13:02 1999 :: Log Vantid: delete
+Fri Mar 26 23:13:02 1999 :: Vantid has quit.
+Fri Mar 26 23:13:06 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:13:08 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:13:08 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:13:24 1999 :: Closing link to Vantid.
+Fri Mar 26 23:13:26 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:13:29 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:13:29 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 23:14:48 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:15:35 1999 :: Log Vantid: delete
+Fri Mar 26 23:15:36 1999 :: Log Vantid: delete
+Fri Mar 26 23:15:36 1999 :: Vantid has quit.
+Fri Mar 26 23:15:41 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:15:43 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:15:43 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Reseting area: [P] OBJ limit reached
+Fri Mar 26 23:19:31 1999 :: sock.sinaddr: 208.133.30.224
+Fri Mar 26 23:19:36 1999 :: Loading Moridin.
+Fri Mar 26 23:19:36 1999 :: resolver_loop: Moridin@208.133.30.224
+Fri Mar 26 23:19:36 1999 :: resolv_done: Moridin@max03-lr-31.lr.anc.net
+Fri Mar 26 23:19:38 1999 :: Loading Moridin.
+Fri Mar 26 23:19:38 1999 :: Moridin@max03-lr-31.lr.anc.net has connected.
+Fri Mar 26 23:19:44 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:22:00 1999 :: Log Vantid: delete
+Fri Mar 26 23:22:01 1999 :: Log Vantid: delete
+Fri Mar 26 23:22:01 1999 :: Vantid has quit.
+Fri Mar 26 23:22:04 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:22:11 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:22:11 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 23:22:49 1999 :: sock.sinaddr: 209.213.35.170
+Fri Mar 26 23:22:50 1999 :: EOF encountered on read.
+Fri Mar 26 23:23:03 1999 :: sock.sinaddr: 209.213.35.170
+Fri Mar 26 23:23:07 1999 :: sock.sinaddr: 209.214.160.181
+Fri Mar 26 23:23:08 1999 :: Loading Ikari.
+Fri Mar 26 23:23:08 1999 :: resolver_loop: Ikari@209.213.35.170
+Fri Mar 26 23:23:08 1999 :: resolv_done: Ikari@m170.hawaiian.net
+Fri Mar 26 23:23:09 1999 :: Loading Ikari.
+Fri Mar 26 23:23:09 1999 :: Ikari@m170.hawaiian.net has connected.
+Fri Mar 26 23:23:09 1999 :: Loading Dremotos.
+Fri Mar 26 23:23:09 1999 :: resolver_loop: Dremotos@209.214.160.181
+Fri Mar 26 23:23:10 1999 :: resolv_done: Dremotos@host-209-214-160-181.rdu.bellsouth.net
+Fri Mar 26 23:23:11 1999 :: Loading Dremotos.
+Fri Mar 26 23:23:11 1999 :: Dremotos@host-209-214-160-181.rdu.bellsouth.net has connected.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:23:13 1999 :: Closing link to Vantid.
+Fri Mar 26 23:23:14 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:23:17 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:23:17 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 23:23:52 1999 :: Log Dremotos: delete
+Fri Mar 26 23:23:53 1999 :: Log Dremotos: delete
+Fri Mar 26 23:23:53 1999 :: Dremotos has quit.
+Fri Mar 26 23:23:56 1999 :: sock.sinaddr: 209.214.160.181
+Fri Mar 26 23:24:02 1999 :: resolver_loop: Dremotos@209.214.160.181
+Fri Mar 26 23:24:02 1999 :: resolv_done: Dremotos@host-209-214-160-181.rdu.bellsouth.net
+Fri Mar 26 23:25:00 1999 :: Dremotos@host-209-214-160-181.rdu.bellsouth.net new player.
+Fri Mar 26 23:25:16 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:31:25 1999 :: Ikari has quit.
+Fri Mar 26 23:38:23 1999 :: Log Vantid: delete
+Fri Mar 26 23:38:25 1999 :: Log Vantid: delete
+Fri Mar 26 23:38:25 1999 :: Vantid has quit.
+Fri Mar 26 23:38:29 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:38:31 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:38:31 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:44:07 1999 :: Closing link to Vantid.
+Fri Mar 26 23:44:09 1999 :: sock.sinaddr: 207.172.245.24
+Fri Mar 26 23:44:15 1999 :: resolver_loop: Vantid@207.172.245.24
+Fri Mar 26 23:44:15 1999 :: resolv_done: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Fri Mar 26 23:44:57 1999 :: back_home: reset place not found
+Fri Mar 26 23:45:33 1999 :: sock.sinaddr: 209.151.8.56
+Fri Mar 26 23:45:56 1999 :: resolver_loop: Alnor@209.151.8.56
+Fri Mar 26 23:45:57 1999 :: resolv_done: Alnor@ljw.entrenet.com
+Fri Mar 26 23:46:35 1999 :: Vantid@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com new player.
+Fri Mar 26 23:47:17 1999 :: Alnor@ljw.entrenet.com new player.
+Fri Mar 26 23:48:20 1999 :: EOF encountered on read.
+Fri Mar 26 23:48:20 1999 :: Closing link to Alnor.
+Fri Mar 26 23:55:02 1999 :: Talcamis has quit.
+Read_from_descriptor: Connection reset by peer
+Fri Mar 26 23:55:10 1999 :: Closing link to Ferret.
+Fri Mar 26 23:56:29 1999 :: Moridin has quit.
+Sat Mar 27 00:02:54 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 00:03:35 1999 :: resolver_loop: Balinor@152.202.125.105
+Sat Mar 27 00:03:35 1999 :: resolv_done: Balinor@98CA7D69.ipt.aol.com
+Sat Mar 27 00:05:20 1999 :: Balinor@98CA7D69.ipt.aol.com new player.
+Sat Mar 27 00:07:50 1999 :: Vantid has quit.
+Sat Mar 27 00:07:59 1999 :: sock.sinaddr: 207.172.245.24
+Sat Mar 27 00:08:01 1999 :: Loading Ryokan.
+Sat Mar 27 00:08:01 1999 :: resolver_loop: Ryokan@207.172.245.24
+Sat Mar 27 00:08:01 1999 :: resolv_done: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com
+Sat Mar 27 00:08:03 1999 :: Loading Ryokan.
+Sat Mar 27 00:08:03 1999 :: Ryokan@207-172-245-24.s278.tnt1.sbo.ma.dialup.rcn.com has connected.
+Sat Mar 27 00:08:36 1999 :: Ryokan has quit.
+Sat Mar 27 00:09:31 1999 :: sock.sinaddr: 152.172.40.24
+Sat Mar 27 00:09:34 1999 :: Loading Ferret.
+Sat Mar 27 00:09:34 1999 :: resolver_loop: Ferret@152.172.40.24
+Sat Mar 27 00:09:34 1999 :: resolv_done: Ferret@98AC2818.ipt.aol.com
+Sat Mar 27 00:09:35 1999 :: Ferret@98AC2818.ipt.aol.com reconnected.
+Sat Mar 27 00:09:51 1999 :: sock.sinaddr: 152.172.40.24
+Sat Mar 27 00:09:52 1999 :: Loading Talcamis.
+Sat Mar 27 00:09:52 1999 :: resolver_loop: Talcamis@152.172.40.24
+Sat Mar 27 00:09:52 1999 :: resolv_done: Talcamis@98AC2818.ipt.aol.com
+Sat Mar 27 00:09:53 1999 :: Loading Talcamis.
+Sat Mar 27 00:09:53 1999 :: Talcamis@98AC2818.ipt.aol.com has connected.
+Sat Mar 27 00:10:32 1999 :: Alnor has quit.
+Sat Mar 27 00:11:23 1999 :: sock.sinaddr: 209.214.160.181
+Sat Mar 27 00:11:25 1999 :: Loading Dremotos.
+Sat Mar 27 00:11:25 1999 :: resolver_loop: Dremotos@209.214.160.181
+Sat Mar 27 00:11:25 1999 :: resolv_done: Dremotos@host-209-214-160-181.rdu.bellsouth.net
+Sat Mar 27 00:11:28 1999 :: EOF encountered on read.
+Sat Mar 27 00:11:28 1999 :: Closing link to Dremotos.
+Sat Mar 27 00:13:04 1999 :: Dremotos has quit.
+Sat Mar 27 00:14:37 1999 :: sock.sinaddr: 199.174.202.186
+Sat Mar 27 00:14:46 1999 :: resolver_loop: Random@199.174.202.186
+Sat Mar 27 00:14:46 1999 :: resolv_done: Random@dd58-186.dub.compuserve.com
+Sat Mar 27 00:16:35 1999 :: back_home: reset place not found
+Sat Mar 27 00:17:12 1999 :: Random@dd58-186.dub.compuserve.com new player.
+Sat Mar 27 00:17:13 1999 :: sock.sinaddr: 207.112.226.24
+Sat Mar 27 00:17:14 1999 :: Loading Calisi.
+Sat Mar 27 00:17:14 1999 :: resolver_loop: Calisi@207.112.226.24
+Sat Mar 27 00:17:15 1999 :: resolv_done: Calisi@armoury.tbcnet.com
+Sat Mar 27 00:17:15 1999 :: Loading Calisi.
+Sat Mar 27 00:17:15 1999 :: Calisi@armoury.tbcnet.com has connected.
+Sat Mar 27 00:17:21 1999 :: Calisi has quit.
+Sat Mar 27 00:20:34 1999 :: sock.sinaddr: 206.245.158.193
+Sat Mar 27 00:25:00 1999 :: back_home: reset place not found
+Sat Mar 27 00:26:10 1999 :: Random has quit.
+Sat Mar 27 00:35:40 1999 :: back_home: reset place not found
+Sat Mar 27 00:37:59 1999 :: Talcamis has quit.
+Sat Mar 27 00:38:05 1999 :: Ferret has quit.
+Sat Mar 27 00:42:06 1999 :: nanny: wait state 15
+Sat Mar 27 00:53:53 1999 :: nanny: wait state 15
+Sat Mar 27 00:58:56 1999 :: sock.sinaddr: 216.67.5.29
+Sat Mar 27 00:59:01 1999 :: Loading Ebayl.
+Sat Mar 27 00:59:02 1999 :: resolver_loop: Ebayl@216.67.5.29
+Sat Mar 27 00:59:02 1999 :: resolv_done: Ebayl@nas1-5-29.nyc.navinet.net
+Sat Mar 27 00:59:04 1999 :: Loading Ebayl.
+Sat Mar 27 00:59:04 1999 :: Ebayl@nas1-5-29.nyc.navinet.net has connected.
+Sat Mar 27 01:10:04 1999 :: sock.sinaddr: 208.133.30.223
+Sat Mar 27 01:10:07 1999 :: Loading Moridin.
+Sat Mar 27 01:10:07 1999 :: resolver_loop: Moridin@208.133.30.223
+Sat Mar 27 01:10:07 1999 :: resolv_done: Moridin@max03-lr-30.lr.anc.net
+Sat Mar 27 01:10:08 1999 :: Loading Moridin.
+Sat Mar 27 01:10:08 1999 :: Moridin@max03-lr-30.lr.anc.net has connected.
+Sat Mar 27 01:10:23 1999 :: sock.sinaddr: 208.133.30.223
+Sat Mar 27 01:10:24 1999 :: Loading Shukumei.
+Sat Mar 27 01:10:24 1999 :: resolver_loop: Shukumei@208.133.30.223
+Sat Mar 27 01:10:24 1999 :: resolv_done: Shukumei@max03-lr-30.lr.anc.net
+Sat Mar 27 01:10:25 1999 :: Loading Shukumei.
+Sat Mar 27 01:10:25 1999 :: Shukumei@max03-lr-30.lr.anc.net has connected.
+Sat Mar 27 01:10:44 1999 :: sock.sinaddr: 171.212.36.103
+Sat Mar 27 01:10:48 1999 :: Loading Malah.
+Sat Mar 27 01:10:48 1999 :: resolver_loop: Malah@171.212.36.103
+Sat Mar 27 01:10:48 1999 :: resolv_done: Malah@ABD42467.ipt.aol.com
+Sat Mar 27 01:10:50 1999 :: Loading Malah.
+Sat Mar 27 01:10:50 1999 :: Malah@ABD42467.ipt.aol.com has connected.
+Sat Mar 27 01:11:09 1999 :: Malah has quit.
+Sat Mar 27 01:11:48 1999 :: Log Moridin: trans shuk coins
+Sat Mar 27 01:14:36 1999 :: Log Moridin: load obj 3394
+Sat Mar 27 01:14:36 1999 :: Log Moridin: load obj 3395
+Sat Mar 27 01:16:27 1999 :: Log Moridin: load obj 19110
+Sat Mar 27 01:17:45 1999 :: bone devil: wait state 12
+Sat Mar 27 01:17:49 1999 :: bone devil: wait state 12
+Sat Mar 27 01:18:10 1999 :: bone devil: wait state 12
+Sat Mar 27 01:19:16 1999 :: Log Moridin: load obj 35271
+Sat Mar 27 01:19:40 1999 :: Log Moridin: purge
+Sat Mar 27 01:21:01 1999 :: oldstyle vegetable pot pie: wait state 18
+Sat Mar 27 01:22:28 1999 :: oldstyle vegetable pot pie: wait state 48
+Sat Mar 27 01:26:26 1999 :: Log Moridin: trans shukumei
+Sat Mar 27 01:27:24 1999 :: Log Moridin: purge coins
+Sat Mar 27 01:27:32 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:29:41 1999 :: oldstyle damned soul: wait state 6
+Sat Mar 27 01:31:25 1999 :: oldstyle living wall: wait state 24
+Sat Mar 27 01:32:27 1999 :: oldstyle damned soul: wait state 18
+Sat Mar 27 01:32:31 1999 :: oldstyle damned soul: wait state 6
+Sat Mar 27 01:33:05 1999 :: oldstyle damned soul: wait state 12
+Sat Mar 27 01:36:18 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:39:04 1999 :: sock.sinaddr: 204.244.115.154
+Sat Mar 27 01:39:12 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:39:14 1999 :: resolver_loop: Sarius@204.244.115.154
+Sat Mar 27 01:39:14 1999 :: resolv_done: Sarius@dial40.kermode.net
+Sat Mar 27 01:40:25 1999 :: Sarius@dial40.kermode.net new player.
+Sat Mar 27 01:40:32 1999 :: Sarius has quit.
+Sat Mar 27 01:41:36 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:42:01 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:43:20 1999 :: Log Moridin: trans shuk
+Sat Mar 27 01:46:28 1999 :: oldstyle vegetable pot pie: wait state 6
+                                                                      

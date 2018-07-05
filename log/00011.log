@@ -1,0 +1,4 @@
+Wed Jun 23 13:08:45 1999 :: spell_mana_transfer: not touched
+Wed Jun 23 13:08:45 1999 :: spell_plant_form: not touched
+Wed Jun 23 13:08:47 1999 :: area/erebus.are: line 688: fread_number: bad format
+resolver_loop: Illegal seek

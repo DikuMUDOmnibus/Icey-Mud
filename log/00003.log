@@ -1,0 +1,335 @@
+Sat Mar 27 02:04:32 1999 :: spell_mana_transfer: not touched
+Sat Mar 27 02:04:32 1999 :: spell_plant_form: not touched
+Sat Mar 27 02:04:36 1999 :: fix_exits: 40202:3 -> 40206:1 -> 40207.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 40202:5 -> 40200:4 -> 40201.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 40203:4 -> 40205:5 -> 40204.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 40205:1 -> 40203:3 -> 40208.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 40206:4 -> 40202:5 -> 40200.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 297:3 -> 206:1 -> 205.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33131:5 -> 3054:4 -> 1215.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33176:0 -> 33176:2 -> 33178.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33302:1 -> 33304:3 -> 33306.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33303:1 -> 33304:3 -> 33306.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33306:0 -> 33304:2 -> 33305.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33306:3 -> 33304:1 -> 33305.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33307:1 -> 33305:3 -> 33304.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33307:2 -> 33305:0 -> 33304.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33307:3 -> 33304:1 -> 33305.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33309:0 -> 33304:2 -> 33305.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33309:1 -> 33306:3 -> 33304.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 33309:2 -> 33305:0 -> 33304.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 4716:2 -> 4708:0 -> 4717.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27347:3 -> 27346:1 -> 27349.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27355:2 -> 27391:0 -> 27356.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 13020:1 -> 13025:3 -> 13019.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27366:3 -> 27533:1 -> 27557.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27370:1 -> 27533:3 -> 27536.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 13053:2 -> 13052:0 -> 13052.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27391:1 -> 27391:3 -> 27453.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27391:2 -> 27391:0 -> 27356.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27398:2 -> 27398:0 -> 27405.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27399:2 -> 27399:0 -> 27406.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27412:0 -> 27412:2 -> 27409.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27413:0 -> 27413:2 -> 27408.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27419:3 -> 27419:1 -> 27425.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27420:1 -> 27425:3 -> 27419.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27420:3 -> 27420:1 -> 27425.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27421:0 -> 27421:2 -> 27420.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27421:1 -> 27425:3 -> 27419.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27421:3 -> 27421:1 -> 27425.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27432:3 -> 27432:1 -> 27431.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27433:3 -> 27433:1 -> 27435.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27434:0 -> 27434:2 -> 27433.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27434:3 -> 27434:1 -> 27436.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27435:1 -> 27430:3 -> 27431.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27436:0 -> 27436:2 -> 27435.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27436:1 -> 27430:3 -> 27431.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27437:3 -> 27437:1 -> 27442.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27438:3 -> 27438:1 -> 27441.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27439:0 -> 27439:2 -> 27438.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27439:3 -> 27439:1 -> 27440.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27440:0 -> 27440:2 -> 27441.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27444:1 -> 27447:3 -> 27443.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27445:0 -> 27445:2 -> 27444.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27445:1 -> 27447:3 -> 27443.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27446:0 -> 27439:2 -> 27438.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27447:0 -> 27439:2 -> 27438.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27448:2 -> 27448:0 -> 27397.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27448:3 -> 27448:1 -> 27449.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27449:2 -> 27449:0 -> 27396.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27455:1 -> 27455:3 -> 27456.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27455:2 -> 27455:0 -> 27453.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27456:2 -> 27456:0 -> 27452.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27457:2 -> 27457:0 -> 27451.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27458:2 -> 27458:0 -> 27450.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27458:3 -> 27458:1 -> 27457.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27464:1 -> 27464:3 -> 27510.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27466:3 -> 27466:1 -> 27465.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27470:0 -> 27470:2 -> 27469.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27471:0 -> 27471:2 -> 27472.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27473:0 -> 27473:2 -> 27511.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 12124:1 -> 12154:3 -> 12154.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 12125:1 -> 12153:3 -> 12153.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 12126:3 -> 12152:1 -> 12152.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27487:2 -> 27496:0 -> 27495.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 12127:3 -> 12151:1 -> 12151.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27491:2 -> 27496:0 -> 27495.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27491:3 -> 27496:1 -> 27487.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27496:2 -> 27496:0 -> 27495.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27497:3 -> 27497:1 -> 27496.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27499:3 -> 27499:1 -> 27494.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27500:3 -> 27500:1 -> 27493.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27501:0 -> 27501:2 -> 27510.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27502:3 -> 27502:1 -> 27498.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27503:3 -> 27503:1 -> 27506.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27504:0 -> 27504:2 -> 27503.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27504:3 -> 27504:1 -> 27505.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27505:0 -> 27505:2 -> 27506.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27507:0 -> 27507:2 -> 27464.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27507:1 -> 27507:3 -> 27501.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27511:3 -> 27504:1 -> 27505.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27518:2 -> 27391:0 -> 27356.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 47002:5 -> 1220:4 -> 1221.
+Sat Mar 27 02:04:36 1999 :: fix_exits: 27573:2 -> 27369:0 -> 27537.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Equip_char: already equipped (14).
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Sat Mar 27 02:04:39 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Sat Mar 27 02:04:39 1999 :: ready to rock on port 4000.
+Sat Mar 27 02:04:39 1999 :: info service started on port 4001.
+Sat Mar 27 02:04:39 1999 :: sock.sinaddr: 208.133.30.120
+Sat Mar 27 02:04:40 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:04:41 1999 :: Loading Racquel.
+Sat Mar 27 02:04:41 1999 :: resolver_loop: Racquel@152.202.125.105
+Sat Mar 27 02:04:41 1999 :: resolv_done: Racquel@98CA7D69.ipt.aol.com
+Sat Mar 27 02:04:45 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:04:46 1999 :: Loading Balinor.
+Sat Mar 27 02:04:46 1999 :: resolver_loop: Balinor@152.202.125.105
+Sat Mar 27 02:04:46 1999 :: resolv_done: Balinor@98CA7D69.ipt.aol.com
+Sat Mar 27 02:04:51 1999 :: Wrong password by Racquel@98CA7D69.ipt.aol.com
+Sat Mar 27 02:04:58 1999 :: Loading Racquel.
+Sat Mar 27 02:04:58 1999 :: Racquel@98CA7D69.ipt.aol.com has connected.
+Sat Mar 27 02:05:04 1999 :: sock.sinaddr: 209.123.65.29
+Sat Mar 27 02:05:05 1999 :: Loading Balinor.
+Sat Mar 27 02:05:05 1999 :: Balinor@98CA7D69.ipt.aol.com has connected.
+Sat Mar 27 02:05:07 1999 :: Loading Momo.
+Sat Mar 27 02:05:07 1999 :: resolver_loop: Momo@209.123.65.29
+Sat Mar 27 02:05:07 1999 :: resolv_done: Momo@icey.mudsrus.com
+Sat Mar 27 02:05:08 1999 :: Loading Momo.
+Sat Mar 27 02:05:08 1999 :: Momo@icey.mudsrus.com has connected.
+Sat Mar 27 02:05:48 1999 :: Loading Moridin.
+Sat Mar 27 02:05:48 1999 :: resolver_loop: Moridin@208.133.30.120
+Sat Mar 27 02:05:48 1999 :: resolv_done: Moridin@max01-lr-55.lr.anc.net
+Sat Mar 27 02:05:49 1999 :: Loading Moridin.
+Sat Mar 27 02:05:49 1999 :: Moridin@max01-lr-55.lr.anc.net has connected.
+Sat Mar 27 02:06:04 1999 :: sock.sinaddr: 152.166.30.106
+Sat Mar 27 02:06:05 1999 :: sock.sinaddr: 208.133.30.120
+Sat Mar 27 02:06:07 1999 :: Loading Shukumei.
+Sat Mar 27 02:06:07 1999 :: resolver_loop: Shukumei@208.133.30.120
+Sat Mar 27 02:06:08 1999 :: resolv_done: Shukumei@max01-lr-55.lr.anc.net
+Sat Mar 27 02:06:08 1999 :: Loading Shukumei.
+Sat Mar 27 02:06:08 1999 :: Shukumei@max01-lr-55.lr.anc.net has connected.
+Sat Mar 27 02:06:09 1999 :: Loading Ferret.
+Sat Mar 27 02:06:09 1999 :: resolver_loop: Ferret@152.166.30.106
+Sat Mar 27 02:06:10 1999 :: resolv_done: Ferret@98A61E6A.ipt.aol.com
+Sat Mar 27 02:06:11 1999 :: Loading Ferret.
+Sat Mar 27 02:06:11 1999 :: Ferret@98A61E6A.ipt.aol.com has connected.
+Sat Mar 27 02:06:17 1999 :: sock.sinaddr: 152.166.30.106
+Sat Mar 27 02:06:18 1999 :: Loading Talcamis.
+Sat Mar 27 02:06:18 1999 :: resolver_loop: Talcamis@152.166.30.106
+Sat Mar 27 02:06:18 1999 :: resolv_done: Talcamis@98A61E6A.ipt.aol.com
+Sat Mar 27 02:06:20 1999 :: Loading Talcamis.
+Sat Mar 27 02:06:20 1999 :: Talcamis@98A61E6A.ipt.aol.com has connected.
+Sat Mar 27 02:06:40 1999 :: sock.sinaddr: 216.67.5.29
+Sat Mar 27 02:07:06 1999 :: Loading Ebayl.
+Sat Mar 27 02:07:06 1999 :: resolver_loop: Ebayl@216.67.5.29
+Sat Mar 27 02:07:07 1999 :: resolv_done: Ebayl@nas1-5-29.nyc.navinet.net
+Sat Mar 27 02:07:07 1999 :: Log Moridin: trans shuk
+Sat Mar 27 02:07:09 1999 :: Loading Ebayl.
+Sat Mar 27 02:07:09 1999 :: Ebayl@nas1-5-29.nyc.navinet.net has connected.
+Sat Mar 27 02:12:31 1999 :: Shukumei has quit.
+Sat Mar 27 02:17:55 1999 :: sock.sinaddr: 206.168.144.58
+Read_from_descriptor: Connection reset by peer
+Sat Mar 27 02:26:06 1999 :: Moridin has quit.
+Sat Mar 27 02:26:25 1999 :: sock.sinaddr: 206.245.158.35
+Sat Mar 27 02:26:25 1999 :: EOF encountered on read.
+Sat Mar 27 02:28:07 1999 :: Log Momo: load obj 29102 1
+Sat Mar 27 02:29:46 1999 :: dragon baby evil: wait state 12
+Sat Mar 27 02:34:14 1999 :: Balinor has quit.
+Sat Mar 27 02:35:05 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:35:06 1999 :: Loading Balinor.
+Sat Mar 27 02:35:06 1999 :: resolver_loop: Balinor@152.202.125.105
+Sat Mar 27 02:35:07 1999 :: resolv_done: Balinor@98CA7D69.ipt.aol.com
+Sat Mar 27 02:35:16 1999 :: Loading Balinor.
+Sat Mar 27 02:35:16 1999 :: Balinor@98CA7D69.ipt.aol.com has connected.
+Sat Mar 27 02:36:55 1999 :: Ferret has quit.
+Sat Mar 27 02:37:01 1999 :: Talcamis has quit.
+Sat Mar 27 02:38:00 1999 :: Racquel has quit.
+Sat Mar 27 02:38:44 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:39:06 1999 :: resolver_loop: Gwyndal@152.202.125.105
+Sat Mar 27 02:39:06 1999 :: resolv_done: Gwyndal@98CA7D69.ipt.aol.com
+Sat Mar 27 02:39:51 1999 :: sock.sinaddr: 209.213.35.170
+Sat Mar 27 02:39:56 1999 :: Loading Ikari.
+Sat Mar 27 02:39:56 1999 :: resolver_loop: Ikari@209.213.35.170
+Sat Mar 27 02:39:56 1999 :: resolv_done: Ikari@m170.hawaiian.net
+Sat Mar 27 02:39:57 1999 :: Loading Ikari.
+Sat Mar 27 02:39:58 1999 :: Ikari@m170.hawaiian.net has connected.
+Sat Mar 27 02:40:23 1999 :: Gwyndal@98CA7D69.ipt.aol.com new player.
+Sat Mar 27 02:41:29 1999 :: Log Gwyndal: delete
+Sat Mar 27 02:41:33 1999 :: Log Gwyndal: delete
+Sat Mar 27 02:41:33 1999 :: Gwyndal has quit.
+Sat Mar 27 02:41:38 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:41:45 1999 :: resolver_loop: Gwyndal@152.202.125.105
+Sat Mar 27 02:41:46 1999 :: resolv_done: Gwyndal@98CA7D69.ipt.aol.com
+Sat Mar 27 02:41:55 1999 :: EOF encountered on read.
+Sat Mar 27 02:41:55 1999 :: Closing link to Gwyndal.
+Sat Mar 27 02:42:04 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 02:42:14 1999 :: resolver_loop: Duryl@152.202.125.105
+Sat Mar 27 02:42:15 1999 :: resolv_done: Duryl@98CA7D69.ipt.aol.com
+Sat Mar 27 02:43:02 1999 :: Duryl@98CA7D69.ipt.aol.com new player.
+Sat Mar 27 02:44:48 1999 :: Ikari has quit.
+Sat Mar 27 02:45:35 1999 :: sock.sinaddr: 208.225.199.161
+Sat Mar 27 02:45:58 1999 :: Loading Mercy.
+Sat Mar 27 02:45:58 1999 :: resolver_loop: Mercy@208.225.199.161
+Sat Mar 27 02:45:59 1999 :: resolv_done: Mercy@ip161-225-199.ts7.phx.inficad.com
+Sat Mar 27 02:46:01 1999 :: Loading Mercy.
+Sat Mar 27 02:46:01 1999 :: Mercy@ip161-225-199.ts7.phx.inficad.com has connected.
+Sat Mar 27 02:48:37 1999 :: Log Duryl: delet
+Sat Mar 27 02:48:39 1999 :: Log Duryl: delet
+Sat Mar 27 02:48:45 1999 :: Log Duryl: delete
+Sat Mar 27 02:48:47 1999 :: Log Duryl: delete
+Sat Mar 27 02:48:47 1999 :: Duryl has quit.
+Sat Mar 27 02:53:13 1999 :: sock.sinaddr: 216.67.5.29
+Sat Mar 27 02:53:21 1999 :: Loading Croket.
+Sat Mar 27 02:53:21 1999 :: resolver_loop: Croket@216.67.5.29
+Sat Mar 27 02:53:21 1999 :: resolv_done: Croket@nas1-5-29.nyc.navinet.net
+Sat Mar 27 02:53:23 1999 :: Loading Croket.
+Sat Mar 27 02:53:23 1999 :: Croket@nas1-5-29.nyc.navinet.net has connected.
+Sat Mar 27 02:54:23 1999 :: Croket has quit.
+Sat Mar 27 02:54:26 1999 :: sock.sinaddr: 216.67.5.29
+Sat Mar 27 02:56:11 1999 :: resolver_loop: Ubidl@216.67.5.29
+Sat Mar 27 02:56:11 1999 :: resolv_done: Ubidl@nas1-5-29.nyc.navinet.net
+Sat Mar 27 02:56:58 1999 :: Mercy has quit.
+Sat Mar 27 02:57:31 1999 :: EOF encountered on read.
+Sat Mar 27 02:57:31 1999 :: Closing link to Ubidl.
+Sat Mar 27 02:59:57 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Sat Mar 27 03:01:02 1999 :: oldstyle lesser guardian hands: wait state 8
+Sat Mar 27 03:01:14 1999 :: oldstyle lesser guardian hands: wait state 6
+Sat Mar 27 03:04:05 1999 :: oldstyle guardian greater eyes: wait state 18
+Sat Mar 27 03:20:35 1999 :: back_home: reset place not found
+Sat Mar 27 03:26:43 1999 :: sock.sinaddr: 24.92.36.38
+Sat Mar 27 03:26:47 1999 :: resolver_loop: Gypsy@24.92.36.38
+Sat Mar 27 03:26:47 1999 :: resolv_done: Gypsy@toshiba-36-38.nycap.rr.com
+Sat Mar 27 03:29:10 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:29:15 1999 :: Loading Ebayl.
+Sat Mar 27 03:29:15 1999 :: resolver_loop: Ebayl@216.67.5.62
+Sat Mar 27 03:29:15 1999 :: resolv_done: Ebayl@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:29:20 1999 :: Closing link to Ebayl.
+Sat Mar 27 03:29:20 1999 :: Ebayl@nas1-5-62.nyc.navinet.net reconnected.
+Sat Mar 27 03:31:03 1999 :: Balinor has quit.
+Sat Mar 27 03:31:19 1999 :: Gypsy@toshiba-36-38.nycap.rr.com new player.
+Sat Mar 27 03:31:20 1999 :: sock.sinaddr: 152.202.125.105
+Sat Mar 27 03:31:21 1999 :: Loading Balinor.
+Sat Mar 27 03:31:21 1999 :: resolver_loop: Balinor@152.202.125.105
+Sat Mar 27 03:31:22 1999 :: resolv_done: Balinor@98CA7D69.ipt.aol.com
+Sat Mar 27 03:31:32 1999 :: EOF encountered on read.
+Sat Mar 27 03:31:32 1999 :: Closing link to Balinor.
+Sat Mar 27 03:39:01 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:39:04 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:39:05 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:39:46 1999 :: Owen@nas1-5-62.nyc.navinet.net new player.
+Sat Mar 27 03:42:43 1999 :: Owen has quit.
+Sat Mar 27 03:43:07 1999 :: oldstyle lesser guardian hands: wait state 18
+Sat Mar 27 03:46:55 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:46:58 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:46:58 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:47:26 1999 :: EOF encountered on read.
+Sat Mar 27 03:47:26 1999 :: Closing link to Owen.
+Sat Mar 27 03:47:27 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:47:33 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:47:33 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:48:00 1999 :: EOF encountered on read.
+Sat Mar 27 03:48:00 1999 :: Closing link to Owen.
+Sat Mar 27 03:48:01 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:48:33 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:48:34 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:48:56 1999 :: EOF encountered on read.
+Sat Mar 27 03:48:56 1999 :: Closing link to Owen.
+Sat Mar 27 03:49:08 1999 :: Ebayl has quit.
+Sat Mar 27 03:49:13 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:49:17 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:49:17 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:49:53 1999 :: EOF encountered on read.
+Sat Mar 27 03:49:53 1999 :: Closing link to Owen.
+Sat Mar 27 03:49:54 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:49:57 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:49:57 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:50:26 1999 :: EOF encountered on read.
+Sat Mar 27 03:50:26 1999 :: Closing link to Owen.
+Sat Mar 27 03:50:27 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:50:30 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:50:31 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:51:11 1999 :: EOF encountered on read.
+Sat Mar 27 03:51:11 1999 :: Closing link to Owen.
+Sat Mar 27 03:51:12 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:51:17 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:51:17 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:51:40 1999 :: EOF encountered on read.
+Sat Mar 27 03:51:40 1999 :: Closing link to Owen.
+Sat Mar 27 03:51:44 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:51:47 1999 :: Loading Ebayl.
+Sat Mar 27 03:51:47 1999 :: resolver_loop: Ebayl@216.67.5.62
+Sat Mar 27 03:51:47 1999 :: resolv_done: Ebayl@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:51:50 1999 :: Loading Ebayl.
+Sat Mar 27 03:51:50 1999 :: Ebayl@nas1-5-62.nyc.navinet.net has connected.
+Sat Mar 27 03:52:16 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:52:19 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:52:19 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:52:43 1999 :: EOF encountered on read.
+Sat Mar 27 03:52:43 1999 :: Closing link to Owen.
+Sat Mar 27 03:52:43 1999 :: sock.sinaddr: 216.67.5.62
+Sat Mar 27 03:52:46 1999 :: resolver_loop: Owen@216.67.5.62
+Sat Mar 27 03:52:46 1999 :: resolv_done: Owen@nas1-5-62.nyc.navinet.net
+Sat Mar 27 03:53:24 1999 :: Owen@nas1-5-62.nyc.navinet.net new player.
+Sat Mar 27 03:57:49 1999 :: back_home: reset place not found
+Sat Mar 27 03:59:00 1999 :: Owen has quit.
+Sat Mar 27 04:01:27 1999 :: back_home: reset place not found
+Sat Mar 27 04:09:40 1999 :: Ebayl has quit.
+Sat Mar 27 04:18:58 1999 :: Gypsy has quit.
+Sat Mar 27 04:33:40 1999 :: sock.sinaddr: 209.213.35.143
+Sat Mar 27 04:33:48 1999 :: Loading Ikari.
+Sat Mar 27 04:33:48 1999 :: resolver_loop: Ikari@209.213.35.143
+Sat Mar 27 04:33:48 1999 :: resolv_done: Ikari@m143.hawaiian.net
+Sat Mar 27 04:33:49 1999 :: Loading Ikari.
+Sat Mar 27 04:33:49 1999 :: Ikari@m143.hawaiian.net has connected.
+Sat Mar 27 04:38:40 1999 :: Ikari has quit.
+Sat Mar 27 04:47:16 1999 :: Momo has quit.
+Sat Mar 27 05:03:17 1999 :: sock.sinaddr: 209.123.65.29
+Sat Mar 27 05:03:18 1999 :: Loading Momo.
+Sat Mar 27 05:03:18 1999 :: resolver_loop: Momo@209.123.65.29
+Sat Mar 27 05:03:18 1999 :: resolv_done: Momo@icey.mudsrus.com
+Sat Mar 27 05:03:20 1999 :: Wrong password by Momo@icey.mudsrus.com
+Sat Mar 27 05:03:22 1999 :: Loading Momo.
+Sat Mar 27 05:03:22 1999 :: Momo@icey.mudsrus.com has connected.
+Sat Mar 27 06:09:34 1999 :: sock.sinaddr: 62.136.28.252
+Sat Mar 27 06:09:39 1999 :: resolver_loop: Zoster@62.136.28.252
+Sat Mar 27 06:09:40 1999 :: resolv_done: Zoster@modem-124.cerium.dialup.pol.co.uk
+Read_from_descriptor: Connection reset by peer
+Sat Mar 27 06:10:22 1999 :: Closing link to Zoster.
+Sat Mar 27 06:31:13 1999 :: sock.sinaddr: 209.213.35.143
+Sat Mar 27 06:31:20 1999 :: Loading Ikari.
+Sat Mar 27 06:31:20 1999 :: resolver_loop: Ikari@209.213.35.143
+Sat Mar 27 06:31:20 1999 :: resolv_done: Ikari@m143.hawaiian.net
+Sat Mar 27 06:31:21 1999 :: Loading Ikari.
+Sat Mar 27 06:31:21 1999 :: Ikari@m143.hawaiian.net has connected.
+Sat Mar 27 06:38:44 1999 :: sock.sinaddr: 196.33.155.31
+Sat Mar 27 06:38:45 1999 :: sock.sinaddr: 196.33.155.31
+Sat Mar 27 06:38:45 1999 :: EOF encountered on read.
+Sat Mar 27 06:38:47 1999 :: Loading Exemption.
+Sat Mar 27 06:38:47 1999 :: resolver_loop: Exemption@196.33.155.31
+Sat Mar 27 06:38:47 1999 :: resolv_done: Exemption@ras31.mailnet.co.za
+Sat Mar 27 06:38:59 1999 :: Loading Exemption.
+Sat Mar 27 06:38:59 1999 :: Exemption@ras31.mailnet.co.za has connected.

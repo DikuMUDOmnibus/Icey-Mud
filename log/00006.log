@@ -1,0 +1,4 @@
+Wed May 19 20:17:56 1999 :: spell_mana_transfer: not touched
+Wed May 19 20:17:56 1999 :: spell_plant_form: not touched
+Wed May 19 20:17:59 1999 :: area/erebus.are: line 304: fread_string: EOF
+resolver_loop: Illegal seek

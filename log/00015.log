@@ -1,0 +1,567 @@
+Fri Jun 25 11:54:07 1999 :: spell_mana_transfer: not touched
+Fri Jun 25 11:54:07 1999 :: spell_plant_form: not touched
+Fri Jun 25 11:54:11 1999 :: fix_exits: 4121:0 -> 41212:2 -> 41213.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 120013:0 -> 120006:2 -> 120014.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 40202:3 -> 40206:1 -> 40207.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 40202:5 -> 40200:4 -> 40201.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 40203:4 -> 40205:5 -> 40204.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 40205:1 -> 40203:3 -> 40208.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 40206:4 -> 40202:5 -> 40200.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 297:3 -> 206:1 -> 205.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33131:5 -> 3054:4 -> 1215.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33176:0 -> 33176:2 -> 33178.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 9735:2 -> 9736:0 -> 17271.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33302:1 -> 33304:3 -> 33306.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33303:1 -> 33304:3 -> 33306.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33306:0 -> 33304:2 -> 33305.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33306:3 -> 33304:1 -> 33305.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33307:1 -> 33305:3 -> 33304.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33307:2 -> 33305:0 -> 33304.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33307:3 -> 33304:1 -> 33305.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33309:0 -> 33304:2 -> 33305.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33309:1 -> 33306:3 -> 33304.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 33309:2 -> 33305:0 -> 33304.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 4716:2 -> 4708:0 -> 4717.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27346:0 -> 27346:2 -> 27345.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27347:3 -> 27346:1 -> 27349.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27349:0 -> 27349:2 -> 27348.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27352:0 -> 27352:2 -> 27351.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27352:3 -> 27569:1 -> 27551.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27355:2 -> 27391:0 -> 27356.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 13020:1 -> 13025:3 -> 13019.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27363:0 -> 27537:2 -> 27557.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27363:3 -> 27572:1 -> 27571.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27365:0 -> 27536:2 -> 27566.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27365:2 -> 27533:0 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27366:2 -> 27533:0 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27366:3 -> 27557:1 -> 27557.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27367:0 -> 27555:2 -> 27552.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27367:1 -> 27536:3 -> 27535.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27368:0 -> 27560:2 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27368:2 -> 27533:0 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27369:0 -> 27537:2 -> 27557.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27369:3 -> 27557:1 -> 27557.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27370:1 -> 27533:3 -> 27536.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27370:2 -> 27536:0 -> 27544.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27371:0 -> 27557:2 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27371:2 -> 27535:0 -> 27540.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27372:2 -> 27534:0 -> 27542.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27372:3 -> 27474:1 -> 27534.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27373:1 -> 27557:3 -> 27533.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27376:2 -> 27474:0 -> 27474.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 13053:2 -> 13052:0 -> 13052.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27391:1 -> 27391:3 -> 27453.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27391:2 -> 27391:0 -> 27356.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27398:2 -> 27398:0 -> 27405.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27412:0 -> 27412:2 -> 27409.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27413:0 -> 27413:2 -> 27408.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27419:3 -> 27419:1 -> 27425.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27420:1 -> 27425:3 -> 27419.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27420:3 -> 27420:1 -> 27425.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27421:0 -> 27421:2 -> 27420.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27421:1 -> 27425:3 -> 27419.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27421:3 -> 27421:1 -> 27425.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27432:3 -> 27432:1 -> 27431.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27433:3 -> 27433:1 -> 27435.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27434:0 -> 27434:2 -> 27433.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27434:3 -> 27434:1 -> 27436.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27435:1 -> 27430:3 -> 27431.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27436:0 -> 27436:2 -> 27435.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27436:1 -> 27430:3 -> 27431.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27437:3 -> 27437:1 -> 27442.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27438:3 -> 27438:1 -> 27441.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27439:0 -> 27439:2 -> 27438.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27439:3 -> 27439:1 -> 27440.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27440:0 -> 27440:2 -> 27441.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27444:1 -> 27447:3 -> 27443.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27445:0 -> 27445:2 -> 27444.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27445:1 -> 27447:3 -> 27443.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27446:0 -> 27439:2 -> 27438.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27447:0 -> 27439:2 -> 27438.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27448:2 -> 27448:0 -> 27397.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27448:3 -> 27448:1 -> 27449.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27449:2 -> 27449:0 -> 27396.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27455:1 -> 27455:3 -> 27456.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27455:2 -> 27455:0 -> 27453.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27456:2 -> 27456:0 -> 27452.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27457:2 -> 27457:0 -> 27451.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27458:2 -> 27458:0 -> 27450.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27458:3 -> 27458:1 -> 27457.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27464:1 -> 27464:3 -> 27510.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27466:3 -> 27466:1 -> 27465.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27470:0 -> 27470:2 -> 27469.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27471:0 -> 27471:2 -> 27472.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27473:0 -> 27473:2 -> 27511.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27474:0 -> 27474:2 -> 27556.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27474:3 -> 27547:1 -> 27547.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27475:1 -> 27474:3 -> 27547.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 12124:1 -> 12154:3 -> 12154.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 12125:1 -> 12153:3 -> 12153.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 12126:3 -> 12152:1 -> 12152.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27487:2 -> 27496:0 -> 27495.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 12127:3 -> 12151:1 -> 12151.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27491:2 -> 27496:0 -> 27495.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27491:3 -> 27496:1 -> 27487.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27496:2 -> 27496:0 -> 27495.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27497:3 -> 27497:1 -> 27496.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27499:3 -> 27499:1 -> 27494.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27500:3 -> 27500:1 -> 27493.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27501:0 -> 27501:2 -> 27510.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27502:3 -> 27502:1 -> 27498.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27503:3 -> 27503:1 -> 27506.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27504:0 -> 27504:2 -> 27503.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27504:3 -> 27504:1 -> 27505.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27505:0 -> 27505:2 -> 27506.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27507:0 -> 27507:2 -> 27464.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27507:1 -> 27507:3 -> 27501.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27511:3 -> 27504:1 -> 27505.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27518:2 -> 27391:0 -> 27356.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27533:0 -> 27561:2 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27533:2 -> 27533:0 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27534:0 -> 27542:2 -> 27539.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27535:0 -> 27540:2 -> 27565.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27535:2 -> 27533:0 -> 27561.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27536:0 -> 27544:2 -> 27544.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27536:2 -> 27566:0 -> 27566.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27537:0 -> 27549:2 -> 27565.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27537:2 -> 27557:0 -> 27557.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27537:3 -> 27572:1 -> 27571.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27538:1 -> 27543:3 -> 27542.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27538:2 -> 27534:0 -> 27542.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27540:2 -> 27565:0 -> 27474.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27540:3 -> 27559:1 -> 27536.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27541:0 -> 27550:2 -> 27571.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27541:3 -> 27536:1 -> 27533.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27542:0 -> 27542:2 -> 27539.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27543:0 -> 27533:2 -> 27533.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27543:1 -> 27546:3 -> 27554.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27544:2 -> 27544:0 -> 27543.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27545:2 -> 27547:0 -> 27542.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27546:1 -> 27572:3 -> 27573.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27546:3 -> 27554:1 -> 27554.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 47002:5 -> 1220:4 -> 1221.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27547:0 -> 27542:2 -> 27539.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27547:1 -> 27547:3 -> 27548.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27548:2 -> 27543:0 -> 27533.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27549:0 -> 27552:2 -> 27552.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27549:2 -> 27565:0 -> 27474.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27550:2 -> 27571:0 -> 27568.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27550:3 -> 27543:1 -> 27546.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27551:0 -> 27545:2 -> 27547.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27551:3 -> 27558:1 -> 27569.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27552:0 -> 27543:2 -> 27544.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27552:2 -> 27552:0 -> 27543.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27553:1 -> 27562:3 -> 27546.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27554:0 -> 27557:2 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27554:1 -> 27554:3 -> 27555.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27555:2 -> 27552:0 -> 27543.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27556:2 -> 27551:0 -> 27545.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27556:3 -> 27564:1 -> 27563.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27557:0 -> 27557:2 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27557:1 -> 27557:3 -> 27533.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27558:1 -> 27569:3 -> 27568.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27558:3 -> 27565:1 -> 27539.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27559:1 -> 27536:3 -> 27535.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27559:3 -> 27564:1 -> 27563.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27560:1 -> 27540:3 -> 27559.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27560:3 -> 27560:1 -> 27540.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27561:1 -> 27551:3 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27561:2 -> 27561:0 -> 27560.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27562:2 -> 27570:0 -> 27569.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27562:3 -> 27546:1 -> 27572.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27564:1 -> 27563:3 -> 27563.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27564:3 -> 27539:1 -> 27544.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27565:0 -> 27474:2 -> 27556.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27565:1 -> 27539:3 -> 27540.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27566:0 -> 27566:2 -> 27567.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27566:3 -> 27554:1 -> 27554.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27567:1 -> 27564:3 -> 27539.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27567:3 -> 27553:1 -> 27562.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27569:0 -> 27569:2 -> 27570.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27569:1 -> 27551:3 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27570:1 -> 27352:3 -> 27569.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27570:2 -> 27363:0 -> 27537.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27571:2 -> 27556:0 -> 27474.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50100:0 -> 50100:2 -> 50101.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50100:3 -> 50100:1 -> 50005.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27572:0 -> 27557:2 -> 27558.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27572:2 -> 27368:0 -> 27560.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50101:2 -> 50101:0 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50101:3 -> 50100:1 -> 50005.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27573:0 -> 27544:2 -> 27544.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27573:2 -> 27369:0 -> 27537.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27573:3 -> 27546:1 -> 27572.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50102:0 -> 50103:2 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50102:1 -> 50101:3 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50102:2 -> 50102:0 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27574:1 -> 27448:3 -> 27448.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27574:2 -> 27574:0 -> 27399.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 27574:3 -> 27458:1 -> 27457.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50103:0 -> 50102:2 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50103:1 -> 50102:3 -> 50101.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50103:2 -> 50103:0 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50103:3 -> 50104:1 -> 50104.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50104:0 -> 50104:2 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50104:1 -> 50104:3 -> 50105.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50104:2 -> 50103:0 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50104:3 -> 50105:1 -> 50106.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50105:0 -> 50104:2 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50105:2 -> 50100:0 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50105:3 -> 50104:1 -> 50104.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50106:0 -> 50107:2 -> 50101.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50106:1 -> 50101:3 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50106:2 -> 50106:0 -> 50107.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50107:0 -> 50105:2 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50107:1 -> 50103:3 -> 50104.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50107:2 -> 50101:0 -> 50100.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50107:3 -> 50108:1 -> 50105.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50108:0 -> 50106:2 -> 50106.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50108:1 -> 50105:3 -> 50104.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50108:2 -> 50109:0 -> 50107.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50108:3 -> 50104:1 -> 50104.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50109:0 -> 50107:2 -> 50101.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50109:1 -> 50110:3 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50109:2 -> 50107:0 -> 50105.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50109:3 -> 50103:1 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50110:0 -> 50111:2 -> 50108.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50110:1 -> 50107:3 -> 50108.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50110:2 -> 50102:0 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50110:3 -> 50112:1 -> 50111.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50111:0 -> 50103:2 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50111:1 -> 50109:3 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50111:2 -> 50108:0 -> 50106.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50112:0 -> 50104:2 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50112:2 -> 50113:0 -> 50106.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50112:3 -> 50111:1 -> 50109.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50113:0 -> 50106:2 -> 50106.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50113:1 -> 50114:3 -> 50114.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50113:2 -> 50103:0 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50113:3 -> 50110:1 -> 50107.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50114:0 -> 50115:2 -> 50111.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50114:1 -> 50113:3 -> 50110.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50114:2 -> 50109:0 -> 50107.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50114:3 -> 50114:1 -> 50113.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50115:0 -> 50108:2 -> 50109.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50115:1 -> 50111:3 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50115:2 -> 50111:0 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50115:3 -> 50116:1 -> 50109.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50116:0 -> 50110:2 -> 50102.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50116:1 -> 50109:3 -> 50103.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50116:2 -> 50117:0 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50116:3 -> 50115:1 -> 50111.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50117:0 -> 50112:2 -> 50113.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50117:2 -> 50115:0 -> 50108.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50117:3 -> 50116:1 -> 50109.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50118:0 -> 50114:2 -> 50109.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50118:1 -> 50111:3 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50118:2 -> 50119:0 -> 50116.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50119:0 -> 50116:2 -> 50117.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50119:1 -> 50113:3 -> 50110.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50119:2 -> 50117:0 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50119:3 -> 50120:1 -> 50117.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50120:1 -> 50117:3 -> 50116.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50120:2 -> 50119:0 -> 50116.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50120:3 -> 50118:1 -> 50111.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50121:0 -> 50121:2 -> 50120.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50121:1 -> 50122:3 -> 50120.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50121:3 -> 50119:1 -> 50113.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50122:0 -> 50123:2 -> 50117.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50122:1 -> 50118:3 -> 50117.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50122:2 -> 50119:0 -> 50116.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50122:3 -> 50120:1 -> 50117.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50123:0 -> 50115:2 -> 50111.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50123:1 -> 50116:3 -> 50115.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50123:2 -> 50117:0 -> 50112.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50123:3 -> 50124:1 -> 50113.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50124:0 -> 50112:2 -> 50113.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50124:1 -> 50113:3 -> 50110.
+Fri Jun 25 11:54:11 1999 :: fix_exits: 50124:3 -> 114:1 -> 109.
+Fri Jun 25 11:54:16 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Equip_char: already equipped (14).
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Affect_modify: unknown location 7.
+Fri Jun 25 11:54:17 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Fri Jun 25 11:54:17 1999 :: ready to rock on port 4000.
+Fri Jun 25 11:54:17 1999 :: info service started on port 4001.
+Fri Jun 25 11:54:17 1999 :: sock.sinaddr: 167.206.60.154
+Fri Jun 25 11:54:26 1999 :: Loading Momo.
+Fri Jun 25 11:54:27 1999 :: resolver_loop: Momo@167.206.60.154
+Fri Jun 25 11:54:27 1999 :: resolv_done: Momo@bab60-154.optonline.net
+Fri Jun 25 11:54:28 1999 :: Loading Momo.
+Fri Jun 25 11:54:28 1999 :: Momo@bab60-154.optonline.net has connected.
+Fri Jun 25 11:55:00 1999 :: sock.sinaddr: 152.207.126.27
+Fri Jun 25 11:55:05 1999 :: Loading Lazorus.
+Fri Jun 25 11:55:05 1999 :: resolver_loop: Lazorus@152.207.126.27
+Fri Jun 25 11:55:05 1999 :: resolv_done: Lazorus@98CF7E1B.ipt.aol.com
+Fri Jun 25 11:55:06 1999 :: Loading Lazorus.
+Fri Jun 25 11:55:06 1999 :: Lazorus@98CF7E1B.ipt.aol.com has connected.
+Fri Jun 25 11:55:35 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 11:55:50 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 11:55:53 1999 :: resolver_loop: Zhanag@208.132.43.96
+Fri Jun 25 11:55:54 1999 :: resolv_done: Zhanag@elp-43-96.raex.com
+Fri Jun 25 11:55:58 1999 :: Loading Zhang.
+Fri Jun 25 11:56:00 1999 :: Loading Zhang.
+Fri Jun 25 11:56:00 1999 :: Zhang@elp-43-96.raex.com has connected.
+Fri Jun 25 11:56:06 1999 :: Loading Guan.
+Fri Jun 25 11:56:06 1999 :: resolver_loop: Guan@208.132.43.96
+Fri Jun 25 11:56:06 1999 :: resolv_done: Guan@elp-43-96.raex.com
+Fri Jun 25 11:56:07 1999 :: Loading Guan.
+Fri Jun 25 11:56:07 1999 :: Guan@elp-43-96.raex.com has connected.
+Read_from_descriptor: Connection reset by peer
+Fri Jun 25 11:56:13 1999 :: Closing link to Lazorus.
+Fri Jun 25 11:59:47 1999 :: sock.sinaddr: 152.172.193.245
+Fri Jun 25 11:59:51 1999 :: Loading Lazorus.
+Fri Jun 25 11:59:51 1999 :: resolver_loop: Lazorus@152.172.193.245
+Fri Jun 25 11:59:51 1999 :: resolv_done: Lazorus@98ACC1F5.ipt.aol.com
+Fri Jun 25 11:59:54 1999 :: Lazorus@98ACC1F5.ipt.aol.com reconnected.
+Fri Jun 25 12:00:10 1999 :: Lazorus has quit.
+Fri Jun 25 12:00:11 1999 :: sock.sinaddr: 152.172.193.245
+Fri Jun 25 12:11:42 1999 :: sock.sinaddr: 206.245.158.35
+Fri Jun 25 12:11:52 1999 :: Loading Ghontin.
+Fri Jun 25 12:11:52 1999 :: resolver_loop: Ghontin@206.245.158.35
+Fri Jun 25 12:11:52 1999 :: resolv_done: Ghontin@mudc.mudconnector.com
+Fri Jun 25 12:11:55 1999 :: Loading Ghontin.
+Fri Jun 25 12:11:55 1999 :: Ghontin@mudc.mudconnector.com has connected.
+Fri Jun 25 12:12:01 1999 :: EOF encountered on read.
+Fri Jun 25 12:12:01 1999 :: Closing link to Ghontin.
+Fri Jun 25 12:12:13 1999 :: sock.sinaddr: 206.245.158.35
+Fri Jun 25 12:12:24 1999 :: resolver_loop: Ghon@206.245.158.35
+Fri Jun 25 12:12:24 1999 :: resolv_done: Ghon@mudc.mudconnector.com
+Fri Jun 25 12:12:34 1999 :: Loading Ghontin.
+Fri Jun 25 12:12:39 1999 :: Ghontin@mudc.mudconnector.com reconnected.
+Fri Jun 25 12:22:40 1999 :: sock.sinaddr: 208.242.83.224
+Fri Jun 25 12:22:44 1999 :: Loading Erebus.
+Fri Jun 25 12:22:44 1999 :: resolver_loop: Erebus@208.242.83.224
+Fri Jun 25 12:22:44 1999 :: resolv_done: Erebus@pm2-1.ppp15.wmol.com
+Fri Jun 25 12:22:47 1999 :: Loading Erebus.
+Fri Jun 25 12:22:47 1999 :: Erebus@pm2-1.ppp15.wmol.com has connected.
+Fri Jun 25 12:25:58 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 95100: 'slay'
+Fri Jun 25 12:26:52 1999 :: [*****] BUG: Mob_interpret: invalid cmd from mob 95100: 'slay'
+Fri Jun 25 12:27:00 1999 :: EOF encountered on read.
+Fri Jun 25 12:27:00 1999 :: Closing link to Ghontin.
+Fri Jun 25 12:30:24 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 12:30:34 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 12:30:36 1999 :: Loading Kairi.
+Fri Jun 25 12:30:36 1999 :: resolver_loop: Kairi@209.244.102.20
+Fri Jun 25 12:30:36 1999 :: resolv_done: Kairi@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:30:36 1999 :: Wrong password by Kairi@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:30:38 1999 :: Loading Kairi.
+Fri Jun 25 12:30:38 1999 :: Kairi@dialup-209.244.102.20.NewYork2.Level3.net has connected.
+Fri Jun 25 12:31:42 1999 :: Loading Kairos.
+Fri Jun 25 12:31:42 1999 :: resolver_loop: Kairos@209.244.102.20
+Fri Jun 25 12:31:42 1999 :: resolv_done: Kairos@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:31:42 1999 :: Wrong password by Kairos@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:31:43 1999 :: Loading Kairos.
+Fri Jun 25 12:31:43 1999 :: Kairos@dialup-209.244.102.20.NewYork2.Level3.net has connected.
+Fri Jun 25 12:32:42 1999 :: deduct cost: Kairi: ch->silver (81) < silver (-3)
+Fri Jun 25 12:32:42 1999 :: deduct cost: Kairi: ch->silver (0) < silver (-55)
+Fri Jun 25 12:32:42 1999 :: deduct cost: Kairi: ch->silver (0) < silver (-66)
+Fri Jun 25 12:32:42 1999 :: deduct cost: Kairi: ch->silver (0) < silver (-95)
+Fri Jun 25 12:33:08 1999 :: Kairi has quit.
+Fri Jun 25 12:33:08 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 12:33:11 1999 :: Kairos has quit.
+Fri Jun 25 12:33:11 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 12:33:20 1999 :: Loading Urza.
+Fri Jun 25 12:33:20 1999 :: resolver_loop: Urza@209.244.102.20
+Fri Jun 25 12:33:21 1999 :: resolv_done: Urza@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:33:24 1999 :: Loading Urza.
+Fri Jun 25 12:33:24 1999 :: Urza@dialup-209.244.102.20.NewYork2.Level3.net has connected.
+Fri Jun 25 12:33:28 1999 :: Loading Kagus.
+Fri Jun 25 12:33:28 1999 :: resolver_loop: Kagus@209.244.102.20
+Fri Jun 25 12:33:28 1999 :: resolv_done: Kagus@dialup-209.244.102.20.NewYork2.Level3.net
+Fri Jun 25 12:33:33 1999 :: Loading Kagus.
+Fri Jun 25 12:33:33 1999 :: Kagus@dialup-209.244.102.20.NewYork2.Level3.net has connected.
+Fri Jun 25 12:34:20 1999 :: Log Erebus: load mob 15003
+Fri Jun 25 12:34:58 1999 :: Log Erebus: force rat bonk self
+Fri Jun 25 12:39:06 1999 :: Log Erebus: slay rat
+Fri Jun 25 12:39:08 1999 :: Log Erebus: load mob 15003
+Fri Jun 25 12:46:17 1999 :: Ghontin has quit.
+Fri Jun 25 12:49:05 1999 :: sock.sinaddr: 206.190.74.105
+Fri Jun 25 12:49:15 1999 :: EOF encountered on read.
+Fri Jun 25 12:51:29 1999 :: [*****] BUG: Equip_char: already equipped (16).
+Fri Jun 25 12:52:51 1999 :: sock.sinaddr: 194.64.181.135
+Fri Jun 25 12:52:52 1999 :: Loading Voashnoon.
+Fri Jun 25 12:52:52 1999 :: resolver_loop: Voashnoon@194.64.181.135
+Fri Jun 25 12:52:52 1999 :: resolv_done: Voashnoon@deck-103.frankfurt.netsurf.de
+Fri Jun 25 12:52:59 1999 :: Loading Voashnoon.
+Fri Jun 25 12:52:59 1999 :: Voashnoon@deck-103.frankfurt.netsurf.de has connected.
+Fri Jun 25 12:55:24 1999 :: back_home: reset place not found
+Fri Jun 25 12:56:14 1999 :: Log Zhang: delete
+Fri Jun 25 12:56:14 1999 :: Log Zhang: delete
+Fri Jun 25 12:56:20 1999 :: Voashnoon has quit.
+Fri Jun 25 12:56:22 1999 :: sock.sinaddr: 194.64.181.135
+Fri Jun 25 12:56:24 1999 :: Loading Voashnoon.
+Fri Jun 25 12:56:24 1999 :: resolver_loop: Voashnoon@194.64.181.135
+Fri Jun 25 12:56:24 1999 :: resolv_done: Voashnoon@deck-103.frankfurt.netsurf.de
+Fri Jun 25 12:56:28 1999 :: Loading Voashnoon.
+Fri Jun 25 12:56:28 1999 :: Voashnoon@deck-103.frankfurt.netsurf.de has connected.
+Fri Jun 25 13:02:48 1999 :: Sergeant Arms: wait state 12
+Fri Jun 25 13:05:09 1999 :: white rabbit: wait state 18
+Fri Jun 25 13:05:13 1999 :: white rabbit: wait state 6
+Fri Jun 25 13:13:02 1999 :: sock.sinaddr: 194.64.181.182
+Fri Jun 25 13:13:03 1999 :: Loading Voashnoon.
+Fri Jun 25 13:13:03 1999 :: resolver_loop: Voashnoon@194.64.181.182
+Fri Jun 25 13:13:03 1999 :: resolv_done: Voashnoon@deck-150.frankfurt.netsurf.de
+Fri Jun 25 13:13:07 1999 :: Closing link to Voashnoon.
+Fri Jun 25 13:13:07 1999 :: Voashnoon@deck-150.frankfurt.netsurf.de reconnected.
+Fri Jun 25 13:14:33 1999 :: Zhang has quit.
+Fri Jun 25 13:14:35 1999 :: Guan has quit.
+Fri Jun 25 13:18:15 1999 :: white rabbit: wait state 24
+Fri Jun 25 13:22:51 1999 :: deduct cost: Voashnoon: ch->silver (23) < silver (-15)
+Fri Jun 25 13:22:52 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Fri Jun 25 13:22:52 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Fri Jun 25 13:22:52 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-88)
+Fri Jun 25 13:22:53 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Fri Jun 25 13:22:53 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-86)
+Fri Jun 25 13:22:53 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-66)
+Fri Jun 25 13:22:53 1999 :: deduct cost: Voashnoon: ch->silver (0) < silver (-57)
+Fri Jun 25 13:25:57 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 13:25:58 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 13:26:08 1999 :: Loading Zhang.
+Fri Jun 25 13:26:08 1999 :: resolver_loop: Zhang@208.132.43.96
+Fri Jun 25 13:26:09 1999 :: resolv_done: Zhang@elp-43-96.raex.com
+Fri Jun 25 13:26:10 1999 :: Loading Zhang.
+Fri Jun 25 13:26:10 1999 :: Zhang@elp-43-96.raex.com has connected.
+Fri Jun 25 13:26:16 1999 :: Loading Guan.
+Fri Jun 25 13:26:16 1999 :: resolver_loop: Guan@208.132.43.96
+Fri Jun 25 13:26:16 1999 :: resolv_done: Guan@elp-43-96.raex.com
+Fri Jun 25 13:26:16 1999 :: Loading Guan.
+Fri Jun 25 13:26:16 1999 :: Guan@elp-43-96.raex.com has connected.
+Fri Jun 25 13:34:02 1999 :: EOF encountered on read.
+Fri Jun 25 13:34:02 1999 :: Closing link to Zhang.
+Fri Jun 25 13:34:03 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 13:34:06 1999 :: resolver_loop: Zhanag@208.132.43.96
+Fri Jun 25 13:34:07 1999 :: resolv_done: Zhanag@elp-43-96.raex.com
+Fri Jun 25 13:34:08 1999 :: Loading Zhang.
+Fri Jun 25 13:34:09 1999 :: Zhang@elp-43-96.raex.com reconnected.
+Fri Jun 25 13:36:39 1999 :: Zhang has quit.
+Fri Jun 25 13:37:35 1999 :: Guan has quit.
+Fri Jun 25 13:44:10 1999 :: Voashnoon has quit.
+Fri Jun 25 13:44:12 1999 :: sock.sinaddr: 194.64.181.182
+Fri Jun 25 13:44:13 1999 :: Loading Voashnoon.
+Fri Jun 25 13:44:13 1999 :: resolver_loop: Voashnoon@194.64.181.182
+Fri Jun 25 13:44:14 1999 :: resolv_done: Voashnoon@deck-150.frankfurt.netsurf.de
+Fri Jun 25 13:44:14 1999 :: Loading Voashnoon.
+Fri Jun 25 13:44:14 1999 :: Voashnoon@deck-150.frankfurt.netsurf.de has connected.
+Fri Jun 25 13:44:32 1999 :: Log Erebus: load obj 24071
+Fri Jun 25 13:44:44 1999 :: Log Erebus: load obj 23036
+Fri Jun 25 13:50:40 1999 :: Voashnoon has quit.
+Fri Jun 25 13:50:46 1999 :: sock.sinaddr: 194.64.181.182
+Fri Jun 25 13:50:47 1999 :: Loading Voashnoon.
+Fri Jun 25 13:50:47 1999 :: resolver_loop: Voashnoon@194.64.181.182
+Fri Jun 25 13:50:47 1999 :: resolv_done: Voashnoon@deck-150.frankfurt.netsurf.de
+Fri Jun 25 13:50:50 1999 :: Loading Voashnoon.
+Fri Jun 25 13:50:50 1999 :: Voashnoon@deck-150.frankfurt.netsurf.de has connected.
+Fri Jun 25 13:56:18 1999 :: deduct cost: Urza: ch->silver (0) < silver (-76)
+Fri Jun 25 14:02:15 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 14:02:21 1999 :: Loading Guan.
+Fri Jun 25 14:02:21 1999 :: resolver_loop: Guan@208.132.43.96
+Fri Jun 25 14:02:21 1999 :: resolv_done: Guan@elp-43-96.raex.com
+Fri Jun 25 14:02:22 1999 :: Loading Guan.
+Fri Jun 25 14:02:22 1999 :: Guan@elp-43-96.raex.com has connected.
+Fri Jun 25 14:07:51 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:09:19 1999 :: sock.sinaddr: 152.172.77.152
+Fri Jun 25 14:09:23 1999 :: Loading Lazorus.
+Fri Jun 25 14:09:23 1999 :: resolver_loop: Lazorus@152.172.77.152
+Fri Jun 25 14:09:23 1999 :: resolv_done: Lazorus@98AC4D98.ipt.aol.com
+Fri Jun 25 14:09:24 1999 :: Loading Lazorus.
+Fri Jun 25 14:09:24 1999 :: Lazorus@98AC4D98.ipt.aol.com has connected.
+Fri Jun 25 14:10:51 1999 :: Lazorus has quit.
+Fri Jun 25 14:10:51 1999 :: sock.sinaddr: 152.172.77.152
+Fri Jun 25 14:13:39 1999 :: sock.sinaddr: 208.132.43.96
+Fri Jun 25 14:13:46 1999 :: Loading Zhang.
+Fri Jun 25 14:13:46 1999 :: resolver_loop: Zhang@208.132.43.96
+Fri Jun 25 14:13:47 1999 :: resolv_done: Zhang@elp-43-96.raex.com
+Fri Jun 25 14:13:49 1999 :: Wrong password by Zhang@elp-43-96.raex.com
+Fri Jun 25 14:13:52 1999 :: Loading Zhang.
+Fri Jun 25 14:13:52 1999 :: Zhang@elp-43-96.raex.com has connected.
+Fri Jun 25 14:31:16 1999 :: Guan has quit.
+Fri Jun 25 14:31:20 1999 :: Zhang has quit.
+Reseting area: [P] OBJ limit reached
+Fri Jun 25 14:41:12 1999 :: Kagus has quit.
+Fri Jun 25 14:41:13 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 14:41:35 1999 :: Urza has quit.
+Fri Jun 25 14:41:36 1999 :: sock.sinaddr: 209.244.102.20
+Fri Jun 25 14:42:00 1999 :: EOF encountered on read.
+Fri Jun 25 14:42:01 1999 :: EOF encountered on read.
+Fri Jun 25 14:49:20 1999 :: Loading Lazorus.
+Fri Jun 25 14:49:20 1999 :: resolver_loop: Lazorus@152.172.77.152
+Fri Jun 25 14:49:21 1999 :: resolv_done: Lazorus@98AC4D98.ipt.aol.com
+Fri Jun 25 14:49:21 1999 :: Loading Lazorus.
+Fri Jun 25 14:49:21 1999 :: Lazorus@98AC4D98.ipt.aol.com has connected.
+Fri Jun 25 14:49:48 1999 :: Lazorus has quit.
+Fri Jun 25 14:49:48 1999 :: sock.sinaddr: 152.172.77.152
+Fri Jun 25 14:50:44 1999 :: Voashnoon has quit.
+Fri Jun 25 14:50:46 1999 :: sock.sinaddr: 194.64.181.182
+Fri Jun 25 14:50:47 1999 :: Loading Voashnoon.
+Fri Jun 25 14:50:47 1999 :: resolver_loop: Voashnoon@194.64.181.182
+Fri Jun 25 14:50:47 1999 :: resolv_done: Voashnoon@deck-150.frankfurt.netsurf.de
+Fri Jun 25 14:51:12 1999 :: Loading Voashnoon.
+Fri Jun 25 14:51:12 1999 :: Voashnoon@deck-150.frankfurt.netsurf.de has connected.
+Fri Jun 25 14:53:14 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:53:21 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:54:25 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:54:36 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:54:39 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:55:03 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:56:17 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:56:53 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:57:04 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:57:08 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:57:29 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 14:57:46 1999 :: [*****] BUG: Set_fighting: already fighting
+Fri Jun 25 15:00:44 1999 :: EOF encountered on read.
+Fri Jun 25 15:10:48 1999 :: Voashnoon has quit.
+Fri Jun 25 15:19:09 1999 :: sock.sinaddr: 171.213.76.109
+Fri Jun 25 15:19:13 1999 :: Loading Ronkar.
+Fri Jun 25 15:19:13 1999 :: resolver_loop: Ronkar@171.213.76.109
+Fri Jun 25 15:19:13 1999 :: resolv_done: Ronkar@ABD54C6D.ipt.aol.com
+Fri Jun 25 15:19:16 1999 :: Loading Ronkar.
+Fri Jun 25 15:19:16 1999 :: Ronkar@ABD54C6D.ipt.aol.com has connected.
+Fri Jun 25 15:37:44 1999 :: sock.sinaddr: 216.122.4.37
+Fri Jun 25 15:37:48 1999 :: resolver_loop: Kittycat@216.122.4.37
+Fri Jun 25 15:37:52 1999 :: resolv_done: Kittycat@r37-4-dsl.sea.lightrealm.net
+Fri Jun 25 15:39:36 1999 :: Silena@r37-4-dsl.sea.lightrealm.net new player.
+Fri Jun 25 15:41:13 1999 :: Silena has quit.
+Fri Jun 25 15:45:21 1999 :: sock.sinaddr: 205.184.128.46
+Fri Jun 25 15:45:58 1999 :: EOF encountered on read.
+Fri Jun 25 15:48:44 1999 :: sock.sinaddr: 205.184.128.46
+Fri Jun 25 15:48:48 1999 :: Loading Whander.
+Fri Jun 25 15:48:48 1999 :: resolver_loop: Whander@205.184.128.46
+Fri Jun 25 15:48:48 1999 :: resolv_done: Whander@nyc-ny83-46.ix.netcom.com
+Fri Jun 25 15:48:50 1999 :: Loading Whander.
+Fri Jun 25 15:48:50 1999 :: Whander@nyc-ny83-46.ix.netcom.com has connected.
+Fri Jun 25 15:49:20 1999 :: sock.sinaddr: 205.184.128.46
+Fri Jun 25 15:49:23 1999 :: Loading Nibas.
+Fri Jun 25 15:49:23 1999 :: resolver_loop: Nibas@205.184.128.46
+Fri Jun 25 15:49:23 1999 :: resolv_done: Nibas@nyc-ny83-46.ix.netcom.com
+Fri Jun 25 15:49:24 1999 :: Loading Nibas.
+Fri Jun 25 15:49:24 1999 :: Nibas@nyc-ny83-46.ix.netcom.com has connected.
+Fri Jun 25 15:49:58 1999 :: sock.sinaddr: 194.64.181.182
+Fri Jun 25 15:50:01 1999 :: Loading Voashnoon.
+Fri Jun 25 15:50:01 1999 :: resolver_loop: Voashnoon@194.64.181.182
+Fri Jun 25 15:50:01 1999 :: resolv_done: Voashnoon@deck-150.frankfurt.netsurf.de
+Fri Jun 25 15:50:03 1999 :: Loading Voashnoon.
+Fri Jun 25 15:50:03 1999 :: Voashnoon@deck-150.frankfurt.netsurf.de has connected.
+Fri Jun 25 15:50:05 1999 :: sock.sinaddr: 171.213.76.109
+Fri Jun 25 15:50:25 1999 :: Loading Anakin.
+Fri Jun 25 15:50:25 1999 :: resolver_loop: Anakin@171.213.76.109
+Fri Jun 25 15:50:26 1999 :: resolv_done: Anakin@ABD54C6D.ipt.aol.com
+Fri Jun 25 15:50:28 1999 :: Loading Anakin.
+Fri Jun 25 15:50:28 1999 :: Anakin@ABD54C6D.ipt.aol.com has connected.
+Fri Jun 25 15:51:58 1999 :: Voashnoon has quit.
+Fri Jun 25 15:52:54 1999 :: Anakin has quit.
+Fri Jun 25 16:28:12 1999 :: Whander has quit.
+Fri Jun 25 16:28:13 1999 :: sock.sinaddr: 205.184.128.46
+Fri Jun 25 16:28:14 1999 :: Nibas has quit.
+Fri Jun 25 16:28:15 1999 :: sock.sinaddr: 205.184.128.46
+Fri Jun 25 16:28:19 1999 :: EOF encountered on read.
+Fri Jun 25 16:28:20 1999 :: EOF encountered on read.
+Read_from_descriptor: Connection reset by peer
+Fri Jun 25 16:35:23 1999 :: Closing link to Erebus.
+Read_from_descriptor: Connection reset by peer
+Fri Jun 25 16:48:59 1999 :: Closing link to Ronkar.
+Fri Jun 25 16:49:17 1999 :: sock.sinaddr: 171.213.76.109

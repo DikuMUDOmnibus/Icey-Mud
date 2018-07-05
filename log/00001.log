@@ -1,0 +1,4 @@
+Thu Mar 25 03:36:06 1999 :: spell_mana_transfer: not touched
+Thu Mar 25 03:36:06 1999 :: spell_plant_form: not touched
+Thu Mar 25 03:36:09 1999 :: area/shaolin.are: line 466: attack_lookup: ship: Unknown attack name
+resolver_loop: Illegal seek

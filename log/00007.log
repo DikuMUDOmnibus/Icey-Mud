@@ -1,0 +1,4 @@
+Mon May 31 11:16:08 1999 :: spell_mana_transfer: not touched
+Mon May 31 11:16:08 1999 :: spell_plant_form: not touched
+Mon May 31 11:16:09 1999 :: area/midgaard.are: line 8397: get_obj_index: bad vnum 3746.
+resolver_loop: Illegal seek
